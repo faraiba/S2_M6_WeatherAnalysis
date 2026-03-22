@@ -1,4 +1,4 @@
-import os
+iimport os
 import json
 import html
 import sqlite3
@@ -203,7 +203,7 @@ The poem must:
 1. compare the weather in all three locations,
 2. describe the differences clearly,
 3. suggest where it would be nicest to be tomorrow,
-4. be bilingual: first English, then Persian,
+4. be bilingual: first English, then Bengali,
 5. be concise but creative,
 6. explicitly mention the best place as: {best_place}
 
