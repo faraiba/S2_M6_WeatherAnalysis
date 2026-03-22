@@ -3,6 +3,8 @@
 
 This project is a small automated data pipeline for a university assignment.
 
+# See website: https://faraiba.github.io/S2_M6_WeatherAnalysis/
+
 ## What it does
 
 Every day, the pipeline:
