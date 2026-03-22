@@ -2,10 +2,111 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Automated Weather Pipeline</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Automated Weather Poem</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 16px;
+      line-height: 1.6;
+      background: #f8fbff;
+      color: #1f2937;
+    }
+    h1, h2 {
+      color: #0f172a;
+    }
+    .card {
+      background: white;
+      border-radius: 14px;
+      padding: 20px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+      margin-bottom: 24px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+    }
+    th, td {
+      border: 1px solid #dbeafe;
+      padding: 10px;
+      text-align: left;
+    }
+    th {
+      background: #e0f2fe;
+    }
+    .small {
+      color: #475569;
+      font-size: 0.95rem;
+    }
+    pre {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      font-family: inherit;
+      font-size: 1.05rem;
+    }
+  </style>
 </head>
 <body>
-  <h1>Weather pipeline is ready</h1>
-  <p>This page will be updated automatically by GitHub Actions.</p>
+  <h1>Automated Weather Pipeline</h1>
+
+  <div class="card">
+    <h2>Bilingual Weather Poem</h2>
+    <pre>As tomorrow dawns, three cities sway,<br>Dhaka&#x27;s warmth, a gentle summer day,<br>Copenhagen&#x27;s chill, with winds so bright,<br>Aalborg&#x27;s gusts, a colder, darker night.<br><br>Dhaka&#x27;s sunshine, with zero rain,<br>Beckons us, with a gentle refrain,<br>A place to bask, in warmth so fine,<br>Dhaka, Bangladesh, the best place to shine.<br><br> فردا، سه شهر به hareket می‌کنند<br>داکا با گرمای ملایم، روز تابستانی<br>کپنهاگ با سرما، بادهای روشن<br>آلبورگ با طوفان، شب تاریک و سرد<br><br>داکا با آفتابی، بدون باران<br>ما را به خود فرا می‌خواند، با نغمه‌ای آرامی<br>جایی برای آغوش گرم، در زیبایی<br>داکا، بنگلادش، بهترین جا برای درخشیدن</pre>
+  </div>
+
+  <div class="card">
+    <h2>Tomorrow's Forecast</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Type</th>
+          <th>Location</th>
+          <th>Date</th>
+          <th>Max Temp</th>
+          <th>Precipitation</th>
+          <th>Max Wind</th>
+          <th>Humidity</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+            <tr>
+              <td>Place of birth</td>
+              <td>Dhaka, Bangladesh</td>
+              <td>2026-03-24</td>
+              <td>29.8 °C</td>
+              <td>0.0 mm</td>
+              <td>8.1 km/h</td>
+              <td>67 %</td>
+            </tr>
+            
+            <tr>
+              <td>Last residence before Aalborg</td>
+              <td>Copenhagen, Denmark</td>
+              <td>2026-03-23</td>
+              <td>11.4 °C</td>
+              <td>0.0 mm</td>
+              <td>12.2 km/h</td>
+              <td>74 %</td>
+            </tr>
+            
+            <tr>
+              <td>Current city</td>
+              <td>Aalborg, Denmark</td>
+              <td>2026-03-23</td>
+              <td>9.3 °C</td>
+              <td>0.0 mm</td>
+              <td>19.1 km/h</td>
+              <td>80 %</td>
+            </tr>
+            
+      </tbody>
+    </table>
+  </div>
+
+  <p class="small">Last generated: 2026-03-22T22:36:47Z</p>
 </body>
 </html>
