@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-03-23",
-      "temperature_2m_max": 11.4,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 12.2,
-      "relative_humidity_2m_mean": 74
+      "forecast_date": "2026-03-24",
+      "temperature_2m_max": 11.1,
+      "precipitation_sum": 1.0,
+      "wind_speed_10m_max": 23.0,
+      "relative_humidity_2m_mean": 83
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-03-23",
-      "temperature_2m_max": 9.3,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.1,
-      "relative_humidity_2m_mean": 80
+      "forecast_date": "2026-03-24",
+      "temperature_2m_max": 9.2,
+      "precipitation_sum": 3.1,
+      "wind_speed_10m_max": 29.5,
+      "relative_humidity_2m_mean": 90
     }
   ],
-  "poem": "As tomorrow dawns, three cities sway,\nDhaka's warmth, a gentle summer day,\nCopenhagen's chill, with winds so bright,\nAalborg's gusts, a colder, darker night.\n\nDhaka's sunshine, with zero rain,\nBeckons us, with a gentle refrain,\nA place to bask, in warmth so fine,\nDhaka, Bangladesh, the best place to shine.\n\n فردا، سه شهر به hareket می‌کنند\nداکا با گرمای ملایم، روز تابستانی\nکپنهاگ با سرما، بادهای روشن\nآلبورگ با طوفان، شب تاریک و سرد\n\nداکا با آفتابی، بدون باران\nما را به خود فرا می‌خواند، با نغمه‌ای آرامی\nجایی برای آغوش گرم، در زیبایی\nداکا، بنگلادش، بهترین جا برای درخشیدن"
+  "poem": "Tomorrow's skies, so different they seem,\nIn Dhaka, warm sunshine will gently beam,\n29.8 degrees, a pleasant, calm day,\nNo rain, just gentle breeze, in a lovely way.\nIn Copenhagen, clouds will bring some grey,\n11.1 degrees, with wind and rain to stay,\nAalborg's chill, with 9.2 degrees, will bite,\nRain and strong winds, a less pleasant sight.\nSo, if you can, head to Dhaka's delight,\nWhere warmth and peace, will make everything right.\n\nআগামী দিনের আকাশ, এত ভিন্ন মনে হয়,\nঢাকায়, উষ্ণ সূর্যের আলো সমারোহে ঝলমলিয়ে উঠবে,\n২৯.৮ ডিগ্রি, একটি সুন্দর, শান্ত দিন,\nকোন বৃষ্টি নেই, শুধু নরম বাতাস, একটি সুন্দর উপায়ে।\nকোপেনহেগেনে, মেঘ কিছু ধূসর নিয়ে আসবে,\n১১.১ ডিগ্রি, বাতাস এবং বৃষ্টি থাকবে,\nঅলবোর্গের শীত, ৯.২ ডিগ্রি সহ, কামড় দেবে,\nবৃষ্টি এবং শক্তিশালী বাত"
 }
