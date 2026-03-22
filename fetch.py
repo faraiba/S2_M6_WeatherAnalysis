@@ -203,9 +203,12 @@ The poem must:
 1. compare the weather in all three locations,
 2. describe the differences clearly,
 3. suggest where it would be nicest to be tomorrow,
-4. be bilingual: first English, then Bengali,
-5. be concise but creative,
-6. explicitly mention the best place as: {best_place}
+4. write in EXACTLY two languages:
+   - first English
+   - then Bengali
+5. do NOT use Persian,
+6. be concise but creative,
+7. explicitly mention the best place as: {best_place}
 
 Weather data:
 {chr(10).join(weather_lines)}
