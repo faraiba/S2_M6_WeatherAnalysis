@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-03-24",
-      "temperature_2m_max": 29.8,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 8.1,
-      "relative_humidity_2m_mean": 67
+      "forecast_date": "2026-03-25",
+      "temperature_2m_max": 31.1,
+      "precipitation_sum": 1.8,
+      "wind_speed_10m_max": 10.8,
+      "relative_humidity_2m_mean": 78
     },
     {
       "label": "Last residence before Aalborg",
@@ -21,10 +21,10 @@
       "latitude": 55.67594,
       "longitude": 12.56553,
       "forecast_date": "2026-03-24",
-      "temperature_2m_max": 11.1,
-      "precipitation_sum": 1.0,
-      "wind_speed_10m_max": 23.0,
-      "relative_humidity_2m_mean": 83
+      "temperature_2m_max": 10.1,
+      "precipitation_sum": 2.1,
+      "wind_speed_10m_max": 25.6,
+      "relative_humidity_2m_mean": 85
     },
     {
       "label": "Current city",
@@ -34,11 +34,11 @@
       "latitude": 57.048,
       "longitude": 9.9187,
       "forecast_date": "2026-03-24",
-      "temperature_2m_max": 9.2,
-      "precipitation_sum": 3.1,
-      "wind_speed_10m_max": 29.5,
-      "relative_humidity_2m_mean": 90
+      "temperature_2m_max": 9.5,
+      "precipitation_sum": 2.8,
+      "wind_speed_10m_max": 29.9,
+      "relative_humidity_2m_mean": 91
     }
   ],
-  "poem": "As tomorrow dawns, three cities tell their tale,\nDhaka's warmth and sunshine, a gentle, balmy gale.\nCopenhagen's chill and rain, a somber, greyish hue,\nAalborg's windy, wet, and cold, a day to stay indoors, too.\nDhaka's the place to be, with clear skies and gentle breeze,\nA perfect day to soak up the sun's warm, golden ease.\n\nআগামীকাল ভোরে, তিনটি শহর তাদের গল্প বলে,\nঢাকার উষ্ণতা এবং সূর্যালোক, একটি নম্র, সুন্দর হাওয়া।\nকোপেনহেগেনের শীত এবং বৃষ্টি, একটি মেঘলা, ধূসর রঙ,\nআলবোর্গের বাতাস, ভেজা, ঠাণ্ডা, একটি দিন ঘরে থাকার জন্য।\nঢাকা হল সেরা জায়গা, পরিষ্কার আকাশ এবং নম্র হাওয়ায়,\nসূর্যের উষ্ণ, সোনালি স্বাচ্ছন্দ্য শোষণ করার জন্য একটি নিখুঁত দিন।"
+  "poem": "Tomorrow's forecast unfolds,\nDhaka's warmth, a gentle hold, 31 degrees high, a soothing breeze.\nCopenhagen and Aalborg, chilly and grey, winds howl, rain falls, a dismal day.\nDhaka's the place, where sunshine stays, a haven from the cold, harsh ways.\n\nআগামী দিনের আবহাওয়ার কথা ভাবছি,\nঢাকার গরম, এক সুখদ আশ্রয়, ৩১ ডিগ্রি তাপ, এক সুখদ বাতাস।\nকোপেনহেগেন আর অলবোর্গ, শীতল আর মেঘলা, বাতাস তীব্র, বৃষ্টি পড়ে, এক কষ্টের দিন।\nঢাকাই সেরা, যেখানে সূর্যের আলো থাকে, শীতল ও কঠোর দিন থেকে এক আশ্রয়।"
 }
