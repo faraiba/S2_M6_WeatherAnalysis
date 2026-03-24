@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-03-25",
-      "temperature_2m_max": 31.1,
-      "precipitation_sum": 1.8,
-      "wind_speed_10m_max": 10.8,
-      "relative_humidity_2m_mean": 78
+      "forecast_date": "2026-03-26",
+      "temperature_2m_max": 32.7,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 7.8,
+      "relative_humidity_2m_mean": 77
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-03-24",
-      "temperature_2m_max": 10.1,
-      "precipitation_sum": 2.1,
-      "wind_speed_10m_max": 25.6,
-      "relative_humidity_2m_mean": 85
+      "forecast_date": "2026-03-25",
+      "temperature_2m_max": 8.6,
+      "precipitation_sum": 1.7,
+      "wind_speed_10m_max": 33.5,
+      "relative_humidity_2m_mean": 80
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-03-24",
-      "temperature_2m_max": 9.5,
-      "precipitation_sum": 2.8,
-      "wind_speed_10m_max": 29.9,
-      "relative_humidity_2m_mean": 91
+      "forecast_date": "2026-03-25",
+      "temperature_2m_max": 9.2,
+      "precipitation_sum": 11.0,
+      "wind_speed_10m_max": 44.6,
+      "relative_humidity_2m_mean": 86
     }
   ],
-  "poem": "Tomorrow's forecast unfolds,\nDhaka's warmth, a gentle hold, 31 degrees high, a soothing breeze.\nCopenhagen and Aalborg, chilly and grey, winds howl, rain falls, a dismal day.\nDhaka's the place, where sunshine stays, a haven from the cold, harsh ways.\n\nআগামী দিনের আবহাওয়ার কথা ভাবছি,\nঢাকার গরম, এক সুখদ আশ্রয়, ৩১ ডিগ্রি তাপ, এক সুখদ বাতাস।\nকোপেনহেগেন আর অলবোর্গ, শীতল আর মেঘলা, বাতাস তীব্র, বৃষ্টি পড়ে, এক কষ্টের দিন।\nঢাকাই সেরা, যেখানে সূর্যের আলো থাকে, শীতল ও কঠোর দিন থেকে এক আশ্রয়।"
+  "poem": "Tomorrow's forecast unfolds,\nDhaka's warmth, a gentle hold, 32.7 degrees high,\nCopenhagen's chill, with rain to tell, 8.6 degrees cold,\nAalborg's wind, and rain to compel, 9.2 degrees grey.\nDhaka's the place, where sunshine will stay,\nNo rain, just breeze, on a warm March day,\nThe best place to be, come what may, Dhaka, Bangladesh.\n\nআগামীকালের আবহাওয়া বিস্তারিত,\nঢাকার গরম, একটি সুন্দর দিন,\nকোপেনহেগেনের শীত, বৃষ্টির সাথে,\nঅলবোর্গের বাতাস, বৃষ্টির সঙ্গে,\nঢাকা হল সেই স্থান, যেখানে সূর্যের আলো থাকবে,\nকোন বৃষ্টি নয়, শুধু হালকা বাতাস, একটি উষ্ণ মার্চ দিনে,\nসবচেয়ে ভাল জায়গা, ঢাকা, বাংলাদেশ।"
 }
