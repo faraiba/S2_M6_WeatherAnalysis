@@ -7,10 +7,10 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-03-26",
+      "forecast_date": "2026-03-27",
       "temperature_2m_max": 32.7,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 7.8,
+      "precipitation_sum": 2.4,
+      "wind_speed_10m_max": 12.3,
       "relative_humidity_2m_mean": 77
     },
     {
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-03-25",
-      "temperature_2m_max": 8.6,
-      "precipitation_sum": 1.7,
-      "wind_speed_10m_max": 33.5,
-      "relative_humidity_2m_mean": 80
+      "forecast_date": "2026-03-26",
+      "temperature_2m_max": 7.8,
+      "precipitation_sum": 1.0,
+      "wind_speed_10m_max": 31.0,
+      "relative_humidity_2m_mean": 76
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-03-25",
+      "forecast_date": "2026-03-26",
       "temperature_2m_max": 9.2,
-      "precipitation_sum": 11.0,
-      "wind_speed_10m_max": 44.6,
-      "relative_humidity_2m_mean": 86
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 39.6,
+      "relative_humidity_2m_mean": 76
     }
   ],
-  "poem": "Tomorrow's forecast unfolds,\nDhaka's warmth, a gentle hold, 32.7 degrees high,\nCopenhagen's chill, with rain to tell, 8.6 degrees cold,\nAalborg's wind, and rain to compel, 9.2 degrees grey.\nDhaka's the place, where sunshine will stay,\nNo rain, just breeze, on a warm March day,\nThe best place to be, come what may, Dhaka, Bangladesh.\n\nআগামীকালের আবহাওয়া বিস্তারিত,\nঢাকার গরম, একটি সুন্দর দিন,\nকোপেনহেগেনের শীত, বৃষ্টির সাথে,\nঅলবোর্গের বাতাস, বৃষ্টির সঙ্গে,\nঢাকা হল সেই স্থান, যেখানে সূর্যের আলো থাকবে,\nকোন বৃষ্টি নয়, শুধু হালকা বাতাস, একটি উষ্ণ মার্চ দিনে,\nসবচেয়ে ভাল জায়গা, ঢাকা, বাংলাদেশ।"
+  "poem": "As tomorrow's forecast unfolds,\nDhaka's warmth with sunshine holds,\nCopenhagen's chill begins to bite,\nAalborg's winds howl through the night.\nDhaka's gentle breeze and sunny rays,\nMake it the best place for tomorrow's days.\n\nআগামীদিনের আবহাওয়ার রূপকথা যেমন খোলে,\nঢাকার উষ্ণতা ও সূর্যের আলো ধরে রাখে,\nকোপেনহেগেনের শীত শুরু হয়,\nঅলবোর্গের বাতাস রাতে চিৎকার করে।\nঢাকার সৌম্য বাতাস ও সূর্যের আলো\nআগামীদিন ব্যয় করার জন্য সেরা জায়গা তৈরি করে।"
 }
