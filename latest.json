@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-03-27",
-      "temperature_2m_max": 32.7,
-      "precipitation_sum": 2.4,
-      "wind_speed_10m_max": 12.3,
-      "relative_humidity_2m_mean": 77
+      "forecast_date": "2026-03-28",
+      "temperature_2m_max": 28.5,
+      "precipitation_sum": 23.1,
+      "wind_speed_10m_max": 10.7,
+      "relative_humidity_2m_mean": 88
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-03-26",
-      "temperature_2m_max": 7.8,
-      "precipitation_sum": 1.0,
-      "wind_speed_10m_max": 31.0,
-      "relative_humidity_2m_mean": 76
+      "forecast_date": "2026-03-27",
+      "temperature_2m_max": 10.4,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 14.8,
+      "relative_humidity_2m_mean": 70
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-03-26",
-      "temperature_2m_max": 9.2,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 39.6,
-      "relative_humidity_2m_mean": 76
+      "forecast_date": "2026-03-27",
+      "temperature_2m_max": 9.6,
+      "precipitation_sum": 1.5,
+      "wind_speed_10m_max": 25.9,
+      "relative_humidity_2m_mean": 77
     }
   ],
-  "poem": "As tomorrow's forecast unfolds,\nDhaka's warmth with sunshine holds,\nCopenhagen's chill begins to bite,\nAalborg's winds howl through the night.\nDhaka's gentle breeze and sunny rays,\nMake it the best place for tomorrow's days.\n\nআগামীদিনের আবহাওয়ার রূপকথা যেমন খোলে,\nঢাকার উষ্ণতা ও সূর্যের আলো ধরে রাখে,\nকোপেনহেগেনের শীত শুরু হয়,\nঅলবোর্গের বাতাস রাতে চিৎকার করে।\nঢাকার সৌম্য বাতাস ও সূর্যের আলো\nআগামীদিন ব্যয় করার জন্য সেরা জায়গা তৈরি করে।"
+  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's calm, a gentle breeze,\nAalborg's chill, with winds that freeze.\nCopenhagen, Denmark, the best place to be,\nWith clear skies, and a gentle glee.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সাগর,\nকোপেনহেগেনের শান্ত, একটি সুমধুর বাতাস,\nঅলবোর্গের শীত, বাতাসের সাথে জমে যায়।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা হবে,\nপরিষ্কার আকাশ, এবং একটি সুমধুর আনন্দের সাথে।"
 }
