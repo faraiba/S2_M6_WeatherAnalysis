@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-03-28",
-      "temperature_2m_max": 28.5,
-      "precipitation_sum": 23.1,
-      "wind_speed_10m_max": 10.7,
-      "relative_humidity_2m_mean": 88
+      "forecast_date": "2026-03-29",
+      "temperature_2m_max": 29.8,
+      "precipitation_sum": 0.9,
+      "wind_speed_10m_max": 6.6,
+      "relative_humidity_2m_mean": 81
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-03-27",
-      "temperature_2m_max": 10.4,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 14.8,
-      "relative_humidity_2m_mean": 70
+      "forecast_date": "2026-03-28",
+      "temperature_2m_max": 8.9,
+      "precipitation_sum": 2.1,
+      "wind_speed_10m_max": 20.5,
+      "relative_humidity_2m_mean": 82
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-03-27",
-      "temperature_2m_max": 9.6,
-      "precipitation_sum": 1.5,
-      "wind_speed_10m_max": 25.9,
-      "relative_humidity_2m_mean": 77
+      "forecast_date": "2026-03-28",
+      "temperature_2m_max": 9.8,
+      "precipitation_sum": 0.4,
+      "wind_speed_10m_max": 28.4,
+      "relative_humidity_2m_mean": 83
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's calm, a gentle breeze,\nAalborg's chill, with winds that freeze.\nCopenhagen, Denmark, the best place to be,\nWith clear skies, and a gentle glee.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সাগর,\nকোপেনহেগেনের শান্ত, একটি সুমধুর বাতাস,\nঅলবোর্গের শীত, বাতাসের সাথে জমে যায়।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা হবে,\nপরিষ্কার আকাশ, এবং একটি সুমধুর আনন্দের সাথে।"
+  "poem": "Tomorrow's skies, a tale of three lands,\nDhaka's warmth, a gentle breeze that stands,\nCopenhagen's chill, with winds that do bite,\nAalborg's mix, of rain and cloudy night.\nDhaka's sunshine, with temperatures so bright,\nMakes it the haven, for a peaceful sight.\n \nআগামীদিনের আকাশ, তিন দেশের গল্প,\nঢাকার উষ্ণতা, এক সুখদ বাতাস যা দাঁড়ায়,\nকোপেনহেগেনের শীত, হাওয়া যা কামড়ে,\nআলবর্গের মিশ্রণ, বৃষ্টি আর মেঘলা রাত।\nঢাকার সূর্যালোক, তাপমাত্রা যা আলোকিত,\nএটি শান্ত দৃশ্যের জন্য আশ্রয়স্থল করে তোলে।"
 }
