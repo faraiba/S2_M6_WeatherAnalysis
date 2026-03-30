@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-03-31",
-      "temperature_2m_max": 32.0,
-      "precipitation_sum": 1.3,
-      "wind_speed_10m_max": 10.5,
-      "relative_humidity_2m_mean": 81
+      "forecast_date": "2026-04-01",
+      "temperature_2m_max": 33.0,
+      "precipitation_sum": 0.3,
+      "wind_speed_10m_max": 8.1,
+      "relative_humidity_2m_mean": 76
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-03-30",
-      "temperature_2m_max": 9.2,
-      "precipitation_sum": 3.1,
-      "wind_speed_10m_max": 31.0,
-      "relative_humidity_2m_mean": 79
+      "forecast_date": "2026-03-31",
+      "temperature_2m_max": 11.0,
+      "precipitation_sum": 0.1,
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 77
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-03-30",
-      "temperature_2m_max": 8.5,
-      "precipitation_sum": 1.6,
-      "wind_speed_10m_max": 30.6,
-      "relative_humidity_2m_mean": 87
+      "forecast_date": "2026-03-31",
+      "temperature_2m_max": 11.3,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 31.3,
+      "relative_humidity_2m_mean": 75
     }
   ],
-  "poem": "As tomorrow dawns, three cities await,\nDhaka's warmth, a gentle, sunny state,\nCopenhagen's chill, with winds so strong,\nAalborg's grey, with humidity all day long.\nDhaka's the place, where warmth and calm entwine,\nA perfect day, with sunshine divine.\n\nআগামীকাল ভোরে, তিনটি শহর অপেক্ষা করছে,\nঢাকার উষ্ণতা, একটি নম্র, সূর্যোদয়ের অবস্থা,\nকোপেনহেগেনের শীত, শক্তিশালী বাতাসে,\nঅলবোর্গের ধোঁয়া, আর্দ্রতা সব দিন ধরে।\nঢাকা হল জায়গা, যেখানে উষ্ণতা এবং শান্তি মিশে যায়,\nএকটি নিখুঁত দিন, সূর্যের আলোতে ভরা।"
+  "poem": "As tomorrow dawns, three cities unfold,\nDhaka's warmth, 33 degrees to hold,\nCopenhagen and Aalborg, chill and grey,\n11 degrees, a chilly, windy day.\nDhaka's gentle breeze, a peaceful sight,\nAalborg's gusts, a blustery, cold night.\nIf I had to choose, I'd flee the cold,\nTo Dhaka, Bangladesh, where love would unfold.\n\nআগামীকাল ভোরে, তিনটি শহর উন্মোচিত হবে,\nঢাকায় গরম, ৩৩ ডিগ্রি ধরে রাখবে,\nকোপেনহেগেন ও অ্যালবর্গ, শীতল ও মেঘলা,\n১১ ডিগ্রি, একটি শীতল, বাতাসপূর্ণ দিন।\nঢাকার নরম বাতাস, একটি শান্ত দৃশ্য,\nঅ্যালবর্গের বাতাস, একটি শীতল, বাতাসপূর্ণ রাত।\nযদি আমাকে বেছে নিতে হয়, আমি শীতকে পরিত্যাগ করব,\nঢাকা, বাংলাদেশে, যেখানে ভালবাসা উন্মোচিত হবে।"
 }
