@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-01",
-      "temperature_2m_max": 33.0,
-      "precipitation_sum": 0.3,
-      "wind_speed_10m_max": 8.1,
-      "relative_humidity_2m_mean": 76
+      "forecast_date": "2026-04-02",
+      "temperature_2m_max": 35.6,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 11.8,
+      "relative_humidity_2m_mean": 68
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-03-31",
-      "temperature_2m_max": 11.0,
-      "precipitation_sum": 0.1,
-      "wind_speed_10m_max": 19.1,
-      "relative_humidity_2m_mean": 77
+      "forecast_date": "2026-04-01",
+      "temperature_2m_max": 12.9,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 14.4,
+      "relative_humidity_2m_mean": 75
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-03-31",
-      "temperature_2m_max": 11.3,
+      "forecast_date": "2026-04-01",
+      "temperature_2m_max": 12.6,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 31.3,
-      "relative_humidity_2m_mean": 75
+      "wind_speed_10m_max": 16.9,
+      "relative_humidity_2m_mean": 86
     }
   ],
-  "poem": "As tomorrow dawns, three cities unfold,\nDhaka's warmth, 33 degrees to hold,\nCopenhagen and Aalborg, chill and grey,\n11 degrees, a chilly, windy day.\nDhaka's gentle breeze, a peaceful sight,\nAalborg's gusts, a blustery, cold night.\nIf I had to choose, I'd flee the cold,\nTo Dhaka, Bangladesh, where love would unfold.\n\nআগামীকাল ভোরে, তিনটি শহর উন্মোচিত হবে,\nঢাকায় গরম, ৩৩ ডিগ্রি ধরে রাখবে,\nকোপেনহেগেন ও অ্যালবর্গ, শীতল ও মেঘলা,\n১১ ডিগ্রি, একটি শীতল, বাতাসপূর্ণ দিন।\nঢাকার নরম বাতাস, একটি শান্ত দৃশ্য,\nঅ্যালবর্গের বাতাস, একটি শীতল, বাতাসপূর্ণ রাত।\nযদি আমাকে বেছে নিতে হয়, আমি শীতকে পরিত্যাগ করব,\nঢাকা, বাংলাদেশে, যেখানে ভালবাসা উন্মোচিত হবে।"
+  "poem": "Tomorrow's skies, so different far and wide,\nDhaka's heat will rise, with temperatures high,\nCopenhagen's breeze, a gentle, cool delight,\nAalborg's winds, a bit stronger, but still a pleasant sight.\nCopenhagen, Denmark, the best place to be,\nWith mild temperatures, a perfect day to see.\n\nআগামীদিনের আকাশ, দূর দূরে ভিন্ন,\nঢাকার তাপ, বেড়ে যাবে, উচ্চ তাপমাত্রা,\nকোপেনহেগেনের বাতাস, একটি নরম, শীতল আনন্দ,\nআলবর্গের বাতাস, একটু শক্ত, কিন্তু এখনও একটি সুন্দর দৃশ্য।\nকোপেনহেগেন, ডেনমার্ক, সেরা জায়গা থাকতে,\nমৃদু তাপমাত্রা, একটি নিখুঁত দিন দেখতে।"
 }
