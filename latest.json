@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-03",
-      "temperature_2m_max": 36.4,
+      "forecast_date": "2026-04-04",
+      "temperature_2m_max": 37.0,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 10.5,
-      "relative_humidity_2m_mean": 71
+      "wind_speed_10m_max": 10.9,
+      "relative_humidity_2m_mean": 72
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-02",
-      "temperature_2m_max": 11.6,
-      "precipitation_sum": 0.6,
-      "wind_speed_10m_max": 18.4,
-      "relative_humidity_2m_mean": 74
+      "forecast_date": "2026-04-03",
+      "temperature_2m_max": 9.1,
+      "precipitation_sum": 0.7,
+      "wind_speed_10m_max": 20.5,
+      "relative_humidity_2m_mean": 70
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-02",
-      "temperature_2m_max": 8.8,
-      "precipitation_sum": 0.7,
-      "wind_speed_10m_max": 24.8,
-      "relative_humidity_2m_mean": 86
+      "forecast_date": "2026-04-03",
+      "temperature_2m_max": 8.9,
+      "precipitation_sum": 3.1,
+      "wind_speed_10m_max": 28.1,
+      "relative_humidity_2m_mean": 82
     }
   ],
-  "poem": "As tomorrow's forecast unfolds,\nDhaka's heat will reach thirty-six degrees to hold,\nCopenhagen's gentle breeze will whisper low,\nAalborg's chill will bite, with winds that blow.\nCopenhagen, Denmark, a haven to be,\nWith mild temps and mist, a perfect spree.\n\nআগামীদিন যদি আমি বেছে নিই,\nঢাকার গরম অনুভব করতে চাই না,\nকোপেনহেগেন, ডেনমার্কে হবে সেরা,\nমন্দ আবহাওয়ার থেকে দূরে থাকতে চাই।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, warmth and sunshine dwell,\n37 degrees, a gentle breeze,\nA perfect day, with clear ease.\nIn contrast, Copenhagen's chill,\n9 degrees, with winds that fulfill,\nAalborg's rain, a gloomy sight,\nMakes Dhaka, the nicest in sight.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায়, উষ্ণতা এবং সূর্যালোক বাস করে,\n৩৭ ডিগ্রি, একটি সুন্দর বাতাস,\nএকটি নিখুঁত দিন, পরিষ্কার স্বচ্ছতা।\nবিপরীতে, কোপেনহেগেনের শীত,\n৯ ডিগ্রি, বাতাস যা পূরণ করে,\nঅ্যালবোর্গের বৃষ্টি, একটি মেঘলা দৃশ্য,\nঢাকাকে, সবচেয়ে সুন্দর স্থান করে তোলে।"
 }
