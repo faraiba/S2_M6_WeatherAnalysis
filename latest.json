@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-04",
-      "temperature_2m_max": 37.0,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 10.9,
-      "relative_humidity_2m_mean": 72
+      "forecast_date": "2026-04-05",
+      "temperature_2m_max": 35.5,
+      "precipitation_sum": 0.3,
+      "wind_speed_10m_max": 11.2,
+      "relative_humidity_2m_mean": 73
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-03",
-      "temperature_2m_max": 9.1,
-      "precipitation_sum": 0.7,
-      "wind_speed_10m_max": 20.5,
-      "relative_humidity_2m_mean": 70
+      "forecast_date": "2026-04-04",
+      "temperature_2m_max": 10.2,
+      "precipitation_sum": 1.2,
+      "wind_speed_10m_max": 32.4,
+      "relative_humidity_2m_mean": 72
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-03",
-      "temperature_2m_max": 8.9,
-      "precipitation_sum": 3.1,
-      "wind_speed_10m_max": 28.1,
-      "relative_humidity_2m_mean": 82
+      "forecast_date": "2026-04-04",
+      "temperature_2m_max": 8.8,
+      "precipitation_sum": 2.1,
+      "wind_speed_10m_max": 34.9,
+      "relative_humidity_2m_mean": 79
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, warmth and sunshine dwell,\n37 degrees, a gentle breeze,\nA perfect day, with clear ease.\nIn contrast, Copenhagen's chill,\n9 degrees, with winds that fulfill,\nAalborg's rain, a gloomy sight,\nMakes Dhaka, the nicest in sight.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায়, উষ্ণতা এবং সূর্যালোক বাস করে,\n৩৭ ডিগ্রি, একটি সুন্দর বাতাস,\nএকটি নিখুঁত দিন, পরিষ্কার স্বচ্ছতা।\nবিপরীতে, কোপেনহেগেনের শীত,\n৯ ডিগ্রি, বাতাস যা পূরণ করে,\nঅ্যালবোর্গের বৃষ্টি, একটি মেঘলা দৃশ্য,\nঢাকাকে, সবচেয়ে সুন্দর স্থান করে তোলে।"
+  "poem": "Tomorrow's skies, so different they stand,\nIn Dhaka, warmth with sunshine in hand,\nWhile Copenhagen's chill begins to bite,\nAnd Aalborg's winds howl through the night.\nDhaka's gentle breeze, a soothing sight,\nMakes it the best place to be, in delight.\n\nআগামী দিনের আকাশ, অন্য রকম দাঁড়িয়ে,\nঢাকায় গরম আর সূর্যের আলো হাতে,\nকোপেনহেগেনের শীত শুরু হচ্ছে,\nআর অলবোর্গের বাতাস রাতে চীৎকার করছে,\nঢাকার সুন্দর বাতাস, একটি সুখদায়ক দৃশ্য,\nএটিকে সবচেয়ে ভালো জায়গা করে তোলে, আনন্দে।"
 }
