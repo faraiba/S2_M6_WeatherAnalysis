@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-06",
-      "temperature_2m_max": 30.8,
-      "precipitation_sum": 20.8,
-      "wind_speed_10m_max": 8.4,
-      "relative_humidity_2m_mean": 86
+      "forecast_date": "2026-04-07",
+      "temperature_2m_max": 29.5,
+      "precipitation_sum": 4.4,
+      "wind_speed_10m_max": 8.9,
+      "relative_humidity_2m_mean": 81
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-05",
-      "temperature_2m_max": 11.4,
-      "precipitation_sum": 1.0,
-      "wind_speed_10m_max": 34.6,
-      "relative_humidity_2m_mean": 70
+      "forecast_date": "2026-04-06",
+      "temperature_2m_max": 10.8,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 35.6,
+      "relative_humidity_2m_mean": 60
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-05",
-      "temperature_2m_max": 9.2,
-      "precipitation_sum": 4.1,
-      "wind_speed_10m_max": 55.1,
+      "forecast_date": "2026-04-06",
+      "temperature_2m_max": 9.9,
+      "precipitation_sum": 0.1,
+      "wind_speed_10m_max": 45.7,
       "relative_humidity_2m_mean": 78
     }
   ],
-  "poem": "As tomorrow's forecast unfolds,\nDhaka's heat will fiercely hold,\nThirty degrees, a sweltering stage,\nWhile Copenhagen's mild, a gentle age,\nAalborg's chill, with winds so strong,\nCopenhagen, Denmark, where I belong.\n\nআগামী দিনের আবহাওয়া যেমন খোলে,\nঢাকার গরম যেমন প্রচণ্ড ধারণ করে,\nত্রিশ ডিগ্রি, এক প্রচণ্ড মঞ্চ,\nযখন কোপেনহেগেনের মধ্যম, এক নম্র বয়স,\nআলবোর্গের শীত, বায়ু যেমন শক্ত,\nকোপেনহেগেন, ডেনমার্ক, সেখানেই আমার স্থান।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, warmth and calm will dwell,\nWhile Copenhagen's chill begins to bite,\nAnd Aalborg's winds howl through the night.\nDhaka's gentle breeze and sunny rays,\nMake it the place to be on tomorrow's days.\n\nআগামী দিনের আকাশ, একটি গল্প বলে,\nঢাকায় উষ্ণতা এবং শান্তি থাকবে,\nযখন কোপেনহেগেনের শীত শুরু হয়,\nআর অলবোর্গের বাতাস রাতে চীৎকার করে।\nঢাকার নরম বাতাস এবং সূর্যের রশ্মি,\nআগামী দিনে এটি থাকার জন্য সেরা জায়গা তৈরি করে।"
 }
