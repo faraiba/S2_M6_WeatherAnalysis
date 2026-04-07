@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-08",
-      "temperature_2m_max": 31.4,
-      "precipitation_sum": 1.6,
-      "wind_speed_10m_max": 7.0,
-      "relative_humidity_2m_mean": 75
+      "forecast_date": "2026-04-09",
+      "temperature_2m_max": 25.3,
+      "precipitation_sum": 13.2,
+      "wind_speed_10m_max": 5.5,
+      "relative_humidity_2m_mean": 92
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-07",
-      "temperature_2m_max": 12.2,
+      "forecast_date": "2026-04-08",
+      "temperature_2m_max": 14.1,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 24.1,
-      "relative_humidity_2m_mean": 59
+      "wind_speed_10m_max": 11.2,
+      "relative_humidity_2m_mean": 61
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-07",
-      "temperature_2m_max": 13.1,
+      "forecast_date": "2026-04-08",
+      "temperature_2m_max": 13.7,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 17.6,
+      "wind_speed_10m_max": 15.8,
       "relative_humidity_2m_mean": 63
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, Copenhagen's breeze,\nAalborg's gentle, a perfect sea.\nDhaka's warmth will bring some rain,\nCopenhagen's chill will blow in pain,\nAalborg's calm, a peaceful place to be,\nThe best choice, for you and me.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, কোপেনহেগেনের বাতাস,\nঅলবর্গের শান্ত, একটি সুন্দর সাগর।\nঢাকার গরমে বৃষ্টি আসবে,\nকোপেনহেগেনের শীত বুকে ব্যথা দেবে,\nঅলবর্গের শান্ত, শান্তিপূর্ণ জায়গা,\nসেরা পছন্দ, আপনার জন্য এবং আমার জন্য, অলবর্গ, ডেনমার্ক।"
+  "poem": "Tomorrow's skies, so different they'll be,\nIn Dhaka, warm and wet, a humid spree,\nCopenhagen, calm, with gentle breeze,\nAalborg, cool, with winds that freeze.\nCopenhagen's charm, a pleasant day,\nMakes it the best, come what may.\n\nআগামী দিনের আকাশ, এত আলাদা হবে,\nঢাকায়, গরম এবং ভেজা, আর্দ্রতার লীলা,\nকোপেনহেগেন, শান্ত, সুমিষ্ট বাতাস,\nআলবোর্গ, শীতল, বাতাসে জমে যাবে।\nকোপেনহেগেনের মোহ, এক সুন্দর দিন,\nএটা সবচেয়ে ভাল, যা আসুক না কেন।"
 }
