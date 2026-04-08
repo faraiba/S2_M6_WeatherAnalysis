@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-09",
-      "temperature_2m_max": 25.3,
-      "precipitation_sum": 13.2,
-      "wind_speed_10m_max": 5.5,
-      "relative_humidity_2m_mean": 92
+      "forecast_date": "2026-04-10",
+      "temperature_2m_max": 31.7,
+      "precipitation_sum": 0.2,
+      "wind_speed_10m_max": 9.9,
+      "relative_humidity_2m_mean": 72
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-08",
-      "temperature_2m_max": 14.1,
+      "forecast_date": "2026-04-09",
+      "temperature_2m_max": 10.4,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 11.2,
-      "relative_humidity_2m_mean": 61
+      "wind_speed_10m_max": 22.0,
+      "relative_humidity_2m_mean": 59
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-08",
-      "temperature_2m_max": 13.7,
+      "forecast_date": "2026-04-09",
+      "temperature_2m_max": 13.5,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 15.8,
-      "relative_humidity_2m_mean": 63
+      "wind_speed_10m_max": 30.2,
+      "relative_humidity_2m_mean": 60
     }
   ],
-  "poem": "Tomorrow's skies, so different they'll be,\nIn Dhaka, warm and wet, a humid spree,\nCopenhagen, calm, with gentle breeze,\nAalborg, cool, with winds that freeze.\nCopenhagen's charm, a pleasant day,\nMakes it the best, come what may.\n\nআগামী দিনের আকাশ, এত আলাদা হবে,\nঢাকায়, গরম এবং ভেজা, আর্দ্রতার লীলা,\nকোপেনহেগেন, শান্ত, সুমিষ্ট বাতাস,\nআলবোর্গ, শীতল, বাতাসে জমে যাবে।\nকোপেনহেগেনের মোহ, এক সুন্দর দিন,\nএটা সবচেয়ে ভাল, যা আসুক না কেন।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, warmth and calm will dwell,\n31.7 degrees, a gentle breeze,\nA perfect day, with sun's warm squeeze.\nIn Copenhagen, chill will fill the air,\n10.4 degrees, with winds that flare,\nAalborg's windy, with clouds so grey,\n13.5 degrees, not a sunny day.\nDhaka's the place, where hearts will sway,\nWith gentle warmth, on this April day.\n\nআগামী দিনের আকাশ, একটি গল্প বলবে,\nঢাকায়, উষ্ণতা এবং শান্তি থাকবে,\n৩১.৭ ডিগ্রি, একটি সুন্দর বাতাস,\nএকটি নিখুঁত দিন, সূর্যের উষ্ণ জ্বালায়।\nকোপেনহেগেনে, শীত বাতাস থাকবে,\n১০.৪ ডিগ্রি, বাতাস যা ঝড়ে,\nঅলবোর্গ বাতাসে, মেঘ ধূসর,\n১৩.৫ ডিগ্রি, একটি সূর্যের দিন নয়।\nঢাকা হল জায়গা, যেখানে হৃদয় দুলবে,\nসুন্দর উষ্ণতা, এই এপ্রিল দিনে।"
 }
