@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-10",
-      "temperature_2m_max": 31.7,
-      "precipitation_sum": 0.2,
-      "wind_speed_10m_max": 9.9,
-      "relative_humidity_2m_mean": 72
+      "forecast_date": "2026-04-11",
+      "temperature_2m_max": 32.4,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 9.8,
+      "relative_humidity_2m_mean": 67
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-09",
-      "temperature_2m_max": 10.4,
+      "forecast_date": "2026-04-10",
+      "temperature_2m_max": 7.5,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 22.0,
-      "relative_humidity_2m_mean": 59
+      "wind_speed_10m_max": 28.4,
+      "relative_humidity_2m_mean": 69
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-09",
-      "temperature_2m_max": 13.5,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 30.2,
-      "relative_humidity_2m_mean": 60
+      "forecast_date": "2026-04-10",
+      "temperature_2m_max": 6.7,
+      "precipitation_sum": 8.5,
+      "wind_speed_10m_max": 34.9,
+      "relative_humidity_2m_mean": 81
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, warmth and calm will dwell,\n31.7 degrees, a gentle breeze,\nA perfect day, with sun's warm squeeze.\nIn Copenhagen, chill will fill the air,\n10.4 degrees, with winds that flare,\nAalborg's windy, with clouds so grey,\n13.5 degrees, not a sunny day.\nDhaka's the place, where hearts will sway,\nWith gentle warmth, on this April day.\n\nআগামী দিনের আকাশ, একটি গল্প বলবে,\nঢাকায়, উষ্ণতা এবং শান্তি থাকবে,\n৩১.৭ ডিগ্রি, একটি সুন্দর বাতাস,\nএকটি নিখুঁত দিন, সূর্যের উষ্ণ জ্বালায়।\nকোপেনহেগেনে, শীত বাতাস থাকবে,\n১০.৪ ডিগ্রি, বাতাস যা ঝড়ে,\nঅলবোর্গ বাতাসে, মেঘ ধূসর,\n১৩.৫ ডিগ্রি, একটি সূর্যের দিন নয়।\nঢাকা হল জায়গা, যেখানে হৃদয় দুলবে,\nসুন্দর উষ্ণতা, এই এপ্রিল দিনে।"
+  "poem": "Tomorrow's skies, so different and wide,\nIn Dhaka, warm sunshine will reside,\nAalborg's rain and wind will bring dismay,\nCopenhagen's chill will drive the blues away.\nBut where to be, on this coming day?\nDhaka, Bangladesh, is where I'd stray,\nWith temperatures high, and humidity just right,\nIt's the perfect place, to bask in delight.\n\nআগামী দিনের আকাশ, এত ভিন্ন ও প্রশস্ত,\nঢাকায় উষ্ণ সূর্যালোক থাকবে,\nআলবোর্গের বৃষ্টি ও বাতাস হতাশ নিয়ে আসবে,\nকোপেনহেগেনের শীত দূর করে দেবে।\nকিন্তু আগামী দিনে কোথায় থাকা উচিত?\nঢাকা, বাংলাদেশ, সেখানেই থাকতে চাই,\nউচ্চ তাপমাত্রা ও আর্দ্রতা ঠিক মতো,\nএটি আনন্দে ডুব দেওয়ার নিখুঁত জায়গা।"
 }
