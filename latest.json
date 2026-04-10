@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-11",
-      "temperature_2m_max": 32.4,
+      "forecast_date": "2026-04-12",
+      "temperature_2m_max": 33.5,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 9.8,
-      "relative_humidity_2m_mean": 67
+      "wind_speed_10m_max": 11.9,
+      "relative_humidity_2m_mean": 75
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-10",
-      "temperature_2m_max": 7.5,
+      "forecast_date": "2026-04-11",
+      "temperature_2m_max": 10.9,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 28.4,
-      "relative_humidity_2m_mean": 69
+      "wind_speed_10m_max": 24.8,
+      "relative_humidity_2m_mean": 70
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-10",
-      "temperature_2m_max": 6.7,
-      "precipitation_sum": 8.5,
-      "wind_speed_10m_max": 34.9,
-      "relative_humidity_2m_mean": 81
+      "forecast_date": "2026-04-11",
+      "temperature_2m_max": 10.4,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 33.5,
+      "relative_humidity_2m_mean": 84
     }
   ],
-  "poem": "Tomorrow's skies, so different and wide,\nIn Dhaka, warm sunshine will reside,\nAalborg's rain and wind will bring dismay,\nCopenhagen's chill will drive the blues away.\nBut where to be, on this coming day?\nDhaka, Bangladesh, is where I'd stray,\nWith temperatures high, and humidity just right,\nIt's the perfect place, to bask in delight.\n\nআগামী দিনের আকাশ, এত ভিন্ন ও প্রশস্ত,\nঢাকায় উষ্ণ সূর্যালোক থাকবে,\nআলবোর্গের বৃষ্টি ও বাতাস হতাশ নিয়ে আসবে,\nকোপেনহেগেনের শীত দূর করে দেবে।\nকিন্তু আগামী দিনে কোথায় থাকা উচিত?\nঢাকা, বাংলাদেশ, সেখানেই থাকতে চাই,\nউচ্চ তাপমাত্রা ও আর্দ্রতা ঠিক মতো,\nএটি আনন্দে ডুব দেওয়ার নিখুঁত জায়গা।"
+  "poem": "Tomorrow's skies, so different wide,\nIn Copenhagen, chill, with winds that reside,\nAalborg's gusts, even stronger still,\nBut Dhaka's warmth, with sunshine to fill.\nWith 33.5 degrees, and not a cloud in sight,\nDhaka, Bangladesh, shines with delight,\nThe best place to be, on this coming day,\nWhere warmth and calm, will drive the blues away.\n\nআগামীদিনের আকাশ, এত ভিন্ন প্রশস্ত,\nকোপেনহেগেনে শীতল, বাতাস বসবাস,\nঅলবোর্গের হাওয়া, আরও শক্তিশালী,\nকিন্তু ঢাকার উষ্ণতা, সূর্যের আলোতে ভরপুর,\n৩৩.৫ ডিগ্রি সেলসিয়াস, আর একটি মেঘ নেই,\nঢাকা, বাংলাদেশ, সূর্যের আলোতে ঝলমলিয়ে,\nআগামীদিনে থাকার সেরা জায়গা,\nযেখানে উষ্ণতা এবং শান্তি, মনের ব্যথা দূর করবে।"
 }
