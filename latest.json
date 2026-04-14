@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-15",
-      "temperature_2m_max": 34.9,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 12.0,
-      "relative_humidity_2m_mean": 79
+      "forecast_date": "2026-04-16",
+      "temperature_2m_max": 31.1,
+      "precipitation_sum": 6.5,
+      "wind_speed_10m_max": 11.3,
+      "relative_humidity_2m_mean": 87
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-14",
-      "temperature_2m_max": 8.7,
-      "precipitation_sum": 0.3,
-      "wind_speed_10m_max": 24.8,
-      "relative_humidity_2m_mean": 72
+      "forecast_date": "2026-04-15",
+      "temperature_2m_max": 11.6,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 10.1,
+      "relative_humidity_2m_mean": 80
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-14",
-      "temperature_2m_max": 8.6,
-      "precipitation_sum": 7.8,
-      "wind_speed_10m_max": 26.6,
-      "relative_humidity_2m_mean": 87
+      "forecast_date": "2026-04-15",
+      "temperature_2m_max": 10.6,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 18.7,
+      "relative_humidity_2m_mean": 86
     }
   ],
-  "poem": "Tomorrow's skies, so different they stand,\nIn Dhaka, warmth abounds, with sunshine in hand.\nCopenhagen and Aalborg, chill and grey,\nWith winds that howl, and rains that come to stay.\nDhaka's gentle breeze, and clear blue above,\nMake it the nicest place, filled with endless love.\n\nআগামীদিনের আকাশ, এত ভিন্ন দাঁড়িয়ে,\nঢাকায় উষ্ণতা বিরাজ করে, সূর্যের আলোতে।\nকোপেনহেগেন আর অলবোর্গ, শীতল আর মেঘলা,\nবাতাস বয় আর বৃষ্টি আসে থামতে।\nঢাকার নম্র বাতাস, আর নির্মল আকাশ,\nএটিকে সবচেয়ে সুন্দর জায়গা করে, অসীম ভালবাসা।"
+  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's calm, a gentle breeze,\nAalborg's chill, with windy squeeze.\nCopenhagen, Denmark, the best place to be,\nWith clear skies and a gentle glee.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সমুদ্র,\nকোপেনহেগেনের শান্ত, একটি সুস্থ বাতাস,\nঅলবোর্গের শীত, সাথে বাতাসের চাপ।\nকোপেনহেগেন, ডেনমার্ক, সেরা জায়গা থাকার জন্য,\nপরিষ্কার আকাশ এবং একটি সুস্থ আনন্দের সাথে।"
 }
