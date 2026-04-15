@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-16",
-      "temperature_2m_max": 31.1,
-      "precipitation_sum": 6.5,
-      "wind_speed_10m_max": 11.3,
-      "relative_humidity_2m_mean": 87
+      "forecast_date": "2026-04-17",
+      "temperature_2m_max": 32.0,
+      "precipitation_sum": 3.0,
+      "wind_speed_10m_max": 6.9,
+      "relative_humidity_2m_mean": 82
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-15",
-      "temperature_2m_max": 11.6,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 10.1,
-      "relative_humidity_2m_mean": 80
+      "forecast_date": "2026-04-16",
+      "temperature_2m_max": 9.5,
+      "precipitation_sum": 1.1,
+      "wind_speed_10m_max": 9.4,
+      "relative_humidity_2m_mean": 84
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-15",
-      "temperature_2m_max": 10.6,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 18.7,
-      "relative_humidity_2m_mean": 86
+      "forecast_date": "2026-04-16",
+      "temperature_2m_max": 9.8,
+      "precipitation_sum": 2.7,
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 93
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's calm, a gentle breeze,\nAalborg's chill, with windy squeeze.\nCopenhagen, Denmark, the best place to be,\nWith clear skies and a gentle glee.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সমুদ্র,\nকোপেনহেগেনের শান্ত, একটি সুস্থ বাতাস,\nঅলবোর্গের শীত, সাথে বাতাসের চাপ।\nকোপেনহেগেন, ডেনমার্ক, সেরা জায়গা থাকার জন্য,\nপরিষ্কার আকাশ এবং একটি সুস্থ আনন্দের সাথে।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Copenhagen, chill begins to dwell,\nAalborg's winds howl, cold and grey,\nBut Dhaka's warmth shines, come what may.\nWith temperatures high, and humidity just right,\nDhaka, Bangladesh, is the nicest sight.\n\nআগামী দিনের আকাশ, একটি গল্প বলে,\nকোপেনহেগেনে শীতের শুরু হয়,\nআলবোর্গের বাতাস চীলকার করে, ঠাণ্ডা এবং মেঘলা,\nকিন্তু ঢাকা উষ্ণতা চকিত করে, যা হোক না কেন।\nউচ্চ তাপমাত্রা এবং আর্দ্রতা ঠিক ঠিক,\nঢাকা, বাংলাদেশ, সবচেয়ে সুন্দর দৃশ্য।"
 }
