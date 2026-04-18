@@ -7,10 +7,10 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-19",
-      "temperature_2m_max": 33.1,
-      "precipitation_sum": 3.1,
-      "wind_speed_10m_max": 9.8,
+      "forecast_date": "2026-04-20",
+      "temperature_2m_max": 34.1,
+      "precipitation_sum": 7.8,
+      "wind_speed_10m_max": 12.3,
       "relative_humidity_2m_mean": 82
     },
     {
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-18",
-      "temperature_2m_max": 12.8,
-      "precipitation_sum": 1.0,
-      "wind_speed_10m_max": 14.8,
-      "relative_humidity_2m_mean": 65
+      "forecast_date": "2026-04-19",
+      "temperature_2m_max": 9.4,
+      "precipitation_sum": 4.7,
+      "wind_speed_10m_max": 13.7,
+      "relative_humidity_2m_mean": 88
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-18",
-      "temperature_2m_max": 12.4,
-      "precipitation_sum": 6.0,
-      "wind_speed_10m_max": 15.8,
+      "forecast_date": "2026-04-19",
+      "temperature_2m_max": 11.2,
+      "precipitation_sum": 0.4,
+      "wind_speed_10m_max": 15.5,
       "relative_humidity_2m_mean": 90
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three lands,\nDhaka's heat waves rise, with temperatures so grand,\nCopenhagen's gentle breeze, a soothing sight,\nAalborg's rain falls soft, in the morning light.\nBut if I had to choose, where to be tomorrow bright,\nI'd pick Copenhagen, Denmark, for its gentle delight.\n\nআগামীদিনের আকাশ, তিন দেশের গল্প,\nঢাকার তাপ বৃদ্ধি, তাপমাত্রা অত্যন্ত উচ্চ,\nকোপেনহেগেনের সুস্থ বাতাস, এক সুন্দর দৃশ্য,\nআলবর্গের বৃষ্টি পড়ে, সকালের আলোতে।\nকিন্তু যদি আমাকে বেছে নিতে হয়, আগামীদিন কোথায় থাকতে,\nআমি কোপেনহেগেন, ডেনমার্ককে বেছে নেব, এর সুস্থ সৌন্দর্যের জন্য।"
+  "poem": "Tomorrow's skies, a varied sight,\nDhaka's heat waves rise, 34 degrees in light,\nCopenhagen's chill, with precipitation's sway,\nAalborg's gentle breeze, on a clearer day.\nThe best place to be, where weather's just right,\nAalborg, Denmark, shining with delight.\n\nআগামী দিনের আকাশ, এক বৈচিত্র্যময় দৃশ্য,\nঢাকার গরম তাপ, ৩৪ ডিগ্রি তেজ,\nকোপেনহেগেনের শীত, বৃষ্টির লয়,\nআলবর্গের মনোরম বাতাস, এক পরিষ্কার দিনে।\nসর্বোত্তম স্থান, যেখানে আবহাওয়া ঠিক আছে,\nআলবর্গ, ডেনমার্ক, যেখানে সূর্য উজ্জ্বল।"
 }
