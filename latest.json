@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-20",
-      "temperature_2m_max": 34.1,
-      "precipitation_sum": 7.8,
-      "wind_speed_10m_max": 12.3,
-      "relative_humidity_2m_mean": 82
+      "forecast_date": "2026-04-21",
+      "temperature_2m_max": 35.8,
+      "precipitation_sum": 14.3,
+      "wind_speed_10m_max": 13.0,
+      "relative_humidity_2m_mean": 80
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-19",
-      "temperature_2m_max": 9.4,
-      "precipitation_sum": 4.7,
-      "wind_speed_10m_max": 13.7,
-      "relative_humidity_2m_mean": 88
+      "forecast_date": "2026-04-20",
+      "temperature_2m_max": 11.5,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 23.4,
+      "relative_humidity_2m_mean": 55
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-19",
-      "temperature_2m_max": 11.2,
-      "precipitation_sum": 0.4,
-      "wind_speed_10m_max": 15.5,
-      "relative_humidity_2m_mean": 90
+      "forecast_date": "2026-04-20",
+      "temperature_2m_max": 13.5,
+      "precipitation_sum": 1.4,
+      "wind_speed_10m_max": 21.6,
+      "relative_humidity_2m_mean": 70
     }
   ],
-  "poem": "Tomorrow's skies, a varied sight,\nDhaka's heat waves rise, 34 degrees in light,\nCopenhagen's chill, with precipitation's sway,\nAalborg's gentle breeze, on a clearer day.\nThe best place to be, where weather's just right,\nAalborg, Denmark, shining with delight.\n\nআগামী দিনের আকাশ, এক বৈচিত্র্যময় দৃশ্য,\nঢাকার গরম তাপ, ৩৪ ডিগ্রি তেজ,\nকোপেনহেগেনের শীত, বৃষ্টির লয়,\nআলবর্গের মনোরম বাতাস, এক পরিষ্কার দিনে।\nসর্বোত্তম স্থান, যেখানে আবহাওয়া ঠিক আছে,\nআলবর্গ, ডেনমার্ক, যেখানে সূর্য উজ্জ্বল।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat will fiercely dwell,\n35 degrees, a sweltering test,\nWhile Copenhagen's gentle breeze finds rest.\nAalborg's mild, with clouds astray,\nBut Copenhagen, Denmark, is where I'd stay.\n\nআগামী দিনের আকাশ, একটি গল্প বলবে,\nঢাকায় গরম প্রচণ্ডভাবে থাকবে,\n35 ডিগ্রি, একটি পরীক্ষা,\nযখন কোপেনহেগেনের নম্র বাতাস বিশ্রাম খুঁজে পায়।\nআলবোর্গ মৃদু, মেঘের সাথে,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই।"
 }
