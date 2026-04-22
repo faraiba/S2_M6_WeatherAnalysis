@@ -7,10 +7,10 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-23",
-      "temperature_2m_max": 34.5,
-      "precipitation_sum": 0.2,
-      "wind_speed_10m_max": 10.4,
+      "forecast_date": "2026-04-24",
+      "temperature_2m_max": 34.1,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 8.8,
       "relative_humidity_2m_mean": 79
     },
     {
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-22",
-      "temperature_2m_max": 17.6,
+      "forecast_date": "2026-04-23",
+      "temperature_2m_max": 16.7,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.8,
-      "relative_humidity_2m_mean": 56
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 61
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-22",
-      "temperature_2m_max": 17.7,
+      "forecast_date": "2026-04-23",
+      "temperature_2m_max": 17.0,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 18.7,
-      "relative_humidity_2m_mean": 71
+      "wind_speed_10m_max": 19.4,
+      "relative_humidity_2m_mean": 72
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat will surely dwell,\n34.5 degrees, a sweltering high,\nWhile Copenhagen and Aalborg touch the gentle sky.\nCopenhagen, Denmark, the nicest place to be,\nWith 17.6 degrees, a breeze for you and me.\n\nআগামী দিনের আকাশ, একটি গল্প বলা,\nঢাকায়, গরম নিশ্চিতভাবে থাকবে,\n34.5 ডিগ্রি, একটি উত্তপ্ত উচ্চতা,\nযখন কোপেনহেগেন এবং অ্যালবর্গ নরম আকাশ স্পর্শ করে।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা থাকতে,\n17.6 ডিগ্রি, একটি বাতাস আপনার এবং আমার জন্য।"
+  "poem": "Tomorrow's skies will tell a tale,\nIn Dhaka, heat will prevail,\nWhile Copenhagen's breeze will gently sway,\nAnd Aalborg's winds will blow, come what may.\nCopenhagen, Denmark, is where I'd roam,\nFor a pleasant day, with a gentle tone.\n\nআগামী দিনের আকাশ এক গল্প বলবে,\nঢাকায় গরম প্রবল হবে,\nযখন কোপেনহেগেনের বাতাস নরম বয়,\nআর অলবোর্গের বাতাস প্রবল হবে।\nকোপেনহেগেন, ডেনমার্ক, সেখানেই ভ্রমণ করতে চাই,\nএক সুন্দর দিনের জন্য, এক নরম সুরে।"
 }
