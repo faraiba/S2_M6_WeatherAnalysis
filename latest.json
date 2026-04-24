@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-25",
-      "temperature_2m_max": 34.0,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 7.2,
-      "relative_humidity_2m_mean": 79
+      "forecast_date": "2026-04-26",
+      "temperature_2m_max": 36.0,
+      "precipitation_sum": 3.8,
+      "wind_speed_10m_max": 18.4,
+      "relative_humidity_2m_mean": 73
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-24",
-      "temperature_2m_max": 17.2,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 16.9,
-      "relative_humidity_2m_mean": 58
+      "forecast_date": "2026-04-25",
+      "temperature_2m_max": 11.8,
+      "precipitation_sum": 0.4,
+      "wind_speed_10m_max": 27.7,
+      "relative_humidity_2m_mean": 65
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-24",
-      "temperature_2m_max": 18.1,
+      "forecast_date": "2026-04-25",
+      "temperature_2m_max": 12.8,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 21.6,
-      "relative_humidity_2m_mean": 70
+      "wind_speed_10m_max": 35.3,
+      "relative_humidity_2m_mean": 63
     }
   ],
-  "poem": "Tomorrow's skies, so different and wide,\nIn Dhaka, heat will be the guide,\n34 degrees, a sweltering high,\nWhile Copenhagen's gentle breeze will sigh,\nAt 17 degrees, a pleasant day,\nAalborg's 18 degrees, in a windy way.\nThe best place to be, I must confess,\nIs Copenhagen, Denmark, in its gentle dress.\n\nআগামীদিনের আকাশ, এত ভিন্ন ও প্রশস্ত,\nঢাকায় গরম হবে নিয়ন্ত্রণকারী,\n34 ডিগ্রি, একটি উত্তপ্ত উচ্চতা,\nযখন কোপেনহেগেনের নরম বাতাস নিঃশ্বাস নেবে,\n17 ডিগ্রি তাপমাত্রায়, একটি সুন্দর দিন,\nআলবোর্গের 18 ডিগ্রি, একটি বাতাসের উপায়ে।\nসর্বোত্তম স্থান, আমি স্বীকার করতে হবে,\nকোপেনহেগেন, ডেনমার্ক, তার নরম পোশাকে।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat will surely dwell,\n36 degrees, a sweltering high,\nWhile Copenhagen's gentle breeze whispers by,\nWith 11 degrees, a pleasant day,\nAalborg's 12 degrees, in a windy way.\nCopenhagen, Denmark, the nicest place to be,\nWith mild temperatures, a haven for you and me.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকায়, গরম অবশ্যই থাকবে,\n৩৬ ডিগ্রি, একটি প্রচণ্ড তাপ,\nযখন কোপেনহেগেনের নরম বাতাস শুধু শুধু স্পর্শ করে,\n১১ ডিগ্রি, একটি সুন্দর দিন,\nআলবর্গের ১২ ডিগ্রি, একটি বাতাসের উপায়,\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে সুন্দর জায়গা,\nমৃদু তাপমাত্রা, আপনার এবং আমার জন্য একটি স্বর্গ।"
 }
