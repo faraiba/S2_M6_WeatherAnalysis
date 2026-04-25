@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-26",
-      "temperature_2m_max": 36.0,
-      "precipitation_sum": 3.8,
-      "wind_speed_10m_max": 18.4,
-      "relative_humidity_2m_mean": 73
+      "forecast_date": "2026-04-27",
+      "temperature_2m_max": 34.0,
+      "precipitation_sum": 57.0,
+      "wind_speed_10m_max": 28.5,
+      "relative_humidity_2m_mean": 82
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-25",
-      "temperature_2m_max": 11.8,
-      "precipitation_sum": 0.4,
-      "wind_speed_10m_max": 27.7,
-      "relative_humidity_2m_mean": 65
+      "forecast_date": "2026-04-26",
+      "temperature_2m_max": 12.9,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 16.9,
+      "relative_humidity_2m_mean": 39
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-25",
-      "temperature_2m_max": 12.8,
+      "forecast_date": "2026-04-26",
+      "temperature_2m_max": 12.0,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 35.3,
-      "relative_humidity_2m_mean": 63
+      "wind_speed_10m_max": 14.4,
+      "relative_humidity_2m_mean": 48
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat will surely dwell,\n36 degrees, a sweltering high,\nWhile Copenhagen's gentle breeze whispers by,\nWith 11 degrees, a pleasant day,\nAalborg's 12 degrees, in a windy way.\nCopenhagen, Denmark, the nicest place to be,\nWith mild temperatures, a haven for you and me.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকায়, গরম অবশ্যই থাকবে,\n৩৬ ডিগ্রি, একটি প্রচণ্ড তাপ,\nযখন কোপেনহেগেনের নরম বাতাস শুধু শুধু স্পর্শ করে,\n১১ ডিগ্রি, একটি সুন্দর দিন,\nআলবর্গের ১২ ডিগ্রি, একটি বাতাসের উপায়,\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে সুন্দর জায়গা,\nমৃদু তাপমাত্রা, আপনার এবং আমার জন্য একটি স্বর্গ।"
+  "poem": "Tomorrow's skies, so different they stand,\nIn Dhaka, heat and rain entwined in hand,\nCopenhagen, calm with gentle breeze,\nBut Aalborg, serene, with gentle ease.\nThe best place to be, with weather so fair,\nIs Aalborg, Denmark, with no rain to spare.\n\nআগামী দিনের আকাশ, তিনটি স্থানে ভিন্ন,\nঢাকায় গরম ও বৃষ্টি একসাথে,\nকোপেনহেগেন, শান্ত ও মনোরম,\nকিন্তু অলবোর্গ, শান্ত ও সুন্দর,\nসবচেয়ে ভালো জায়গা, যেখানে আবহাওয়া পরিষ্কার,\nসেটা হলো ডেনমার্কের অলবোর্গ।"
 }
