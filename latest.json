@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-04-29",
-      "temperature_2m_max": 29.7,
-      "precipitation_sum": 64.2,
-      "wind_speed_10m_max": 24.1,
-      "relative_humidity_2m_mean": 90
+      "forecast_date": "2026-04-30",
+      "temperature_2m_max": 26.7,
+      "precipitation_sum": 15.1,
+      "wind_speed_10m_max": 25.8,
+      "relative_humidity_2m_mean": 93
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-04-28",
-      "temperature_2m_max": 14.2,
+      "forecast_date": "2026-04-29",
+      "temperature_2m_max": 16.0,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.4,
-      "relative_humidity_2m_mean": 45
+      "wind_speed_10m_max": 14.4,
+      "relative_humidity_2m_mean": 52
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-04-28",
-      "temperature_2m_max": 15.4,
+      "forecast_date": "2026-04-29",
+      "temperature_2m_max": 17.7,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 17.6,
-      "relative_humidity_2m_mean": 59
+      "wind_speed_10m_max": 13.0,
+      "relative_humidity_2m_mean": 69
     }
   ],
-  "poem": "As tomorrow dawns, three cities await,\nDhaka's heat and rain, a humid weight,\nCopenhagen's chill, with winds so bright,\nAalborg's calm, a gentle, sunny light.\nThe best place to be, where skies are fair,\nIs Aalborg, Denmark, with gentle air.\n\nআগামী দিনে, তিনটি শহর অপেক্ষা করছে,\nঢাকার গরম ও বৃষ্টি, এক আর্দ্র ওজন,\nকোপেনহেগেনের শীত, হাওয়ার সাথে উজ্জ্বল,\nঅলবোর্গের শান্ত, এক সুন্দর আলো।\nসেরা জায়গা, যেখানে আকাশ পরিষ্কার,\nঅলবোর্গ, ডেনমার্ক, যেখানে হাওয়া নরম।"
+  "poem": "Tomorrow's skies, so varied and wide,\nIn Dhaka, heat and rain will reside,\nCopenhagen's chill, with winds so light,\nBut Aalborg's mild, a gentle delight.\nAalborg, Denmark, the best place to be,\nWith calm winds and a pleasant sea.\n\nআগামীদিনের আকাশ, এত বিস্তৃত,\nঢাকায় গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেনের শীতলতা, হালকা বাতাস,\nকিন্তু অলবোর্গে মনোরম, এক সুন্দর দিন।\nঅলবোর্গ, ডেনমার্ক, থাকার সেরা জায়গা,\nশান্ত বাতাস এবং এক সুন্দর সমুদ্র।"
 }
