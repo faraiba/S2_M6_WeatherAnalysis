@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-02",
-      "temperature_2m_max": 29.2,
-      "precipitation_sum": 19.5,
-      "wind_speed_10m_max": 18.5,
-      "relative_humidity_2m_mean": 90
+      "forecast_date": "2026-05-03",
+      "temperature_2m_max": 28.3,
+      "precipitation_sum": 0.6,
+      "wind_speed_10m_max": 15.5,
+      "relative_humidity_2m_mean": 87
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-01",
-      "temperature_2m_max": 21.8,
+      "forecast_date": "2026-05-02",
+      "temperature_2m_max": 22.9,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 11.5,
-      "relative_humidity_2m_mean": 48
+      "wind_speed_10m_max": 19.8,
+      "relative_humidity_2m_mean": 59
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-01",
-      "temperature_2m_max": 21.3,
+      "forecast_date": "2026-05-02",
+      "temperature_2m_max": 23.7,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 14.4,
-      "relative_humidity_2m_mean": 67
+      "wind_speed_10m_max": 20.5,
+      "relative_humidity_2m_mean": 62
     }
   ],
-  "poem": "As tomorrow dawns, three cities await,\nDhaka's heat and rain, a sultry state,\nCopenhagen's calm, with sunshine bright,\nAalborg's gentle breeze, a pleasant sight.\nBut if I had to choose, I'd say it's clear,\nCopenhagen, Denmark, is the place to be this year.\n\nআগামীকাল ভোরে, তিনটি শহর অপেক্ষা করছে,\nঢাকার গরম ও বৃষ্টি, একটি অস্বস্তিকর অবস্থা,\nকোপেনহেগেনের শান্ত, সূর্যের আলোতে উজ্জ্বল,\nআলবর্গের সৌম্য বাতাস, একটি সুন্দর দৃশ্য।\nকিন্তু যদি আমাকে বেছে নিতে হয়, আমি বলব,\nকোপেনহেগেন, ডেনমার্ক, এই বছর থাকার জন্য সেরা জায়গা।"
+  "poem": "Tomorrow's skies, a varied hue,\nDhaka's heat, a sweltering 28 degrees anew,\nCopenhagen's gentle breeze, a soothing sight,\nAalborg's winds, a bit stronger, yet still a delight.\nBut if I had to choose, where to be tomorrow's guest,\nCopenhagen, Denmark, would be the best.\n\nআগামীদিনের আকাশ, বিভিন্ন রঙের ছোঁয়া,\nঢাকার গরম, ২৮ ডিগ্রি তাপমাত্রা,\nকোপেনহেগেনের মনোরম বাতাস, একটি সুন্দর দৃশ্য,\nঅলবর্গের বাতাস, একটু শক্তিশালী, তবুও একটি আনন্দ।\nকিন্তু যদি আমাকে বেছে নিতে হয়, কোথায় আগামীদিন অতিথি হতে,\nকোপেনহেগেন, ডেনমার্ক, হবে সর্বোত্তম।"
 }
