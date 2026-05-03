@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-03",
-      "temperature_2m_max": 28.3,
-      "precipitation_sum": 0.6,
-      "wind_speed_10m_max": 15.5,
-      "relative_humidity_2m_mean": 87
+      "forecast_date": "2026-05-05",
+      "temperature_2m_max": 30.2,
+      "precipitation_sum": 13.4,
+      "wind_speed_10m_max": 18.1,
+      "relative_humidity_2m_mean": 88
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-02",
-      "temperature_2m_max": 22.9,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.8,
-      "relative_humidity_2m_mean": 59
+      "forecast_date": "2026-05-04",
+      "temperature_2m_max": 17.3,
+      "precipitation_sum": 0.6,
+      "wind_speed_10m_max": 18.4,
+      "relative_humidity_2m_mean": 68
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-02",
-      "temperature_2m_max": 23.7,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 20.5,
-      "relative_humidity_2m_mean": 62
+      "forecast_date": "2026-05-04",
+      "temperature_2m_max": 13.7,
+      "precipitation_sum": 0.8,
+      "wind_speed_10m_max": 27.4,
+      "relative_humidity_2m_mean": 67
     }
   ],
-  "poem": "Tomorrow's skies, a varied hue,\nDhaka's heat, a sweltering 28 degrees anew,\nCopenhagen's gentle breeze, a soothing sight,\nAalborg's winds, a bit stronger, yet still a delight.\nBut if I had to choose, where to be tomorrow's guest,\nCopenhagen, Denmark, would be the best.\n\nআগামীদিনের আকাশ, বিভিন্ন রঙের ছোঁয়া,\nঢাকার গরম, ২৮ ডিগ্রি তাপমাত্রা,\nকোপেনহেগেনের মনোরম বাতাস, একটি সুন্দর দৃশ্য,\nঅলবর্গের বাতাস, একটু শক্তিশালী, তবুও একটি আনন্দ।\nকিন্তু যদি আমাকে বেছে নিতে হয়, কোথায় আগামীদিন অতিথি হতে,\nকোপেনহেগেন, ডেনমার্ক, হবে সর্বোত্তম।"
+  "poem": "Tomorrow's skies, so different they'll be,\nIn Dhaka, heat will reign supreme, 30 degrees.\nIn Aalborg, chill winds will whisper low, 13 degrees the max to show.\nBut in Copenhagen, Denmark, gentle breeze will sway,\nA perfect day, come what may, with 17 degrees to stay.\n\nআগামীদিনের আকাশ, তিন জায়গায় তিন রকম,\nঢাকায় তাপ, আলবর্গে শীতল বাতাস, কোপেনহেগেনে মনোরম দিন,\nকোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই, সেদিন।"
 }
