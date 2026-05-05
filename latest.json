@@ -7,10 +7,10 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-06",
-      "temperature_2m_max": 30.7,
-      "precipitation_sum": 8.4,
-      "wind_speed_10m_max": 12.2,
+      "forecast_date": "2026-05-07",
+      "temperature_2m_max": 31.2,
+      "precipitation_sum": 31.2,
+      "wind_speed_10m_max": 13.0,
       "relative_humidity_2m_mean": 83
     },
     {
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-05",
-      "temperature_2m_max": 15.8,
+      "forecast_date": "2026-05-06",
+      "temperature_2m_max": 16.2,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 18.7,
-      "relative_humidity_2m_mean": 56
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 47
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-05",
-      "temperature_2m_max": 13.7,
+      "forecast_date": "2026-05-06",
+      "temperature_2m_max": 14.9,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.1,
-      "relative_humidity_2m_mean": 58
+      "wind_speed_10m_max": 15.8,
+      "relative_humidity_2m_mean": 59
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three places told,\nDhaka's heat, a sweltering thirty degrees to hold,\nCopenhagen's gentle breeze, a pleasant fifteen to share,\nAalborg's chill, a crisp thirteen, with winds to spare.\nCopenhagen, Denmark, the nicest to be,\nWith clear skies and mild winds, a perfect day to see.\n\nআগামী দিনের আকাশ, তিনটি স্থানের গল্প,\nঢাকার গরম, ত্রিশ ডিগ্রি ধরে রাখা,\nকোপেনহেগেনের মনোরম বাতাস, পনের ডিগ্রি ভাগ করা,\nঅলবোর্গের শীত, তের ডিগ্রি, বাতাস ছড়িয়ে দেওয়া।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভাল থাকার জায়গা,\nপরিষ্কার আকাশ এবং মনোরম বাতাস, একটি নিখুঁত দিন দেখার জন্য।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nThirty-one degrees, a sweltering high,\nWhile Copenhagen's gentle breeze whispers by,\nAalborg's chill, a cloudy grey,\nBut Copenhagen, Denmark, is where I'd stay.\n\nআগামী দিনের আকাশ, একটি গল্প বলে,\nঢাকায় গরম এবং বৃষ্টি থাকবে,\nএকত্রিশ ডিগ্রি, একটি প্রচণ্ড উত্তাপ,\nযেখানে কোপেনহেগেনের নরম বাতাস শুধু শুধু ফুঁ দেয়,\nআলবর্গের শীত, একটি মেঘলা ধুসর,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানেই আমি থাকতে চাই।"
 }
