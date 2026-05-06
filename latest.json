@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-07",
-      "temperature_2m_max": 31.2,
-      "precipitation_sum": 31.2,
-      "wind_speed_10m_max": 13.0,
-      "relative_humidity_2m_mean": 83
+      "forecast_date": "2026-05-08",
+      "temperature_2m_max": 31.8,
+      "precipitation_sum": 1.1,
+      "wind_speed_10m_max": 7.0,
+      "relative_humidity_2m_mean": 85
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-06",
-      "temperature_2m_max": 16.2,
+      "forecast_date": "2026-05-07",
+      "temperature_2m_max": 16.3,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.1,
-      "relative_humidity_2m_mean": 47
+      "wind_speed_10m_max": 14.4,
+      "relative_humidity_2m_mean": 55
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-06",
-      "temperature_2m_max": 14.9,
+      "forecast_date": "2026-05-07",
+      "temperature_2m_max": 16.3,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 15.8,
-      "relative_humidity_2m_mean": 59
+      "wind_speed_10m_max": 14.4,
+      "relative_humidity_2m_mean": 55
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nThirty-one degrees, a sweltering high,\nWhile Copenhagen's gentle breeze whispers by,\nAalborg's chill, a cloudy grey,\nBut Copenhagen, Denmark, is where I'd stay.\n\nআগামী দিনের আকাশ, একটি গল্প বলে,\nঢাকায় গরম এবং বৃষ্টি থাকবে,\nএকত্রিশ ডিগ্রি, একটি প্রচণ্ড উত্তাপ,\nযেখানে কোপেনহেগেনের নরম বাতাস শুধু শুধু ফুঁ দেয়,\nআলবর্গের শীত, একটি মেঘলা ধুসর,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানেই আমি থাকতে চাই।"
+  "poem": "Tomorrow's skies, so different and wide,\nIn Dhaka, heat waves will reside,\nThirty-two degrees, a sweltering high,\nWhile Copenhagen and Aalborg touch the gentle sky.\nCopenhagen, Denmark, the nicest place to be,\nWith sixteen degrees and a gentle breeze.\n\nআগামীদিনের আকাশ, এত ভিন্ন এবং প্রশস্ত,\nঢাকায় গরমের তরঙ্গ বিরাজ করবে,\nবারোটা ডিগ্রি, একটি সুন্দর দিন,\nকোপেনহেগেন, ডেনমার্ক, সেরা জায়গা থাকার জন্য,\nষোল ডিগ্রি এবং একটি সুন্দর বাতাসের সাথে।"
 }
