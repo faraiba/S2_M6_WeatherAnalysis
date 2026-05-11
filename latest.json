@@ -7,10 +7,10 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-12",
-      "temperature_2m_max": 30.5,
-      "precipitation_sum": 1.0,
-      "wind_speed_10m_max": 8.1,
+      "forecast_date": "2026-05-13",
+      "temperature_2m_max": 31.5,
+      "precipitation_sum": 4.1,
+      "wind_speed_10m_max": 13.1,
       "relative_humidity_2m_mean": 83
     },
     {
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-11",
-      "temperature_2m_max": 11.3,
-      "precipitation_sum": 12.7,
-      "wind_speed_10m_max": 13.0,
-      "relative_humidity_2m_mean": 83
+      "forecast_date": "2026-05-12",
+      "temperature_2m_max": 14.0,
+      "precipitation_sum": 0.2,
+      "wind_speed_10m_max": 17.6,
+      "relative_humidity_2m_mean": 73
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-11",
-      "temperature_2m_max": 12.0,
+      "forecast_date": "2026-05-12",
+      "temperature_2m_max": 14.7,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 23.0,
-      "relative_humidity_2m_mean": 65
+      "wind_speed_10m_max": 20.2,
+      "relative_humidity_2m_mean": 64
     }
   ],
-  "poem": "Tomorrow's skies, so different they lie,\nIn Dhaka, warmth abounds, with sunshine high,\nThirty degrees, a gentle breeze does sway,\nA perfect day, in a lovely way.\nIn Copenhagen, clouds do gather and gray,\nTwelve degrees, with rain, a gloomy day,\nAnd Aalborg, windy, with skies so bright,\nBut Dhaka's charm, is where I'd take flight.\n\nআগামীকালের আকাশ, তিন স্থানে ভিন্ন,\nঢাকায় গরম, আলো ঝলমলিয়ে,\nত্রিশ ডিগ্রি, হালকা বাতাসে নাচে,\nএক সুন্দর দিন, ভালো লাগে।\nকোপেনহেগেনে মেঘ জমে, আর বৃষ্টি,\nবারো ডিগ্রি, এক ম্লান দিন,\nআর অলবোর্গে বাতাস, আকাশ উজ্জ্বল,\nকিন্তু ঢাকার মুগ্ধতা, সেখানেই ভালো।"
+  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's chill, a gentle breeze,\nAalborg's calm, a peaceful tease.\nThe best place to be, I must confess,\nIs Aalborg, Denmark, in quiet finesse.\n\nআগামীদিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সাগর,\nকোপেনহেগেনের শীত, একটি নম্র বাতাস,\nঅলবোর্গের শান্ত, একটি শান্ত পরীক্ষণ।\nসবচেয়ে ভালো জায়গা, আমি স্বীকার করতে পারি,\nঅলবোর্গ, ডেনমার্ক, নিঃশব্দে সূক্ষ্মতা।"
 }
