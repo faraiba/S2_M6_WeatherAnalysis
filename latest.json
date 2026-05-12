@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-13",
-      "temperature_2m_max": 31.5,
-      "precipitation_sum": 4.1,
-      "wind_speed_10m_max": 13.1,
-      "relative_humidity_2m_mean": 83
+      "forecast_date": "2026-05-14",
+      "temperature_2m_max": 32.3,
+      "precipitation_sum": 7.1,
+      "wind_speed_10m_max": 13.0,
+      "relative_humidity_2m_mean": 84
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-12",
-      "temperature_2m_max": 14.0,
-      "precipitation_sum": 0.2,
-      "wind_speed_10m_max": 17.6,
-      "relative_humidity_2m_mean": 73
+      "forecast_date": "2026-05-13",
+      "temperature_2m_max": 10.1,
+      "precipitation_sum": 4.3,
+      "wind_speed_10m_max": 17.3,
+      "relative_humidity_2m_mean": 81
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-12",
-      "temperature_2m_max": 14.7,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 20.2,
-      "relative_humidity_2m_mean": 64
+      "forecast_date": "2026-05-13",
+      "temperature_2m_max": 10.9,
+      "precipitation_sum": 0.4,
+      "wind_speed_10m_max": 14.0,
+      "relative_humidity_2m_mean": 63
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's chill, a gentle breeze,\nAalborg's calm, a peaceful tease.\nThe best place to be, I must confess,\nIs Aalborg, Denmark, in quiet finesse.\n\nআগামীদিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সাগর,\nকোপেনহেগেনের শীত, একটি নম্র বাতাস,\nঅলবোর্গের শান্ত, একটি শান্ত পরীক্ষণ।\nসবচেয়ে ভালো জায়গা, আমি স্বীকার করতে পারি,\nঅলবোর্গ, ডেনমার্ক, নিঃশব্দে সূক্ষ্মতা।"
+  "poem": "Tomorrow's forecast unfolds,\nDhaka's heat waves rise, 32 degrees to abide,\nCopenhagen's chill, with winds that gently blow,\nAalborg's serene, with sunshine and a gentle flow.\nThe best place to be, Aalborg, Denmark, I'd say,\nWhere the weather's mild, and the day's at play.\n\nআগামীকালের আবহাওয়ার ভবিষ্যদ্বাণী,\nঢাকার তাপ তরঙ্গ বৃদ্ধি পাচ্ছে, ৩২ ডিগ্রি সহ্য করতে,\nকোপেনহেগেনের শীত, সহজে বয়ে যাওয়া বাতাস,\nআলবর্গের শান্ত, সূর্যের আলো এবং নম্র প্রবাহ।\nসবচেয়ে ভালো জায়গা হবে, ডেনমার্কের আলবর্গ,\nযেখানে আবহাওয়া মৃদু, এবং দিনটি খেলার মতো।"
 }
