@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-14",
-      "temperature_2m_max": 32.3,
-      "precipitation_sum": 7.1,
-      "wind_speed_10m_max": 13.0,
-      "relative_humidity_2m_mean": 84
+      "forecast_date": "2026-05-15",
+      "temperature_2m_max": 32.5,
+      "precipitation_sum": 1.4,
+      "wind_speed_10m_max": 14.6,
+      "relative_humidity_2m_mean": 80
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-13",
-      "temperature_2m_max": 10.1,
-      "precipitation_sum": 4.3,
-      "wind_speed_10m_max": 17.3,
-      "relative_humidity_2m_mean": 81
+      "forecast_date": "2026-05-14",
+      "temperature_2m_max": 14.0,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 17.6,
+      "relative_humidity_2m_mean": 70
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-13",
-      "temperature_2m_max": 10.9,
-      "precipitation_sum": 0.4,
-      "wind_speed_10m_max": 14.0,
-      "relative_humidity_2m_mean": 63
+      "forecast_date": "2026-05-14",
+      "temperature_2m_max": 10.4,
+      "precipitation_sum": 3.4,
+      "wind_speed_10m_max": 24.8,
+      "relative_humidity_2m_mean": 88
     }
   ],
-  "poem": "Tomorrow's forecast unfolds,\nDhaka's heat waves rise, 32 degrees to abide,\nCopenhagen's chill, with winds that gently blow,\nAalborg's serene, with sunshine and a gentle flow.\nThe best place to be, Aalborg, Denmark, I'd say,\nWhere the weather's mild, and the day's at play.\n\nআগামীকালের আবহাওয়ার ভবিষ্যদ্বাণী,\nঢাকার তাপ তরঙ্গ বৃদ্ধি পাচ্ছে, ৩২ ডিগ্রি সহ্য করতে,\nকোপেনহেগেনের শীত, সহজে বয়ে যাওয়া বাতাস,\nআলবর্গের শান্ত, সূর্যের আলো এবং নম্র প্রবাহ।\nসবচেয়ে ভালো জায়গা হবে, ডেনমার্কের আলবর্গ,\nযেখানে আবহাওয়া মৃদু, এবং দিনটি খেলার মতো।"
+  "poem": "Tomorrow's skies, so different they'll be,\nIn Dhaka, heat will rise high and free,\nCopenhagen, calm with gentle breeze,\nAalborg, windy with rain's cool squeeze.\nBut if I had to choose, I'd say,\nCopenhagen, Denmark, is the best way.\n\nআগামী দিনের আকাশ, এত ভিন্ন হবে,\nঢাকায় গরম বাড়বে উচ্চতার সাথে,\nকোপেনহেগেন, শান্ত আর সুখের হাওয়া,\nআলবোর্গ, বাতাসে বৃষ্টির ঠাণ্ডা চুম্বন।\nকিন্তু যদি আমাকে বেছে নিতে হয়, আমি বলব,\nকোপেনহেগেন, ডেনমার্ক, সেরা জায়গা।"
 }
