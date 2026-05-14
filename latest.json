@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-15",
-      "temperature_2m_max": 32.5,
-      "precipitation_sum": 1.4,
-      "wind_speed_10m_max": 14.6,
-      "relative_humidity_2m_mean": 80
+      "forecast_date": "2026-05-16",
+      "temperature_2m_max": 33.0,
+      "precipitation_sum": 4.4,
+      "wind_speed_10m_max": 14.0,
+      "relative_humidity_2m_mean": 84
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-14",
-      "temperature_2m_max": 14.0,
+      "forecast_date": "2026-05-15",
+      "temperature_2m_max": 15.0,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 17.6,
-      "relative_humidity_2m_mean": 70
+      "wind_speed_10m_max": 19.4,
+      "relative_humidity_2m_mean": 60
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-14",
-      "temperature_2m_max": 10.4,
-      "precipitation_sum": 3.4,
-      "wind_speed_10m_max": 24.8,
-      "relative_humidity_2m_mean": 88
+      "forecast_date": "2026-05-15",
+      "temperature_2m_max": 11.4,
+      "precipitation_sum": 4.0,
+      "wind_speed_10m_max": 24.5,
+      "relative_humidity_2m_mean": 87
     }
   ],
-  "poem": "Tomorrow's skies, so different they'll be,\nIn Dhaka, heat will rise high and free,\nCopenhagen, calm with gentle breeze,\nAalborg, windy with rain's cool squeeze.\nBut if I had to choose, I'd say,\nCopenhagen, Denmark, is the best way.\n\nআগামী দিনের আকাশ, এত ভিন্ন হবে,\nঢাকায় গরম বাড়বে উচ্চতার সাথে,\nকোপেনহেগেন, শান্ত আর সুখের হাওয়া,\nআলবোর্গ, বাতাসে বৃষ্টির ঠাণ্ডা চুম্বন।\nকিন্তু যদি আমাকে বেছে নিতে হয়, আমি বলব,\nকোপেনহেগেন, ডেনমার্ক, সেরা জায়গা।"
+  "poem": "As tomorrow dawns, three cities await,\nDhaka's heat, Copenhagen's gentle state,\nAalborg's chill, with winds that do blow,\nCopenhagen, Denmark, the nicest to know.\n\nআগামী দিন ভোরে, তিন শহর অপেক্ষা করে,\nঢাকার গরম, কোপেনহেগেনের নাতিদীর্ঘ অবস্থা,\nআলবোর্গের শীত, বাতাস যা বয়,\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভাল জায়গা।"
 }
