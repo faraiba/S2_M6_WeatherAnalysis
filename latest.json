@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-18",
-      "temperature_2m_max": 35.2,
-      "precipitation_sum": 7.7,
-      "wind_speed_10m_max": 14.4,
-      "relative_humidity_2m_mean": 82
+      "forecast_date": "2026-05-19",
+      "temperature_2m_max": 34.4,
+      "precipitation_sum": 1.5,
+      "wind_speed_10m_max": 13.5,
+      "relative_humidity_2m_mean": 84
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-17",
-      "temperature_2m_max": 15.7,
+      "forecast_date": "2026-05-18",
+      "temperature_2m_max": 17.9,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 18.7,
-      "relative_humidity_2m_mean": 65
+      "wind_speed_10m_max": 21.6,
+      "relative_humidity_2m_mean": 59
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-17",
-      "temperature_2m_max": 14.6,
-      "precipitation_sum": 0.3,
-      "wind_speed_10m_max": 17.6,
-      "relative_humidity_2m_mean": 77
+      "forecast_date": "2026-05-18",
+      "temperature_2m_max": 17.7,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 22.0,
+      "relative_humidity_2m_mean": 70
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three places,\nDhaka's heat waves rise, 35 degrees in warm embraces,\nCopenhagen's gentle breeze, a soothing 15 degrees high,\nAalborg's clouds gather, with a gentle, cool sigh.\nCopenhagen, Denmark, the nicest place to be,\nWith clear skies and gentle winds, a haven for you and me.\n\nআগামীদিনের আকাশ, তিন স্থানের গাথা,\nঢাকার গরম তাপ, ৩৫ ডিগ্রি তাপমাত্রা,\nকোপেনহেগেনের মনোরম বাতাস, ১৫ ডিগ্রি উচ্চতা,\nঅলবোর্গের মেঘ, একটি শান্ত ও ঠাণ্ডা স্বর।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা,\nপরিষ্কার আকাশ এবং মনোরম বাতাস, আপনার এবং আমার জন্য একটি স্বর্গ।"
+  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's breeze, a gentle hush,\nAalborg's chill, a misty rush.\nCopenhagen, Denmark, the best place to be,\nWith clear skies and a gentle breeze, serenity.\n\nআগামীদিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সাগর,\nকোপেনহেগেনের বাতাস, একটি নরম শব্দ,\nঅলবর্গের শীত, একটি কুয়াশার ছোঁয়া।\nকোপেনহেগেন, ডেনমার্ক, সেরা জায়গা থাকার জন্য,\nপরিষ্কার আকাশ এবং একটি নরম বাতাস, শান্তি।"
 }
