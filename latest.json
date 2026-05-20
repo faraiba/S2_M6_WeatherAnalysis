@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-21",
-      "temperature_2m_max": 31.1,
-      "precipitation_sum": 11.5,
-      "wind_speed_10m_max": 11.5,
-      "relative_humidity_2m_mean": 90
+      "forecast_date": "2026-05-22",
+      "temperature_2m_max": 31.0,
+      "precipitation_sum": 28.5,
+      "wind_speed_10m_max": 12.2,
+      "relative_humidity_2m_mean": 88
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-20",
-      "temperature_2m_max": 15.8,
-      "precipitation_sum": 2.8,
-      "wind_speed_10m_max": 14.0,
-      "relative_humidity_2m_mean": 82
+      "forecast_date": "2026-05-21",
+      "temperature_2m_max": 19.3,
+      "precipitation_sum": 0.5,
+      "wind_speed_10m_max": 16.2,
+      "relative_humidity_2m_mean": 76
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-20",
-      "temperature_2m_max": 14.8,
-      "precipitation_sum": 6.8,
-      "wind_speed_10m_max": 16.9,
-      "relative_humidity_2m_mean": 89
+      "forecast_date": "2026-05-21",
+      "temperature_2m_max": 18.5,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 23.8,
+      "relative_humidity_2m_mean": 79
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three lands,\nDhaka's heat, a sweltering 31 degrees in hand,\nCopenhagen's gentle breeze, a soothing 15 degrees high,\nAalborg's chill, a close second, with winds that whisper by.\n\nIn Dhaka, rain falls heavy, 11.5 mm to the ground,\nCopenhagen's showers, a mere 2.8 mm, a gentle sound,\nAalborg's 6.8 mm, a balance, but winds that blow so free,\nCopenhagen, Denmark, the nicest place to be.\n\nআগামীদিনের আকাশ, তিনটি দেশের গল্প,\nঢাকার গরম, ৩১ ডিগ্রি তাপমাত্রা হাতে,\nকোপেনহেগেনের মনোরম বাতাস, ১৫ ডিগ্রি উপরে,\nঅলবোর্গের শীত, দ্বিতীয় স্থান, বাতাস যা ফিসফিস করে।\n\nঢাকায় বৃষ্টি পড়ে ভারী, ১১.৫ মিমি মাটিতে,\nকোপেনহেগেনের বৃষ্টি, মাত্র ২.৮ মিমি, একটি মৃদু শব্দ,\nঅলবোর্গের ৬.৮ মিমি, একটি ভারসাম্য, কিন্তু বাতাস যা মুক"
+  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat, a sweltering hell,\nCopenhagen's breeze, a gentle sway,\nAalborg's chill, a windy day.\nCopenhagen, Denmark, the best place to be,\nWith mild temps and low precipitation, serenity.\n\nআগামীদিনের আকাশ, একটি গল্প বল,\nঢাকার গরম, একটি প্রচণ্ড নরক,\nকোপেনহেগেনের বাতাস, একটি নম্র দোলা,\nআলবোর্গের শীত, একটি বাতাসের দিন।\nকোপেনহেগেন, ডেনমার্ক, থাকার সেরা জায়গা,\nমৃদু তাপমাত্রা এবং কম বৃষ্টিপাত, শান্তি।"
 }
