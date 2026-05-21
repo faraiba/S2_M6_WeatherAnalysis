@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-22",
-      "temperature_2m_max": 31.0,
-      "precipitation_sum": 28.5,
-      "wind_speed_10m_max": 12.2,
-      "relative_humidity_2m_mean": 88
+      "forecast_date": "2026-05-23",
+      "temperature_2m_max": 34.4,
+      "precipitation_sum": 6.3,
+      "wind_speed_10m_max": 15.8,
+      "relative_humidity_2m_mean": 86
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-21",
-      "temperature_2m_max": 19.3,
-      "precipitation_sum": 0.5,
-      "wind_speed_10m_max": 16.2,
-      "relative_humidity_2m_mean": 76
+      "forecast_date": "2026-05-22",
+      "temperature_2m_max": 21.1,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 13.7,
+      "relative_humidity_2m_mean": 69
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-21",
-      "temperature_2m_max": 18.5,
+      "forecast_date": "2026-05-22",
+      "temperature_2m_max": 21.5,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 23.8,
-      "relative_humidity_2m_mean": 79
+      "wind_speed_10m_max": 17.3,
+      "relative_humidity_2m_mean": 82
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat, a sweltering hell,\nCopenhagen's breeze, a gentle sway,\nAalborg's chill, a windy day.\nCopenhagen, Denmark, the best place to be,\nWith mild temps and low precipitation, serenity.\n\nআগামীদিনের আকাশ, একটি গল্প বল,\nঢাকার গরম, একটি প্রচণ্ড নরক,\nকোপেনহেগেনের বাতাস, একটি নম্র দোলা,\nআলবোর্গের শীত, একটি বাতাসের দিন।\nকোপেনহেগেন, ডেনমার্ক, থাকার সেরা জায়গা,\nমৃদু তাপমাত্রা এবং কম বৃষ্টিপাত, শান্তি।"
+  "poem": "Tomorrow's skies, so different and wide,\nDhaka's heat will scorch, with temperatures inside,\n34 degrees, and rain to abide,\nWhile Copenhagen, Denmark, will gentle winds provide,\nAalborg's breeze, a bit stronger, yet calm and bright,\nCopenhagen, Denmark, is where I'd take flight.\n\nআগামীদিনের আকাশ, এত বিচিত্র ও প্রশস্ত,\nঢাকার গরম পুড়ে দেবে, তাপমাত্রা অভ্যন্তরে,\n৩৪ ডিগ্রি, আর বৃষ্টি থাকবে সাথে,\nযখন কোপেনহেগেন, ডেনমার্ক, সুন্দর বায়ু নিয়ে আসবে,\nআলবর্গের বাতাস, একটু শক্তিশালী, তবুও শান্ত ও উজ্জ্বল,\nকোপেনহেগেন, ডেনমার্ক, সেখানেই আমি উড়ে যেতে চাই।"
 }
