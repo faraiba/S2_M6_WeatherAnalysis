@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-24",
-      "temperature_2m_max": 36.0,
-      "precipitation_sum": 1.6,
-      "wind_speed_10m_max": 18.6,
-      "relative_humidity_2m_mean": 77
+      "forecast_date": "2026-05-25",
+      "temperature_2m_max": 34.2,
+      "precipitation_sum": 11.3,
+      "wind_speed_10m_max": 18.0,
+      "relative_humidity_2m_mean": 84
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-23",
-      "temperature_2m_max": 23.3,
+      "forecast_date": "2026-05-24",
+      "temperature_2m_max": 21.9,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 16.9,
-      "relative_humidity_2m_mean": 70
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 55
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-23",
-      "temperature_2m_max": 22.4,
+      "forecast_date": "2026-05-24",
+      "temperature_2m_max": 21.0,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 23.4,
-      "relative_humidity_2m_mean": 77
+      "wind_speed_10m_max": 20.9,
+      "relative_humidity_2m_mean": 72
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat will surely dwell,\n36 degrees, a sweltering high,\nWhile Copenhagen's 23, a gentle sigh.\nAalborg's 22, with winds that blow,\nBut Copenhagen, Denmark, is where to go.\n\nআগামী দিনের আকাশ, একটি গল্প,\nঢাকায় গরম নিশ্চিত থাকবে,\n৩৬ ডিগ্রি, একটি তীব্র তাপ,\nযখন কোপেনহেগেনের ২৩, একটি সুখদ নিঃশ্বাস।\nআলবর্গের ২২, বাতাসের সাথে,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানে যেতে হবে।"
+  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's calm, a gentle breeze,\nAalborg's mix, of wind and ease.\nCopenhagen, Denmark, the place to be,\nWith clear skies, and a gentle glee.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সাগর,\nকোপেনহেগেনের শান্ত, একটি সুখদ বাতাস,\nঅলবোর্গের মিশ্র, বাতাস ও সহজতা।\nকোপেনহেগেন, ডেনমার্ক, সেরা জায়গা,\nপরিষ্কার আকাশ, এবং একটি সুখদ আনন্দ।"
 }
