@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-26",
-      "temperature_2m_max": 35.7,
-      "precipitation_sum": 2.9,
-      "wind_speed_10m_max": 17.4,
-      "relative_humidity_2m_mean": 81
+      "forecast_date": "2026-05-28",
+      "temperature_2m_max": 31.2,
+      "precipitation_sum": 20.5,
+      "wind_speed_10m_max": 14.2,
+      "relative_humidity_2m_mean": 89
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-25",
-      "temperature_2m_max": 24.5,
+      "forecast_date": "2026-05-27",
+      "temperature_2m_max": 19.4,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 20.9,
-      "relative_humidity_2m_mean": 57
+      "wind_speed_10m_max": 23.0,
+      "relative_humidity_2m_mean": 45
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-25",
-      "temperature_2m_max": 22.6,
+      "forecast_date": "2026-05-27",
+      "temperature_2m_max": 18.8,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 25.9,
-      "relative_humidity_2m_mean": 73
+      "wind_speed_10m_max": 27.0,
+      "relative_humidity_2m_mean": 60
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's breeze, a gentle hue,\nAalborg's chill, with winds anew.\nCopenhagen, Denmark, the best place to be,\nWith sunshine bright, and calmness free.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সাগর,\nকোপেনহেগেনের বাতাস, একটি নরম রঙ,\nঅলবর্গের শীত, নতুন বাতাসের সাথে।\nকোপেনহেগেন, ডেনমার্ক, থাকার জন্য সেরা জায়গা,\nসূর্যের আলোতে, এবং শান্তিতে মুক্ত।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nWhile Aalborg's winds will blow so strong,\nCopenhagen's calm, where I belong.\nWith sunshine bright and gentle breeze,\nCopenhagen, Denmark, the nicest place to be.\n\nআগামী দিনের আকাশ, একটি গল্প বলবে,\nঢাকায় গরম ও বৃষ্টি থাকবে,\nযখন আলবোর্গের বাতাস শক্ত বয়,\nকোপেনহেগেনে শান্ত, যেখানে আমি থাকতে চাই।\nসূর্যের আলো ও নম্র বাতাসের সাথে,\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা।"
 }
