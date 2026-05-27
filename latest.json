@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-28",
+      "forecast_date": "2026-05-29",
       "temperature_2m_max": 31.2,
-      "precipitation_sum": 20.5,
-      "wind_speed_10m_max": 14.2,
-      "relative_humidity_2m_mean": 89
+      "precipitation_sum": 11.2,
+      "wind_speed_10m_max": 10.7,
+      "relative_humidity_2m_mean": 86
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-27",
-      "temperature_2m_max": 19.4,
+      "forecast_date": "2026-05-28",
+      "temperature_2m_max": 21.2,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 23.0,
-      "relative_humidity_2m_mean": 45
+      "wind_speed_10m_max": 18.7,
+      "relative_humidity_2m_mean": 48
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-27",
-      "temperature_2m_max": 18.8,
+      "forecast_date": "2026-05-28",
+      "temperature_2m_max": 21.9,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 27.0,
-      "relative_humidity_2m_mean": 60
+      "wind_speed_10m_max": 14.8,
+      "relative_humidity_2m_mean": 55
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nWhile Aalborg's winds will blow so strong,\nCopenhagen's calm, where I belong.\nWith sunshine bright and gentle breeze,\nCopenhagen, Denmark, the nicest place to be.\n\nআগামী দিনের আকাশ, একটি গল্প বলবে,\nঢাকায় গরম ও বৃষ্টি থাকবে,\nযখন আলবোর্গের বাতাস শক্ত বয়,\nকোপেনহেগেনে শান্ত, যেখানে আমি থাকতে চাই।\nসূর্যের আলো ও নম্র বাতাসের সাথে,\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen's breeze, a gentle sway,\nBut Aalborg's calm, will start the day.\nWith sunshine bright, and a gentle breeze,\nAalborg, Denmark, is where you'd want to be.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায় গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেনের বাতাস, একটি নরম লহর,\nকিন্তু অলবোর্গের শান্ত, দিনটি শুরু করবে।\nসূর্যের আলোতে, এবং একটি নরম বাতাসে,\nঅলবোর্গ, ডেনমার্ক, সেখানেই থাকতে চাইবেন।"
 }
