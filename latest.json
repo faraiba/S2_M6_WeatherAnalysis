@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-29",
-      "temperature_2m_max": 31.2,
-      "precipitation_sum": 11.2,
-      "wind_speed_10m_max": 10.7,
-      "relative_humidity_2m_mean": 86
+      "forecast_date": "2026-05-30",
+      "temperature_2m_max": 32.7,
+      "precipitation_sum": 2.5,
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 82
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-28",
-      "temperature_2m_max": 21.2,
+      "forecast_date": "2026-05-29",
+      "temperature_2m_max": 23.8,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 18.7,
-      "relative_humidity_2m_mean": 48
+      "wind_speed_10m_max": 17.3,
+      "relative_humidity_2m_mean": 52
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-28",
-      "temperature_2m_max": 21.9,
+      "forecast_date": "2026-05-29",
+      "temperature_2m_max": 25.0,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 14.8,
-      "relative_humidity_2m_mean": 55
+      "wind_speed_10m_max": 24.5,
+      "relative_humidity_2m_mean": 63
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen's breeze, a gentle sway,\nBut Aalborg's calm, will start the day.\nWith sunshine bright, and a gentle breeze,\nAalborg, Denmark, is where you'd want to be.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায় গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেনের বাতাস, একটি নরম লহর,\nকিন্তু অলবোর্গের শান্ত, দিনটি শুরু করবে।\nসূর্যের আলোতে, এবং একটি নরম বাতাসে,\nঅলবোর্গ, ডেনমার্ক, সেখানেই থাকতে চাইবেন।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat waves will compel,\n32 degrees, a sweltering high,\nWhile Copenhagen, gentle, touches the sky,\n23 degrees, a pleasant breeze to share,\nAalborg's 25, with winds that gently care.\nCopenhagen, Denmark, the nicest place to be,\nWith clear skies and calm, a haven for you and me.\n\nআগামীদিনের আকাশ, একটি গল্প বল,\nঢাকায় গরমের তাপ, সবাইকে আবদ্ধ করবে,\n৩২ ডিগ্রি, একটি উত্তপ্ত উচ্চতা,\nযখন কোপেনহেগেন, নরম, আকাশকে স্পর্শ করে,\n২৩ ডিগ্রি, একটি সুখদ বাতাস ভাগ করা,\nআলবর্গের ২৫, হালকা বাতাসের সাথে যত্ন নেয়,\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা থাকার জন্য,\nপরিষ্কার আকাশ এবং শান্ত, আপনার এবং আমার জন্য একটি স্বর্গ।"
 }
