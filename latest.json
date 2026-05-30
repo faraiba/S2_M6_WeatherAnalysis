@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-05-31",
-      "temperature_2m_max": 33.5,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 9.0,
-      "relative_humidity_2m_mean": 74
+      "forecast_date": "2026-06-01",
+      "temperature_2m_max": 32.8,
+      "precipitation_sum": 1.6,
+      "wind_speed_10m_max": 10.3,
+      "relative_humidity_2m_mean": 82
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-05-30",
-      "temperature_2m_max": 21.4,
+      "forecast_date": "2026-05-31",
+      "temperature_2m_max": 20.2,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 22.7,
-      "relative_humidity_2m_mean": 64
+      "wind_speed_10m_max": 13.7,
+      "relative_humidity_2m_mean": 66
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-05-30",
-      "temperature_2m_max": 18.1,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 25.9,
-      "relative_humidity_2m_mean": 80
+      "forecast_date": "2026-05-31",
+      "temperature_2m_max": 18.7,
+      "precipitation_sum": 0.4,
+      "wind_speed_10m_max": 20.9,
+      "relative_humidity_2m_mean": 81
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's breeze, a gentle sigh,\nAalborg's chill, a windy sky.\nCopenhagen, Denmark, the best place to be,\nWith mild temperatures, a perfect spree.\n\nআগামী দিনের আকাশ, তিনটি জায়গার কথা,\nঢাকার গরম, এক প্রকার অগ্নিসম সাগর,\nকোপেনহেগেনের বাতাস, এক নম্র নিঃশ্বাস,\nঅলবোর্গের শীত, এক বাতাসী আকাশ।\nকোপেনহেগেন, ডেনমার্ক, থাকার সেরা জায়গা,\nমনোরম তাপমাত্রা, এক নির্ভর যাত্রা।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat will fiercely dwell,\nAalborg's winds will blow strong and free,\nBut Copenhagen, Denmark, is where I'd be,\nWith gentle breeze and sunshine bright, \nit's the perfect place to take flight.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায় তাপ প্রচণ্ডভাবে থাকবে,\nআলবর্গের বাতাস শক্তিতে বয়ে যাবে,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই,\nসুন্দর বাতাস এবং রোদের আলোয়,\nসেটা হল উড়ে যাওয়ার জন্য নিখুঁত জায়গা।"
 }
