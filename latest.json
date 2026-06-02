@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-03",
-      "temperature_2m_max": 33.7,
-      "precipitation_sum": 1.2,
-      "wind_speed_10m_max": 8.8,
-      "relative_humidity_2m_mean": 79
+      "forecast_date": "2026-06-04",
+      "temperature_2m_max": 33.5,
+      "precipitation_sum": 4.3,
+      "wind_speed_10m_max": 9.5,
+      "relative_humidity_2m_mean": 80
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-02",
-      "temperature_2m_max": 21.7,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 18.7,
-      "relative_humidity_2m_mean": 64
+      "forecast_date": "2026-06-03",
+      "temperature_2m_max": 20.8,
+      "precipitation_sum": 2.2,
+      "wind_speed_10m_max": 17.3,
+      "relative_humidity_2m_mean": 75
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-02",
-      "temperature_2m_max": 20.7,
-      "precipitation_sum": 0.5,
-      "wind_speed_10m_max": 17.6,
-      "relative_humidity_2m_mean": 78
+      "forecast_date": "2026-06-03",
+      "temperature_2m_max": 18.7,
+      "precipitation_sum": 0.6,
+      "wind_speed_10m_max": 22.3,
+      "relative_humidity_2m_mean": 81
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat will surely dwell,\nThirty-three degrees, a sweltering high,\nWhile Copenhagen's gentle breeze whispers by,\nAalborg's chill, with winds that blow,\nBut Copenhagen, Denmark, is where to go.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায় গরম অবশ্যই থাকবে,\nত্রিশতিন ডিগ্রি, একটি প্রচণ্ড উত্তাপ,\nযখন কোপেনহেগেনের নরম বাতাস শুনায়,\nঅলবর্গের শীত, বাতাস বয়,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানে যাওয়া উচিত।"
+  "poem": "Tomorrow's skies, a tale of three places told,\nDhaka's heat waves rise, with humidity to hold,\nCopenhagen's gentle breeze, a soothing sight,\nAalborg's winds whisper low, on a chilly night.\nCopenhagen, Denmark, the nicest place to be,\nWith mild temperatures, a perfect day to see.\n\nআগামী দিনের আকাশ, তিন জায়গার গল্প,\nঢাকার গরম তরঙ্গ, আর্দ্রতা ধরে রাখে,\nকোপেনহেগেনের সুখবর বাতাস, এক সুন্দর দৃশ্য,\nআলবর্গের হাওয়া নিচু স্বরে শীতল রাত,\nকোপেনহেগেন, ডেনমার্ক, থাকার জন্য সবচেয়ে ভালো জায়গা,\nমৃদু তাপমাত্রা, এক নিখুঁত দিন দেখার জন্য।"
 }
