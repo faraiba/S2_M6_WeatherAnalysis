@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-05",
-      "temperature_2m_max": 32.9,
-      "precipitation_sum": 5.5,
-      "wind_speed_10m_max": 10.2,
-      "relative_humidity_2m_mean": 85
+      "forecast_date": "2026-06-06",
+      "temperature_2m_max": 31.8,
+      "precipitation_sum": 7.9,
+      "wind_speed_10m_max": 12.2,
+      "relative_humidity_2m_mean": 87
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-04",
-      "temperature_2m_max": 18.7,
-      "precipitation_sum": 4.7,
-      "wind_speed_10m_max": 18.7,
-      "relative_humidity_2m_mean": 86
+      "forecast_date": "2026-06-05",
+      "temperature_2m_max": 21.1,
+      "precipitation_sum": 0.1,
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 69
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-04",
-      "temperature_2m_max": 17.4,
-      "precipitation_sum": 6.8,
-      "wind_speed_10m_max": 20.9,
-      "relative_humidity_2m_mean": 91
+      "forecast_date": "2026-06-05",
+      "temperature_2m_max": 18.6,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 20.2,
+      "relative_humidity_2m_mean": 81
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat will surely dwell,\n32.9 degrees, a sweltering high,\nWhile Copenhagen's gentle breeze will sigh,\nAnd Aalborg's winds will whisper by.\nCopenhagen, Denmark, the nicest place to be,\nWith mild temperatures, a perfect day to see.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকায় গরম অবশ্যই থাকবে,\n৩২.৯ ডিগ্রি, একটি গরম দিন,\nযখন কোপেনহেগেনের হালকা বাতাস সুখী হবে,\nআর অলবোর্গের বাতাস ফিসফিস করবে।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা থাকার জন্য,\nমৃদু তাপমাত্রা, একটি সুন্দর দিন দেখার জন্য।"
+  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat will surely swell,\n31.8 degrees, a humid sway,\nWhile Copenhagen's mild, a better day.\nAalborg's chill, with winds so bright,\nBut Copenhagen, Denmark, shines with delight.\n\nআগামীদিনের আকাশ, একটি গল্প বল,\nঢাকার গরম নিশ্চয় বৃদ্ধি পাবে,\n৩১.৮ ডিগ্রি, আর্দ্রতার লহর,\nযখন কোপেনহেগেন মনোরম, একটি ভালো দিন।\nঅলবোর্গের শীত, হাওয়ার আলো,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, উজ্জ্বলতার সাথে ঝলমলিয়ে।"
 }
