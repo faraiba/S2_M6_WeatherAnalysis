@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-08",
-      "temperature_2m_max": 32.3,
-      "precipitation_sum": 15.1,
-      "wind_speed_10m_max": 13.1,
-      "relative_humidity_2m_mean": 86
+      "forecast_date": "2026-06-09",
+      "temperature_2m_max": 35.6,
+      "precipitation_sum": 9.6,
+      "wind_speed_10m_max": 16.6,
+      "relative_humidity_2m_mean": 88
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-07",
-      "temperature_2m_max": 20.4,
-      "precipitation_sum": 5.7,
-      "wind_speed_10m_max": 18.0,
-      "relative_humidity_2m_mean": 78
+      "forecast_date": "2026-06-08",
+      "temperature_2m_max": 21.6,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 15.5,
+      "relative_humidity_2m_mean": 69
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-07",
-      "temperature_2m_max": 19.1,
-      "precipitation_sum": 2.9,
-      "wind_speed_10m_max": 11.5,
-      "relative_humidity_2m_mean": 85
+      "forecast_date": "2026-06-08",
+      "temperature_2m_max": 20.4,
+      "precipitation_sum": 1.5,
+      "wind_speed_10m_max": 15.1,
+      "relative_humidity_2m_mean": 83
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's breeze, a gentle sway,\nAalborg's calm, the nicest way.\nWith temperatures mild and winds so light,\nAalborg, Denmark, shines with delight.\n\nআগামী দিনের আকাশ, তিনটি জায়গার কথা,\nঢাকার গরম, এক প্রকার সাগর,\nকোপেনহেগেনের বাতাস, এক নম্র দোলা,\nঅলবর্গের শান্তি, সবচেয়ে ভালো উপায়।\nতাপমাত্রা মৃদু এবং বাতাস এত হালকা,\nডেনমার্কের অলবর্গ, সেরা জায়গা।"
+  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat waves rise high and free,\nCopenhagen's gentle breeze, a delight,\nAalborg's clouds, with rain in sight.\nThe difference is clear, the choice is mine,\nCopenhagen, Denmark, where I'd love to shine.\n\nআগামীদিন আকাশ, তিন জন্য এক গাথা,\nঢাকার তাপ ছড়িয়ে পড়ে উচ্চতায়,\nকোপেনহেগেনের হালকা বাতাস, এক আনন্দ,\nঅলবোর্গের মেঘ, বৃষ্টির দৃষ্টিতে।\nপার্থক্য স্পষ্ট, পছন্দ আমার,\nকোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই।"
 }
