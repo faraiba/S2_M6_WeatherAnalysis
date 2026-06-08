@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-09",
-      "temperature_2m_max": 35.6,
-      "precipitation_sum": 9.6,
-      "wind_speed_10m_max": 16.6,
-      "relative_humidity_2m_mean": 88
+      "forecast_date": "2026-06-10",
+      "temperature_2m_max": 33.3,
+      "precipitation_sum": 4.4,
+      "wind_speed_10m_max": 14.9,
+      "relative_humidity_2m_mean": 85
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-08",
-      "temperature_2m_max": 21.6,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 15.5,
-      "relative_humidity_2m_mean": 69
+      "forecast_date": "2026-06-09",
+      "temperature_2m_max": 18.2,
+      "precipitation_sum": 5.2,
+      "wind_speed_10m_max": 25.6,
+      "relative_humidity_2m_mean": 72
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-08",
-      "temperature_2m_max": 20.4,
-      "precipitation_sum": 1.5,
-      "wind_speed_10m_max": 15.1,
+      "forecast_date": "2026-06-09",
+      "temperature_2m_max": 16.1,
+      "precipitation_sum": 12.4,
+      "wind_speed_10m_max": 29.5,
       "relative_humidity_2m_mean": 83
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat waves rise high and free,\nCopenhagen's gentle breeze, a delight,\nAalborg's clouds, with rain in sight.\nThe difference is clear, the choice is mine,\nCopenhagen, Denmark, where I'd love to shine.\n\nআগামীদিন আকাশ, তিন জন্য এক গাথা,\nঢাকার তাপ ছড়িয়ে পড়ে উচ্চতায়,\nকোপেনহেগেনের হালকা বাতাস, এক আনন্দ,\nঅলবোর্গের মেঘ, বৃষ্টির দৃষ্টিতে।\nপার্থক্য স্পষ্ট, পছন্দ আমার,\nকোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই।"
+  "poem": "As tomorrow dawns, three cities await,\nDhaka's heat, a sweltering fate,\nCopenhagen's mild, a gentle breeze,\nAalborg's rain, a soothing tease.\nThe best place to be, I must confess,\nIs Copenhagen, Denmark, in its gentle dress.\n\nআগামীকাল ভোরে, তিনটি শহর অপেক্ষা করছে,\nঢাকার গরম, একটি বিপর্যস্ত ভাগ্য,\nকোপেনহেগেনের মৃদু, একটি সুন্দর বাতাস,\nঅলবোর্গের বৃষ্টি, একটি শান্ত পরিবেশ।\nসবচেয়ে ভালো জায়গা, আমি স্বীকার করতে চাই,\nকোপেনহেগেন, ডেনমার্ক, তার মৃদু পোশাকে।"
 }
