@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-11",
-      "temperature_2m_max": 31.6,
-      "precipitation_sum": 6.0,
-      "wind_speed_10m_max": 12.5,
-      "relative_humidity_2m_mean": 87
+      "forecast_date": "2026-06-12",
+      "temperature_2m_max": 32.0,
+      "precipitation_sum": 9.8,
+      "wind_speed_10m_max": 13.6,
+      "relative_humidity_2m_mean": 89
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-10",
-      "temperature_2m_max": 19.1,
-      "precipitation_sum": 1.0,
-      "wind_speed_10m_max": 19.8,
-      "relative_humidity_2m_mean": 67
+      "forecast_date": "2026-06-11",
+      "temperature_2m_max": 18.2,
+      "precipitation_sum": 1.5,
+      "wind_speed_10m_max": 12.6,
+      "relative_humidity_2m_mean": 62
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-10",
-      "temperature_2m_max": 16.9,
-      "precipitation_sum": 6.7,
-      "wind_speed_10m_max": 28.8,
-      "relative_humidity_2m_mean": 79
+      "forecast_date": "2026-06-11",
+      "temperature_2m_max": 19.7,
+      "precipitation_sum": 1.0,
+      "wind_speed_10m_max": 16.9,
+      "relative_humidity_2m_mean": 68
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat will fiercely swell,\n31 degrees, a sweltering test,\nWhile Copenhagen's 19 degrees, a gentle rest.\nAalborg's chill, with winds so strong,\nCopenhagen, Denmark, where I'd belong.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায়, তাপ প্রচণ্ডভাবে বৃদ্ধি পাবে,\n৩১ ডিগ্রি, একটি পরীক্ষা অত্যন্ত কঠিন,\nযখন কোপেনহেগেনের ১৯ ডিগ্রি, একটি সুন্দর বিশ্রাম।\nআলবোর্গের শীত, প্রবল বাতাসে,\nকোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen, cool with gentle breeze,\nBut Aalborg, Denmark, is where I'd choose to be,\nWith mild temps and less precipitation's sway,\nIt's the perfect place to spend the day.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকায়, গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেন, শীতল এবং সুখবর বাতাস,\nকিন্তু ডেনমার্কের অলবোর্গ, সেখানেই আমি থাকতে পছন্দ করব,\nমৃদু তাপমাত্রা এবং কম বৃষ্টির কারণে,\nএটি দিনটি কাটানোর জন্য নিখুঁত জায়গা।"
 }
