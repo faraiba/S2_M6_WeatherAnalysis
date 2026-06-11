@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-12",
-      "temperature_2m_max": 32.0,
-      "precipitation_sum": 9.8,
-      "wind_speed_10m_max": 13.6,
-      "relative_humidity_2m_mean": 89
+      "forecast_date": "2026-06-13",
+      "temperature_2m_max": 32.1,
+      "precipitation_sum": 6.8,
+      "wind_speed_10m_max": 11.5,
+      "relative_humidity_2m_mean": 88
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-11",
-      "temperature_2m_max": 18.2,
-      "precipitation_sum": 1.5,
-      "wind_speed_10m_max": 12.6,
-      "relative_humidity_2m_mean": 62
+      "forecast_date": "2026-06-12",
+      "temperature_2m_max": 17.7,
+      "precipitation_sum": 1.0,
+      "wind_speed_10m_max": 20.5,
+      "relative_humidity_2m_mean": 71
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-11",
-      "temperature_2m_max": 19.7,
-      "precipitation_sum": 1.0,
-      "wind_speed_10m_max": 16.9,
-      "relative_humidity_2m_mean": 68
+      "forecast_date": "2026-06-12",
+      "temperature_2m_max": 16.1,
+      "precipitation_sum": 2.4,
+      "wind_speed_10m_max": 17.6,
+      "relative_humidity_2m_mean": 83
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen, cool with gentle breeze,\nBut Aalborg, Denmark, is where I'd choose to be,\nWith mild temps and less precipitation's sway,\nIt's the perfect place to spend the day.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকায়, গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেন, শীতল এবং সুখবর বাতাস,\nকিন্তু ডেনমার্কের অলবোর্গ, সেখানেই আমি থাকতে পছন্দ করব,\nমৃদু তাপমাত্রা এবং কম বৃষ্টির কারণে,\nএটি দিনটি কাটানোর জন্য নিখুঁত জায়গা।"
+  "poem": "Tomorrow's skies, so different they stand,\nIn Dhaka, heat waves grasp the land,\nCopenhagen, gentle breeze does play,\nAalborg, misty veil, in a cooler way.\nBut if I had to choose, I'd say,\nCopenhagen, Denmark, is where I'd stay.\n\nআগামীদিনের আকাশ, এত ভিন্ন দাঁড়িয়ে,\nঢাকায় গরমের ছোঁয়া সবাইকে জড়িয়ে,\nকোপেনহেগেনে হালকা বাতাস খেলে,\nআলবর্গে মেঘের আড়াল, ঠাণ্ডা পথে।\nকিন্তু যদি আমাকে বেছে নিতে হয়,\nকোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই।"
 }
