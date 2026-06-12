@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-13",
-      "temperature_2m_max": 32.1,
-      "precipitation_sum": 6.8,
-      "wind_speed_10m_max": 11.5,
-      "relative_humidity_2m_mean": 88
+      "forecast_date": "2026-06-14",
+      "temperature_2m_max": 32.6,
+      "precipitation_sum": 2.3,
+      "wind_speed_10m_max": 13.3,
+      "relative_humidity_2m_mean": 86
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-12",
-      "temperature_2m_max": 17.7,
-      "precipitation_sum": 1.0,
-      "wind_speed_10m_max": 20.5,
-      "relative_humidity_2m_mean": 71
+      "forecast_date": "2026-06-13",
+      "temperature_2m_max": 15.8,
+      "precipitation_sum": 4.8,
+      "wind_speed_10m_max": 17.6,
+      "relative_humidity_2m_mean": 79
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-12",
-      "temperature_2m_max": 16.1,
-      "precipitation_sum": 2.4,
-      "wind_speed_10m_max": 17.6,
-      "relative_humidity_2m_mean": 83
+      "forecast_date": "2026-06-13",
+      "temperature_2m_max": 15.4,
+      "precipitation_sum": 11.4,
+      "wind_speed_10m_max": 25.6,
+      "relative_humidity_2m_mean": 88
     }
   ],
-  "poem": "Tomorrow's skies, so different they stand,\nIn Dhaka, heat waves grasp the land,\nCopenhagen, gentle breeze does play,\nAalborg, misty veil, in a cooler way.\nBut if I had to choose, I'd say,\nCopenhagen, Denmark, is where I'd stay.\n\nআগামীদিনের আকাশ, এত ভিন্ন দাঁড়িয়ে,\nঢাকায় গরমের ছোঁয়া সবাইকে জড়িয়ে,\nকোপেনহেগেনে হালকা বাতাস খেলে,\nআলবর্গে মেঘের আড়াল, ঠাণ্ডা পথে।\nকিন্তু যদি আমাকে বেছে নিতে হয়,\nকোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই।"
+  "poem": "Tomorrow's skies, so varied and wide,\nDhaka's heat will surely reside,\nThirty-two degrees, a sweltering stage,\nWhile Copenhagen's gentle breeze will engage,\nAalborg's winds will howl, with rain in tow,\nBut Copenhagen, Denmark, is where I'd love to go.\n\nআগামী দিনের আকাশ, এত বিস্তৃত ও বৈচিত্র্যময়,\nঢাকার গরম অবশ্যই থাকবে,\nত্রিশ দুই ডিগ্রি, এক পোড়ান্ত মঞ্চ,\nযেখানে কোপেনহেগেনের নরম বাতাস আমাদের আমন্ত্রণ জানাবে,\nআলবোর্গের বাতাস চিৎকার করবে, বৃষ্টি নিয়ে,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানেই আমি যেতে চাই।"
 }
