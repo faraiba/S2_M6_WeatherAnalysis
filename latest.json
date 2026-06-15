@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-16",
-      "temperature_2m_max": 32.4,
-      "precipitation_sum": 3.1,
-      "wind_speed_10m_max": 11.4,
-      "relative_humidity_2m_mean": 85
+      "forecast_date": "2026-06-17",
+      "temperature_2m_max": 33.5,
+      "precipitation_sum": 1.4,
+      "wind_speed_10m_max": 14.1,
+      "relative_humidity_2m_mean": 81
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-15",
-      "temperature_2m_max": 17.3,
+      "forecast_date": "2026-06-16",
+      "temperature_2m_max": 20.2,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 22.3,
-      "relative_humidity_2m_mean": 71
+      "wind_speed_10m_max": 15.1,
+      "relative_humidity_2m_mean": 60
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-15",
-      "temperature_2m_max": 19.2,
+      "forecast_date": "2026-06-16",
+      "temperature_2m_max": 18.6,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 21.2,
-      "relative_humidity_2m_mean": 73
+      "wind_speed_10m_max": 23.8,
+      "relative_humidity_2m_mean": 67
     }
   ],
-  "poem": "Tomorrow's skies, a varied stage,\nDhaka's heat will surely engage,\n32 degrees, a sweltering test,\nWhile Copenhagen's chill will find some rest.\nAalborg's gentle breeze, a sweet delight,\n19 degrees, a perfect summer's night,\nNo rain in sight, a clear blue sky,\nAalborg, Denmark, the best place to lie.\n\nআগামী দিনের আকাশ, এক বৈচিত্র্যময় পর্দা,\nঢাকার গরম নিশ্চিতভাবে জড়িত হবে,\n৩২ ডিগ্রি, এক পরীক্ষামূলক গরম,\nযখন কোপেনহেগেনের শীতলতা কিছু বিশ্রাম খুঁজে পাবে।\nআলবর্গের মনোরম বাতাস, এক মধুর আনন্দ,\n১৯ ডিগ্রি, এক নিখুঁত গ্রীষ্মের রাত,\nকোন বৃষ্টি নেই, এক পরিষ্কার নীল আকাশ,\nআলবর্গ, ডেনমার্ক, সবচেয়ে ভাল জায়গা বিশ্রাম নেওয়ার জন্য।"
+  "poem": "Tomorrow's skies, so different and wide,\nIn Dhaka, heat waves will surely reside,\n33.5 degrees, a sweltering high,\nWhile Copenhagen, Denmark, will touch the gentle sky,\nWith 20 degrees, a breeze so fine and light,\nAalborg's winds will howl, on this summer's night.\nCopenhagen, Denmark, is where I'd rather be,\nWith clear skies and calm, a perfect day to see.\n\nআগামীকালের আকাশ, এত ভিন্ন ও প্রশস্ত,\nঢাকায় গরমের তাপ অনুভূত হবে,\n৩৩.৫ ডিগ্রি, এক অসহ্য উত্তাপ,\nযখন কোপেনহেগেন, ডেনমার্ক, এক মনোরম আকাশ স্পর্শ করবে,\n২০ ডিগ্রি, এক হালকা বাতাস,\nআলবর্গের বাতাস সব শান্ত করে দেবে,\nকোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে পছন্দ করব,\nপরিষ্কার আকাশ ও শান্ত বাতাস, এক নিখুঁত দিন।"
 }
