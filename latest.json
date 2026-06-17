@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-18",
-      "temperature_2m_max": 31.9,
-      "precipitation_sum": 11.1,
-      "wind_speed_10m_max": 14.9,
-      "relative_humidity_2m_mean": 86
+      "forecast_date": "2026-06-19",
+      "temperature_2m_max": 30.3,
+      "precipitation_sum": 33.6,
+      "wind_speed_10m_max": 13.4,
+      "relative_humidity_2m_mean": 89
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-17",
-      "temperature_2m_max": 20.0,
-      "precipitation_sum": 0.3,
-      "wind_speed_10m_max": 14.4,
-      "relative_humidity_2m_mean": 55
+      "forecast_date": "2026-06-18",
+      "temperature_2m_max": 24.4,
+      "precipitation_sum": 0.1,
+      "wind_speed_10m_max": 16.6,
+      "relative_humidity_2m_mean": 65
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-17",
-      "temperature_2m_max": 19.0,
-      "precipitation_sum": 2.3,
-      "wind_speed_10m_max": 20.9,
-      "relative_humidity_2m_mean": 73
+      "forecast_date": "2026-06-18",
+      "temperature_2m_max": 23.0,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 21.6,
+      "relative_humidity_2m_mean": 80
     }
   ],
-  "poem": "Tomorrow's skies, so varied and wide,\nDhaka's heat will surely reside,\n31.9 degrees, a sweltering pace,\nWhile Copenhagen's gentle breeze will fill the space,\nAalborg's winds will blow, with clouds so grey,\nBut Copenhagen, Denmark, is where I'd stay.\n\nআগামীদিনের আকাশ, এত বিস্তৃত ও পরিবর্তনশীল,\nঢাকার গরম অনুভব করা যাবে,\n৩১.৯ ডিগ্রি, এক অসহ্য গতি,\nযখন কোপেনহেগেনের নম্র বাতাস স্থান পূরণ করবে,\nআলবর্গের বাতাস বয়, মেঘ সহ ধূসর,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই।"
+  "poem": "Tomorrow's skies, so different and wide,\nDhaka's heat and rain will be hard to abide,\nAalborg's winds will blow with gentle might,\nBut Copenhagen, Denmark, will shine with delight.\nIts mild breeze and clear skies make it the place to be,\nA haven from the heat and humidity.\n\nআগামী দিনের আকাশ, অনেক ভিন্ন এবং প্রশস্ত,\nঢাকার গরম এবং বৃষ্টি সহ্য করা কঠিন হবে,\nআলবর্গের বাতাস নরম শক্তি নিয়ে বয়,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সুন্দর দিনের সাথে উজ্জ্বল হবে।\nএর মৃদু বাতাস এবং পরিষ্কার আকাশ এটিকে থাকার সেরা জায়গা করে তোলে,\nগরম এবং আর্দ্রতা থেকে একটি সুরক্ষিত আশ্রয়।"
 }
