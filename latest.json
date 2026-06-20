@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-21",
-      "temperature_2m_max": 32.5,
-      "precipitation_sum": 6.8,
-      "wind_speed_10m_max": 16.1,
-      "relative_humidity_2m_mean": 85
+      "forecast_date": "2026-06-22",
+      "temperature_2m_max": 30.4,
+      "precipitation_sum": 4.3,
+      "wind_speed_10m_max": 14.2,
+      "relative_humidity_2m_mean": 89
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-20",
-      "temperature_2m_max": 27.5,
-      "precipitation_sum": 19.3,
-      "wind_speed_10m_max": 19.1,
-      "relative_humidity_2m_mean": 79
+      "forecast_date": "2026-06-21",
+      "temperature_2m_max": 25.3,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 15.1,
+      "relative_humidity_2m_mean": 54
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-20",
-      "temperature_2m_max": 28.0,
+      "forecast_date": "2026-06-21",
+      "temperature_2m_max": 22.6,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 22.3,
-      "relative_humidity_2m_mean": 72
+      "wind_speed_10m_max": 19.8,
+      "relative_humidity_2m_mean": 65
     }
   ],
-  "poem": "Tomorrow's skies, a varied stage,\nDhaka's heat will surely engage,\n32.5 degrees, a sweltering high,\nCopenhagen's rain will make you wonder why,\nBut Aalborg's gentle breeze, a haven to see,\nMakes it the nicest place to be.\n\nআগামী দিনের আকাশ, এক বৈচিত্র্যময় পর্দা,\nঢাকার গরম নিশ্চিতভাবে জড়িত হবে,\n৩২.৫ ডিগ্রি, এক অসহনীয় তাপ,\nকোপেনহেগেনের বৃষ্টি আপনাকে অবাক করে তুলবে,\nকিন্তু অ্যালবার্গের সুন্দর বাতাস, এক স্বর্গ দেখতে,\nএটিকে সবচেয়ে ভালো জায়গা করে তোলে, অ্যালবার্গ, ডেনমার্ক।"
+  "poem": "Tomorrow's skies, a varied tale,\nDhaka's heat, 30 degrees prevail,\nCopenhagen's mild, with winds so light,\nAalborg's gentle, a peaceful sight.\nThe best place to be, where winds whisper low,\nAalborg, Denmark, with a gentle glow.\n\nআগামী দিনের আকাশ, এক বৈচিত্র্যময় গাথা,\nঢাকার গরম, ৩০ ডিগ্রি প্রবল,\nকোপেনহেগেনের মৃদু, হালকা বাতাস,\nঅলবোর্গের শান্ত, এক শান্ত দৃশ্য।\nসেরা জায়গা, যেখানে বাতাস মৃদু শব্দে বলে,\nঅলবোর্গ, ডেনমার্ক, এক মৃদু আলোতে।"
 }
