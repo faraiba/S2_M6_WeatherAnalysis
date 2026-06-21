@@ -7,10 +7,10 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-22",
-      "temperature_2m_max": 30.4,
-      "precipitation_sum": 4.3,
-      "wind_speed_10m_max": 14.2,
+      "forecast_date": "2026-06-23",
+      "temperature_2m_max": 31.7,
+      "precipitation_sum": 4.5,
+      "wind_speed_10m_max": 11.8,
       "relative_humidity_2m_mean": 89
     },
     {
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-21",
-      "temperature_2m_max": 25.3,
+      "forecast_date": "2026-06-22",
+      "temperature_2m_max": 24.9,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 15.1,
-      "relative_humidity_2m_mean": 54
+      "wind_speed_10m_max": 14.8,
+      "relative_humidity_2m_mean": 50
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-21",
-      "temperature_2m_max": 22.6,
+      "forecast_date": "2026-06-22",
+      "temperature_2m_max": 22.1,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.8,
-      "relative_humidity_2m_mean": 65
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 66
     }
   ],
-  "poem": "Tomorrow's skies, a varied tale,\nDhaka's heat, 30 degrees prevail,\nCopenhagen's mild, with winds so light,\nAalborg's gentle, a peaceful sight.\nThe best place to be, where winds whisper low,\nAalborg, Denmark, with a gentle glow.\n\nআগামী দিনের আকাশ, এক বৈচিত্র্যময় গাথা,\nঢাকার গরম, ৩০ ডিগ্রি প্রবল,\nকোপেনহেগেনের মৃদু, হালকা বাতাস,\nঅলবোর্গের শান্ত, এক শান্ত দৃশ্য।\nসেরা জায়গা, যেখানে বাতাস মৃদু শব্দে বলে,\nঅলবোর্গ, ডেনমার্ক, এক মৃদু আলোতে।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen's calm, with winds so bright,\nBut Aalborg's gentle breeze, is where I'd take flight.\nThe Danish city, with its mild temperature too,\nMakes it the nicest place, for me and you.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায় গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেনে শান্ত, হাওয়া আলোকিত,\nকিন্তু অলবোর্গের নম্র বাতাস, সেখানে আমি উড়ে যাব।\nডেনিশ শহর, তার মৃদু তাপমাত্রা সহ,\nআমাদের জন্য সবচেয়ে ভাল জায়গা তৈরি করে, অলবোর্গ, ডেনমার্ক।"
 }
