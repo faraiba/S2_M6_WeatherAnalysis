@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-23",
-      "temperature_2m_max": 31.7,
-      "precipitation_sum": 4.5,
-      "wind_speed_10m_max": 11.8,
-      "relative_humidity_2m_mean": 89
+      "forecast_date": "2026-06-24",
+      "temperature_2m_max": 33.3,
+      "precipitation_sum": 2.4,
+      "wind_speed_10m_max": 11.9,
+      "relative_humidity_2m_mean": 81
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-22",
-      "temperature_2m_max": 24.9,
+      "forecast_date": "2026-06-23",
+      "temperature_2m_max": 23.7,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 14.8,
-      "relative_humidity_2m_mean": 50
+      "wind_speed_10m_max": 10.8,
+      "relative_humidity_2m_mean": 56
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-22",
-      "temperature_2m_max": 22.1,
+      "forecast_date": "2026-06-23",
+      "temperature_2m_max": 23.4,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.1,
-      "relative_humidity_2m_mean": 66
+      "wind_speed_10m_max": 19.8,
+      "relative_humidity_2m_mean": 68
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen's calm, with winds so bright,\nBut Aalborg's gentle breeze, is where I'd take flight.\nThe Danish city, with its mild temperature too,\nMakes it the nicest place, for me and you.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায় গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেনে শান্ত, হাওয়া আলোকিত,\nকিন্তু অলবোর্গের নম্র বাতাস, সেখানে আমি উড়ে যাব।\nডেনিশ শহর, তার মৃদু তাপমাত্রা সহ,\nআমাদের জন্য সবচেয়ে ভাল জায়গা তৈরি করে, অলবোর্গ, ডেনমার্ক।"
+  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, 33 degrees high, a scorching sea,\nCopenhagen's calm, 23 degrees gentle breeze,\nAalborg's wind, 19 km/h, a rustling of trees.\nThe best place to be, Copenhagen, Denmark, serene and fair,\n\nআগামীদিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, ৩৩ ডিগ্রি উঁচু, একটি পোড়ানো সাগর,\nকোপেনহেগেনের শান্ত, ২৩ ডিগ্রি সুস্থ বাতাস,\nআলবর্গের বাতাস, ১৯ কিমি/ঘণ্টা, গাছের একটি শিরশিরড়িত শব্দ।\nসবচেয়ে ভালো জায়গা, কোপেনহেগেন, ডেনমার্ক, শান্ত এবং ন্যায়সঙ্গত।"
 }
