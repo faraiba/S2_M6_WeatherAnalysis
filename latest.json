@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-24",
-      "temperature_2m_max": 33.3,
-      "precipitation_sum": 2.4,
-      "wind_speed_10m_max": 11.9,
-      "relative_humidity_2m_mean": 81
+      "forecast_date": "2026-06-25",
+      "temperature_2m_max": 33.7,
+      "precipitation_sum": 3.1,
+      "wind_speed_10m_max": 13.1,
+      "relative_humidity_2m_mean": 80
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-23",
-      "temperature_2m_max": 23.7,
+      "forecast_date": "2026-06-24",
+      "temperature_2m_max": 28.3,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 10.8,
-      "relative_humidity_2m_mean": 56
+      "wind_speed_10m_max": 15.8,
+      "relative_humidity_2m_mean": 49
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-23",
-      "temperature_2m_max": 23.4,
+      "forecast_date": "2026-06-24",
+      "temperature_2m_max": 25.4,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.8,
-      "relative_humidity_2m_mean": 68
+      "wind_speed_10m_max": 18.7,
+      "relative_humidity_2m_mean": 63
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, 33 degrees high, a scorching sea,\nCopenhagen's calm, 23 degrees gentle breeze,\nAalborg's wind, 19 km/h, a rustling of trees.\nThe best place to be, Copenhagen, Denmark, serene and fair,\n\nআগামীদিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, ৩৩ ডিগ্রি উঁচু, একটি পোড়ানো সাগর,\nকোপেনহেগেনের শান্ত, ২৩ ডিগ্রি সুস্থ বাতাস,\nআলবর্গের বাতাস, ১৯ কিমি/ঘণ্টা, গাছের একটি শিরশিরড়িত শব্দ।\nসবচেয়ে ভালো জায়গা, কোপেনহেগেন, ডেনমার্ক, শান্ত এবং ন্যায়সঙ্গত।"
+  "poem": "Tomorrow's forecast unfurls like a tale,\nIn Dhaka, heat waves prevail, with temperatures that flail,\nCopenhagen's calm, with gentle breeze so bright,\nBut Aalborg, Denmark, is where the nicest day takes flight.\nIts moderate climate, a haven from the heat and grime,\nMakes it the perfect place to bask in sunshine's prime.\n\nআগামীদিনের আবহাওয়ার কথা শোনা যায়,\nঢাকায় তাপ দিনে, কপেনহেগেনে হালকা বাতাস,\nকিন্তু ডেনমার্কের অলবর্গে সবচেয়ে ভালো দিন হবে,\nএর মাঝারি জলবায়ু তাই সেরা, হিমেল হাওয়ার থেকে মুক্তি পাওয়া যাবে।"
 }
