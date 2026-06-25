@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-26",
-      "temperature_2m_max": 34.0,
-      "precipitation_sum": 0.8,
-      "wind_speed_10m_max": 13.3,
-      "relative_humidity_2m_mean": 81
+      "forecast_date": "2026-06-27",
+      "temperature_2m_max": 34.1,
+      "precipitation_sum": 5.4,
+      "wind_speed_10m_max": 15.0,
+      "relative_humidity_2m_mean": 79
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-25",
-      "temperature_2m_max": 28.6,
+      "forecast_date": "2026-06-26",
+      "temperature_2m_max": 29.6,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 14.8,
-      "relative_humidity_2m_mean": 49
+      "wind_speed_10m_max": 14.4,
+      "relative_humidity_2m_mean": 48
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-25",
-      "temperature_2m_max": 26.1,
+      "forecast_date": "2026-06-26",
+      "temperature_2m_max": 31.6,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 16.2,
-      "relative_humidity_2m_mean": 67
+      "wind_speed_10m_max": 13.7,
+      "relative_humidity_2m_mean": 62
     }
   ],
-  "poem": "As tomorrow's forecast unfolds with care,\nDhaka's heat will soar, with temperatures rare,\nCopenhagen's calm, with sunshine bright,\nBut Aalborg's gentle breeze makes it the nicest sight.\n\nআগামীদিনের আবহাওয়া যখন খোলসে যায়,\nঢাকার তাপ বাড়বে, অসম তাপমাত্রায়,\nকোপেনহেগেন শান্ত, সূর্যের আলোতে উজ্জ্বল,\nকিন্তু অ্যালবর্গ, ডেনমার্কের হাওয়া স্বচ্ছন্দ, সেখানেই সবচেয়ে ভালো থাকা উচিত।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\n34 degrees, with precipitation's sway,\nA humid day, with winds that gently play.\nIn Aalborg, warmer, yet drier air,\n31 degrees, with no rain to spare,\nBut Copenhagen, Denmark, is where to be,\nWith 29 degrees, and a gentle breeze, serenity.\n\nআগামী দিনের আকাশ, একটি গল্প বলে,\nঢাকায়, গরম ও বৃষ্টি থাকবে,\n34 ডিগ্রি, বৃষ্টির প্রভাবে,\nএকটি আর্দ্র দিন, হালকা বাতাসে।\nআলবর্গে, উষ্ণতর, কিন্তু শুষ্ক বাতাস,\n31 ডিগ্রি, বৃষ্টি নেই,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানে থাকা উচিত,\n29 ডিগ্রি, এবং একটি হালকা বাতাস, শান্তি।"
 }
