@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-28",
-      "temperature_2m_max": 32.8,
-      "precipitation_sum": 6.0,
-      "wind_speed_10m_max": 16.4,
-      "relative_humidity_2m_mean": 83
+      "forecast_date": "2026-06-30",
+      "temperature_2m_max": 31.1,
+      "precipitation_sum": 19.6,
+      "wind_speed_10m_max": 11.4,
+      "relative_humidity_2m_mean": 90
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-27",
-      "temperature_2m_max": 33.6,
+      "forecast_date": "2026-06-29",
+      "temperature_2m_max": 26.7,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 11.9,
-      "relative_humidity_2m_mean": 54
+      "wind_speed_10m_max": 15.1,
+      "relative_humidity_2m_mean": 61
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-27",
-      "temperature_2m_max": 32.2,
+      "forecast_date": "2026-06-29",
+      "temperature_2m_max": 23.5,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 17.6,
-      "relative_humidity_2m_mean": 65
+      "wind_speed_10m_max": 20.9,
+      "relative_humidity_2m_mean": 69
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three places,\nDhaka's heat and humidity entwine in warm embraces,\nCopenhagen, Denmark, a haven of delight,\nWith sunshine and gentle breeze, a perfect summer's night.\nAalborg's winds whisper secrets, but can't compare,\nTo Copenhagen's charm, where the heart would love to share.\n\nআগামীদিনের আকাশ, তিন জায়গার গাথা,\nঢাকার গরম আর আর্দ্রতা গভীর আলিঙ্গনে,\nকোপেনহেগেন, ডেনমার্ক, এক স্বপ্নের নিবাস,\nসূর্যের আলো আর হালকা বাতাস, এক সুন্দর গ্রীষ্মের রাত।\nআলবোর্গের বাতাস শুধু স্বপ্ন বলে, কিন্তু তুলনা করতে পারে না,\nকোপেনহেগেনের মোহে, যেখানে হৃদয় ভাগ করে নিতে চায়।"
+  "poem": "Tomorrow's skies, so different they'll be,\nIn Dhaka, heat and rain, a humid sea,\nCopenhagen, mild, with winds that gently sway,\nBut Aalborg, Denmark, is where I'd stay,\nWith cooler temps and a gentle breeze, it's the place to be,\nAalborg, Denmark, the nicest spot, for you and me.\n\nআগামীদিনের আকাশ, এত ভিন্ন হবে,\nঢাকায় গরম আর বৃষ্টি, এক আর্দ্র সাগর,\nকোপেনহেগেন, মৃদু, হালকা বাতাসে,\nকিন্তু অলবোর্গ, ডেনমার্ক, সেখানেই থাকতে চাই,\nঠাণ্ডা তাপমাত্রা আর হালকা বাতাস, সেখানেই ভালো।"
 }
