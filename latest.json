@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-06-30",
-      "temperature_2m_max": 31.1,
-      "precipitation_sum": 19.6,
-      "wind_speed_10m_max": 11.4,
-      "relative_humidity_2m_mean": 90
+      "forecast_date": "2026-07-01",
+      "temperature_2m_max": 31.5,
+      "precipitation_sum": 9.3,
+      "wind_speed_10m_max": 10.9,
+      "relative_humidity_2m_mean": 89
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-29",
-      "temperature_2m_max": 26.7,
+      "forecast_date": "2026-06-30",
+      "temperature_2m_max": 24.1,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 15.1,
-      "relative_humidity_2m_mean": 61
+      "wind_speed_10m_max": 14.0,
+      "relative_humidity_2m_mean": 56
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-29",
-      "temperature_2m_max": 23.5,
+      "forecast_date": "2026-06-30",
+      "temperature_2m_max": 21.2,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 20.9,
-      "relative_humidity_2m_mean": 69
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 66
     }
   ],
-  "poem": "Tomorrow's skies, so different they'll be,\nIn Dhaka, heat and rain, a humid sea,\nCopenhagen, mild, with winds that gently sway,\nBut Aalborg, Denmark, is where I'd stay,\nWith cooler temps and a gentle breeze, it's the place to be,\nAalborg, Denmark, the nicest spot, for you and me.\n\nআগামীদিনের আকাশ, এত ভিন্ন হবে,\nঢাকায় গরম আর বৃষ্টি, এক আর্দ্র সাগর,\nকোপেনহেগেন, মৃদু, হালকা বাতাসে,\nকিন্তু অলবোর্গ, ডেনমার্ক, সেখানেই থাকতে চাই,\nঠাণ্ডা তাপমাত্রা আর হালকা বাতাস, সেখানেই ভালো।"
+  "poem": "Tomorrow's skies, a varied sight,\nDhaka's heat and rain, a sweltering plight,\nAalborg's breeze, a cooler, calmer shore,\nBut Copenhagen, Denmark, the nicest once more.\nIts gentle temperature, a perfect day,\n Invites all to bask, in its pleasant way.\n\nআগামী দিনের আকাশ, এক বৈচিত্র্যময় দৃশ্য,\nঢাকার গরম ও বৃষ্টি, এক অসহ্য দুঃখ,\nআলবর্গের বাতাস, এক শান্ত তীর,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সবচেয়ে সুন্দর স্থান।"
 }
