@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-01",
-      "temperature_2m_max": 31.5,
-      "precipitation_sum": 9.3,
-      "wind_speed_10m_max": 10.9,
-      "relative_humidity_2m_mean": 89
+      "forecast_date": "2026-07-02",
+      "temperature_2m_max": 33.0,
+      "precipitation_sum": 5.2,
+      "wind_speed_10m_max": 14.1,
+      "relative_humidity_2m_mean": 84
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-06-30",
-      "temperature_2m_max": 24.1,
+      "forecast_date": "2026-07-01",
+      "temperature_2m_max": 25.2,
       "precipitation_sum": 0.0,
       "wind_speed_10m_max": 14.0,
-      "relative_humidity_2m_mean": 56
+      "relative_humidity_2m_mean": 55
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-06-30",
-      "temperature_2m_max": 21.2,
+      "forecast_date": "2026-07-01",
+      "temperature_2m_max": 24.6,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.1,
-      "relative_humidity_2m_mean": 66
+      "wind_speed_10m_max": 18.7,
+      "relative_humidity_2m_mean": 65
     }
   ],
-  "poem": "Tomorrow's skies, a varied sight,\nDhaka's heat and rain, a sweltering plight,\nAalborg's breeze, a cooler, calmer shore,\nBut Copenhagen, Denmark, the nicest once more.\nIts gentle temperature, a perfect day,\n Invites all to bask, in its pleasant way.\n\nআগামী দিনের আকাশ, এক বৈচিত্র্যময় দৃশ্য,\nঢাকার গরম ও বৃষ্টি, এক অসহ্য দুঃখ,\nআলবর্গের বাতাস, এক শান্ত তীর,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সবচেয়ে সুন্দর স্থান।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen's gentle breeze, a sweet reprieve,\nAalborg's winds, a bit stronger to leave.\nCopenhagen, Denmark, the nicest place to be,\nWith sunshine and calm, a perfect day to see.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকায় গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেনের নরম বাতাস, একটি মধুর স্বস্তি,\nআলবোর্গের বাতাস, একটু শক্তিশালী ছেড়ে যাবে।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা থাকতে,\nসূর্যের আলো এবং শান্তি, একটি নিখুঁত দিন দেখার জন্য।"
 }
