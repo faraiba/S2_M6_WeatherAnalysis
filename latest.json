@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-03",
-      "temperature_2m_max": 33.9,
-      "precipitation_sum": 6.0,
-      "wind_speed_10m_max": 14.4,
-      "relative_humidity_2m_mean": 82
+      "forecast_date": "2026-07-04",
+      "temperature_2m_max": 34.5,
+      "precipitation_sum": 4.0,
+      "wind_speed_10m_max": 15.7,
+      "relative_humidity_2m_mean": 79
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-02",
-      "temperature_2m_max": 21.1,
-      "precipitation_sum": 6.3,
-      "wind_speed_10m_max": 26.6,
-      "relative_humidity_2m_mean": 72
+      "forecast_date": "2026-07-03",
+      "temperature_2m_max": 18.2,
+      "precipitation_sum": 4.7,
+      "wind_speed_10m_max": 33.8,
+      "relative_humidity_2m_mean": 77
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-02",
-      "temperature_2m_max": 18.6,
-      "precipitation_sum": 7.2,
-      "wind_speed_10m_max": 31.3,
-      "relative_humidity_2m_mean": 88
+      "forecast_date": "2026-07-03",
+      "temperature_2m_max": 19.2,
+      "precipitation_sum": 2.7,
+      "wind_speed_10m_max": 40.3,
+      "relative_humidity_2m_mean": 77
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat waves rise, thirty-three,\nCopenhagen's gentle breeze, a delight,\nAalborg's chill, with winds that bite.\nCopenhagen, Denmark, the best place to be,\nWith mild temps, a perfect day to see.\n\nআগামী দিনের আকাশ, তিন শহরের গল্প,\nঢাকার তাপ তরঙ্গ উঠে, তেত্রিশ ডিগ্রি,\nকোপেনহেগেনের নরম বাতাস, এক আনন্দ,\nঅলবোর্গের শীত, বাতাসের কামড়,\nকোপেনহেগেন, ডেনমার্ক, থাকার সেরা জায়গা,\nমনোরম তাপমাত্রা, দিন কাটানোর জন্য এক সুন্দর দিন।"
+  "poem": "Tomorrow's forecast unfolds,\nDhaka's heat waves rise, 34.5 degrees high,\nCopenhagen's breeze whispers low, 18.2 degrees by,\nAalborg's gentle balance, 19.2 degrees in the sky.\nThe winds and rains, a varying tale,\nAalborg's calm, the most pleasant gale,\nMakes it the nicest, where I'd love to be,\nAalborg, Denmark, serenity.\n\nআগামীদিনের আবহাওয়া জানাচ্ছে,\nঢাকার তাপ বাড়ছে, ৩৪.৫ ডিগ্রি উঁচু,\nকোপেনহেগেনের বাতাস ফিসফিস করছে, ১৮.২ ডিগ্রি নিচু,\nআলবর্গের ভারসাম্যপূর্ণ আবহাওয়া, ১৯.২ ডিগ্রি আকাশে।\nবাতাস আর বৃষ্টি, এক পরিবর্তনশীল গল্প,\nআলবর্গের শান্তি, সবচেয়ে সুন্দর হাওয়া,\nআলবর্গ, ডেনমার্ক, সেখানেই থাকতে চাই,\nশান্তির নিবাস, আলবর্গ।"
 }
