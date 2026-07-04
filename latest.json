@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-05",
-      "temperature_2m_max": 31.2,
-      "precipitation_sum": 10.3,
-      "wind_speed_10m_max": 21.3,
-      "relative_humidity_2m_mean": 85
+      "forecast_date": "2026-07-06",
+      "temperature_2m_max": 32.7,
+      "precipitation_sum": 4.6,
+      "wind_speed_10m_max": 20.2,
+      "relative_humidity_2m_mean": 84
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-04",
-      "temperature_2m_max": 23.7,
+      "forecast_date": "2026-07-05",
+      "temperature_2m_max": 20.9,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 27.4,
-      "relative_humidity_2m_mean": 61
+      "wind_speed_10m_max": 24.8,
+      "relative_humidity_2m_mean": 60
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-04",
-      "temperature_2m_max": 22.1,
+      "forecast_date": "2026-07-05",
+      "temperature_2m_max": 19.6,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 26.3,
-      "relative_humidity_2m_mean": 65
+      "wind_speed_10m_max": 30.6,
+      "relative_humidity_2m_mean": 68
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat will surely swell,\n31 degrees, a humid grasp,\nCopenhagen's gentle breeze will pass.\nAalborg's calm, with winds so light,\nA haven from the sweltering night.\nIf I had to choose, I'd say,\nAalborg, Denmark, is the best way.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকার গরম নিশ্চিতভাবে বৃদ্ধি পাবে,\n৩১ ডিগ্রি, একটি আর্দ্র ধরণ,\nকোপেনহেগেনের নরম বাতাস অতিক্রম করবে।\nঅলবর্গের শান্ত, হালকা বাতাসে,\nএকটি গরম রাত থেকে একটি আশ্রয়।\nযদি আমাকে বেছে নিতে হয়, আমি বলব,\nঅলবর্গ, ডেনমার্ক, সবচেয়ে ভালো উপায়।"
+  "poem": "Tomorrow's skies, a varied sight,\nDhaka's heat waves, sweltering bright,\nCopenhagen's breeze, a gentle delight,\nAalborg's chill, a windy night.\nCopenhagen, Denmark, where it's nice,\nMild and calm, a perfect device.\n\nআগামী দিনের আকাশ, এক বৈচিত্র্যময় দৃশ্য,\nঢাকার তাপ, প্রচণ্ড উত্তাপ,\nকোপেনহেগেনের বাতাস, এক সুন্দর সৌজন্য,\nআলবর্গের শীত, এক বায়ুময় রাত।\nকোপেনহেগেন, ডেনমার্ক, সেখানেই সেরা,\nমনোরম, শান্ত, এক নিখুঁত জায়গা।"
 }
