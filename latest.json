@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-07",
-      "temperature_2m_max": 30.8,
-      "precipitation_sum": 20.1,
-      "wind_speed_10m_max": 19.2,
-      "relative_humidity_2m_mean": 88
+      "forecast_date": "2026-07-08",
+      "temperature_2m_max": 30.6,
+      "precipitation_sum": 19.0,
+      "wind_speed_10m_max": 15.6,
+      "relative_humidity_2m_mean": 91
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-06",
-      "temperature_2m_max": 18.7,
-      "precipitation_sum": 1.7,
-      "wind_speed_10m_max": 22.0,
-      "relative_humidity_2m_mean": 59
+      "forecast_date": "2026-07-07",
+      "temperature_2m_max": 17.7,
+      "precipitation_sum": 3.6,
+      "wind_speed_10m_max": 32.0,
+      "relative_humidity_2m_mean": 83
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-06",
-      "temperature_2m_max": 17.3,
-      "precipitation_sum": 5.6,
-      "wind_speed_10m_max": 25.9,
-      "relative_humidity_2m_mean": 71
+      "forecast_date": "2026-07-07",
+      "temperature_2m_max": 18.6,
+      "precipitation_sum": 1.1,
+      "wind_speed_10m_max": 37.1,
+      "relative_humidity_2m_mean": 78
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's breeze, a gentle hue,\nAalborg's chill, with winds anew.\nCopenhagen, Denmark, the nicest place to be,\nWith mild temps and sunshine, a perfect spree.\n\nআগামীদিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, এক প্রচণ্ড সমুদ্র,\nকোপেনহেগেনের বাতাস, এক নিষ্পাপ রঙ,\nঅলবোর্গের শীত, নতুন বাতাস সহ।\nকোপেনহেগেন, ডেনমার্ক, থাকার জন্য সবচেয়ে ভালো জায়গা,\nমৃদু তাপমাত্রা এবং সূর্যালোক, এক নির্ভুল ভ্রমণ।"
+  "poem": "Tomorrow's skies, a varied sight,\nDhaka's heat, a sweltering plight,\nCopenhagen's breeze, a gentle hue,\nBut Aalborg's calm, is where I'd choose to be, anew.\nThe Danish city's mild and serene air,\nMakes it the perfect place, beyond compare.\n\nআগামীদিনের আকাশ, এক বৈচিত্র্যময় দৃশ্য,\nঢাকার গরম, এক অসহ্য অবস্থা,\nকোপেনহেগেনের বাতাস, এক সুন্দর রূপ,\nকিন্তু এলবর্গের শান্তি, সেখানেই থাকতে চাই, নতুন করে।\nডেনিশ শহরের মৃদু ও শান্ত বাতাস,\nএটিকে সবচেয়ে উপযুক্ত স্থান করে তুলেছে, তুলনাহীন।"
 }
