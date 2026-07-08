@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-09",
-      "temperature_2m_max": 29.9,
-      "precipitation_sum": 16.3,
-      "wind_speed_10m_max": 17.5,
-      "relative_humidity_2m_mean": 90
+      "forecast_date": "2026-07-10",
+      "temperature_2m_max": 31.0,
+      "precipitation_sum": 52.5,
+      "wind_speed_10m_max": 14.9,
+      "relative_humidity_2m_mean": 92
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-08",
-      "temperature_2m_max": 23.6,
+      "forecast_date": "2026-07-09",
+      "temperature_2m_max": 25.3,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 23.4,
-      "relative_humidity_2m_mean": 59
+      "wind_speed_10m_max": 17.6,
+      "relative_humidity_2m_mean": 55
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-08",
-      "temperature_2m_max": 23.2,
+      "forecast_date": "2026-07-09",
+      "temperature_2m_max": 27.0,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 23.4,
-      "relative_humidity_2m_mean": 69
+      "wind_speed_10m_max": 17.6,
+      "relative_humidity_2m_mean": 65
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three lands,\nDhaka's heat and rain, a sweltering stand,\nAalborg's breeze, a gentle, cloudy hue,\nBut Copenhagen, Denmark, the nicest view.\nIts mild temperatures and low humidity too,\nMake it the perfect place, for me and you.\n\nআগামীদিনের আকাশ, তিন দেশের গল্প,\nঢাকার গরম ও বৃষ্টি, এক অসহ্য অবস্থা,\nঅলবোর্গের বাতাস, এক নম্র মেঘলা রূপ,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা।"
+  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat and rain, a soggy sea,\nCopenhagen's calm, with sunshine bright,\nAalborg's breeze, a gentle, warm delight.\nBut if I had to choose, I'd say with glee,\nCopenhagen, Denmark, is where I'd be.\n\nআগামীদিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম এবং বৃষ্টি, একটি ভেজা সাগর,\nকোপেনহেগেনের শান্ত, সূর্যের আলোতে উজ্জ্বল,\nঅলবোর্গের বাতাস, একটি নরম, উষ্ণ আনন্দ।\nকিন্তু যদি আমাকে বেছে নিতে হয়, আমি বলব খুশিতে,\nকোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই।"
 }
