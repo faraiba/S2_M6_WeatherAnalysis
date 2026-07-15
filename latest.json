@@ -7,10 +7,10 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-16",
-      "temperature_2m_max": 31.4,
-      "precipitation_sum": 8.1,
-      "wind_speed_10m_max": 20.6,
+      "forecast_date": "2026-07-17",
+      "temperature_2m_max": 30.8,
+      "precipitation_sum": 9.5,
+      "wind_speed_10m_max": 20.7,
       "relative_humidity_2m_mean": 83
     },
     {
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-15",
+      "forecast_date": "2026-07-16",
       "temperature_2m_max": 27.7,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 13.3,
-      "relative_humidity_2m_mean": 56
+      "wind_speed_10m_max": 11.9,
+      "relative_humidity_2m_mean": 54
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-15",
-      "temperature_2m_max": 30.1,
+      "forecast_date": "2026-07-16",
+      "temperature_2m_max": 30.6,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 15.8,
-      "relative_humidity_2m_mean": 56
+      "wind_speed_10m_max": 16.2,
+      "relative_humidity_2m_mean": 53
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat, a sweltering spell,\n31 degrees, with rain in sight,\nAalborg's warmth, a gentle breeze tonight.\nCopenhagen's charm, a gentle hue,\n27 degrees, with sunshine anew,\nThe nicest place, where hearts can roam,\nCopenhagen, Denmark, a peaceful home.\n\nআগামী দিনের আকাশ, একটি গল্প বলে,\nঢাকার গরম, একটি বিকশিত জাদু,\n31 ডিগ্রি, বৃষ্টির দৃষ্টিভঙ্গি,\nআলবোর্গের উষ্ণতা, একটি নম্র বাতাস রাত্রে।\nকোপেনহেগেনের মোহ, একটি নম্র রঙ,\n27 ডিগ্রি, নতুন সূর্যালোক,\nসবচেয়ে ভালো জায়গা, যেখানে হৃদয় ঘুরে,\nকোপেনহেগেন, ডেনমার্ক, একটি শান্ত বাড়ি।"
+  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat and rain, a story to compel,\nAalborg's warmth, with winds that gently sway,\nBut Copenhagen, Denmark, is where I'd stay,\nFor clear skies and gentle breeze, it's the place to be,\nA haven from the heat, for you and me.\n\nআগামীদিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকার গরম এবং বৃষ্টি, একটি গল্প যা আহ্বান করে,\nআলবোর্গের উষ্ণতা, হালকা বাতাসের সাথে,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানেই থাকতে চাই,\nপরিষ্কার আকাশ এবং হালকা বাতাসের জন্য, এটি থাকার জন্য সেরা জায়গা,\nগরম থেকে একটি আশ্রয়, আপনার এবং আমার জন্য।"
 }
