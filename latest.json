@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-18",
-      "temperature_2m_max": 32.1,
-      "precipitation_sum": 4.6,
-      "wind_speed_10m_max": 20.3,
-      "relative_humidity_2m_mean": 83
+      "forecast_date": "2026-07-20",
+      "temperature_2m_max": 30.8,
+      "precipitation_sum": 6.1,
+      "wind_speed_10m_max": 12.6,
+      "relative_humidity_2m_mean": 89
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-17",
-      "temperature_2m_max": 29.9,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 16.6,
-      "relative_humidity_2m_mean": 60
+      "forecast_date": "2026-07-19",
+      "temperature_2m_max": 19.9,
+      "precipitation_sum": 15.6,
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 78
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-17",
-      "temperature_2m_max": 26.2,
-      "precipitation_sum": 0.4,
-      "wind_speed_10m_max": 15.5,
-      "relative_humidity_2m_mean": 68
+      "forecast_date": "2026-07-19",
+      "temperature_2m_max": 16.0,
+      "precipitation_sum": 1.5,
+      "wind_speed_10m_max": 22.7,
+      "relative_humidity_2m_mean": 84
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, Copenhagen's breeze,\nAalborg's charm, a gentle sea,\nThe best place to be, Aalborg, Denmark, for you and me.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, কোপেনহেগেনের হাওয়া,\nঅলবর্গের মোহ, একটি নরম সাগর,\nসবচেয়ে ভালো জায়গা, ডেনমার্কের অলবর্গ, আপনার এবং আমার জন্য।"
+  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat will surely swell,\nThirty degrees, a humid grasp,\nWhile Copenhagen's clouds will amass.\nAalborg's gentle breeze, a haven found,\nSixteen degrees, with sunshine unbound,\nThe nicest place, without a doubt,\nAalborg, Denmark, where hearts devout.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকার গরম নিশ্চিতভাবে বৃদ্ধি পাবে,\nত্রিশ ডিগ্রি, একটি আর্দ্র ধরন,\nযখন কোপেনহেগেনের মেঘ জমা হবে।\nঅ্যালবর্গের সৌম্য বাতাস, একটি আশ্রয় খুঁজে পাওয়া,\nষোল ডিগ্রি, সূর্যালোকের সাথে বেঁধে,\nসবচেয়ে ভালো জায়গা, কোন সন্দেহ নেই,\nঅ্যালবর্গ, ডেনমার্ক, যেখানে হৃদয় ভক্তি করে।"
 }
