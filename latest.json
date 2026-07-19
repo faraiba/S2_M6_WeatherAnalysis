@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-20",
-      "temperature_2m_max": 30.8,
-      "precipitation_sum": 6.1,
-      "wind_speed_10m_max": 12.6,
-      "relative_humidity_2m_mean": 89
+      "forecast_date": "2026-07-21",
+      "temperature_2m_max": 29.8,
+      "precipitation_sum": 14.5,
+      "wind_speed_10m_max": 13.7,
+      "relative_humidity_2m_mean": 91
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-19",
-      "temperature_2m_max": 19.9,
-      "precipitation_sum": 15.6,
-      "wind_speed_10m_max": 19.1,
-      "relative_humidity_2m_mean": 78
+      "forecast_date": "2026-07-20",
+      "temperature_2m_max": 21.1,
+      "precipitation_sum": 1.5,
+      "wind_speed_10m_max": 21.6,
+      "relative_humidity_2m_mean": 74
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-19",
-      "temperature_2m_max": 16.0,
-      "precipitation_sum": 1.5,
-      "wind_speed_10m_max": 22.7,
-      "relative_humidity_2m_mean": 84
+      "forecast_date": "2026-07-20",
+      "temperature_2m_max": 22.7,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 19.4,
+      "relative_humidity_2m_mean": 56
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat will surely swell,\nThirty degrees, a humid grasp,\nWhile Copenhagen's clouds will amass.\nAalborg's gentle breeze, a haven found,\nSixteen degrees, with sunshine unbound,\nThe nicest place, without a doubt,\nAalborg, Denmark, where hearts devout.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকার গরম নিশ্চিতভাবে বৃদ্ধি পাবে,\nত্রিশ ডিগ্রি, একটি আর্দ্র ধরন,\nযখন কোপেনহেগেনের মেঘ জমা হবে।\nঅ্যালবর্গের সৌম্য বাতাস, একটি আশ্রয় খুঁজে পাওয়া,\nষোল ডিগ্রি, সূর্যালোকের সাথে বেঁধে,\nসবচেয়ে ভালো জায়গা, কোন সন্দেহ নেই,\nঅ্যালবর্গ, ডেনমার্ক, যেখানে হৃদয় ভক্তি করে।"
+  "poem": "Tomorrow's skies, a tale of three places told,\nDhaka's heat and rain, a humid fold,\nCopenhagen's breeze, a gentle sway,\nBut Aalborg's sunshine, comes out to play.\nWith clear blue skies, and a gentle wind,\nAalborg, Denmark, is where you'd want to be, to unwind.\n\nআগামী দিনের আকাশ, তিন স্থানের গল্প,\nঢাকার গরম ও বৃষ্টি, এক আর্দ্র মোড়,\nকোপেনহেগেনের বাতাস, এক সুন্দর নাচ,\nকিন্তু অলবোর্গের সূর্য, খেলে সবচেয়ে ভালো।\nপরিষ্কার আকাশ ও মনোরম বাতাসে,\nঅলবোর্গ, ডেনমার্ক, সেখানেই থাকতে চাইবেন, আপনি।"
 }
