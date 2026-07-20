@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-21",
-      "temperature_2m_max": 29.8,
-      "precipitation_sum": 14.5,
-      "wind_speed_10m_max": 13.7,
-      "relative_humidity_2m_mean": 91
+      "forecast_date": "2026-07-22",
+      "temperature_2m_max": 30.5,
+      "precipitation_sum": 15.7,
+      "wind_speed_10m_max": 13.5,
+      "relative_humidity_2m_mean": 90
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-20",
-      "temperature_2m_max": 21.1,
-      "precipitation_sum": 1.5,
-      "wind_speed_10m_max": 21.6,
-      "relative_humidity_2m_mean": 74
+      "forecast_date": "2026-07-21",
+      "temperature_2m_max": 25.1,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 17.6,
+      "relative_humidity_2m_mean": 45
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-20",
-      "temperature_2m_max": 22.7,
+      "forecast_date": "2026-07-21",
+      "temperature_2m_max": 24.5,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.4,
-      "relative_humidity_2m_mean": 56
+      "wind_speed_10m_max": 29.2,
+      "relative_humidity_2m_mean": 72
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three places told,\nDhaka's heat and rain, a humid fold,\nCopenhagen's breeze, a gentle sway,\nBut Aalborg's sunshine, comes out to play.\nWith clear blue skies, and a gentle wind,\nAalborg, Denmark, is where you'd want to be, to unwind.\n\nআগামী দিনের আকাশ, তিন স্থানের গল্প,\nঢাকার গরম ও বৃষ্টি, এক আর্দ্র মোড়,\nকোপেনহেগেনের বাতাস, এক সুন্দর নাচ,\nকিন্তু অলবোর্গের সূর্য, খেলে সবচেয়ে ভালো।\nপরিষ্কার আকাশ ও মনোরম বাতাসে,\nঅলবোর্গ, ডেনমার্ক, সেখানেই থাকতে চাইবেন, আপনি।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen, calm and bright, a gentle breeze,\nAalborg, windy, with a cooler tease.\nCopenhagen, Denmark, the nicest place to be,\nWith sunshine and a gentle sea.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায়, গরম আর বৃষ্টি থাকবে,\nকোপেনহেগেন, শান্ত আর উজ্জ্বল, একটি সুন্দর বাতাস,\nঅলবোর্গ, বাতাসী, একটি শীতল পরিবেশে।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা,\nসূর্যের আলো আর একটি সুন্দর সাগরের সাথে।"
 }
