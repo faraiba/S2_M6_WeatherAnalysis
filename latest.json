@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-23",
-      "temperature_2m_max": 29.8,
-      "precipitation_sum": 12.2,
-      "wind_speed_10m_max": 15.8,
-      "relative_humidity_2m_mean": 91
+      "forecast_date": "2026-07-24",
+      "temperature_2m_max": 31.0,
+      "precipitation_sum": 14.2,
+      "wind_speed_10m_max": 11.6,
+      "relative_humidity_2m_mean": 87
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-22",
-      "temperature_2m_max": 20.8,
-      "precipitation_sum": 0.4,
-      "wind_speed_10m_max": 20.2,
-      "relative_humidity_2m_mean": 71
+      "forecast_date": "2026-07-23",
+      "temperature_2m_max": 23.5,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 18.4,
+      "relative_humidity_2m_mean": 52
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-22",
-      "temperature_2m_max": 23.0,
+      "forecast_date": "2026-07-23",
+      "temperature_2m_max": 24.1,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 29.5,
-      "relative_humidity_2m_mean": 70
+      "wind_speed_10m_max": 18.0,
+      "relative_humidity_2m_mean": 60
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen, mild and calm, a sight to see,\nAalborg, windy, yet sunshine will be.\nCopenhagen, Denmark, the nicest place to be.\n\nআগামীদিনের আকাশ, একটি গল্প বলবে,\nঢাকায়, গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেন, মৃদু এবং শান্ত, একটি দৃশ্য দেখতে,\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা হবে।"
+  "poem": "Tomorrow's forecast unfolds,\nDhaka's heat and rain, a sweltering hold,\nCopenhagen's gentle breeze, a pleasant sight,\nAalborg's calm, yet Copenhagen shines so bright.\nIt would be nicest to be in Copenhagen, Denmark, tomorrow, \nwith its mild temperature and serene atmosphere.\n\nআগামীদিনের আবহাওয়ার বর্ণনা,\nঢাকার গরম ও বৃষ্টি, এক অসহ্য অবস্থা,\nকোপেনহেগেনের মনোরম বাতাস, এক সুন্দর দৃশ্য,\nঅ্যালবর্গের শান্ত, কিন্তু কোপেনহেগেন চমকে উজ্জ্বল।\nকোপেনহেগেন, ডেনমার্কে থাকা হবে আগামীদিন সবচেয়ে ভাল, \nতার মৃদু তাপমাত্রা ও শান্ত বায়ুমণ্ডলের সাথে।"
 }
