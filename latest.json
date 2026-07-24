@@ -7,10 +7,10 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-25",
-      "temperature_2m_max": 32.0,
-      "precipitation_sum": 3.9,
-      "wind_speed_10m_max": 14.0,
+      "forecast_date": "2026-07-26",
+      "temperature_2m_max": 31.7,
+      "precipitation_sum": 5.6,
+      "wind_speed_10m_max": 16.3,
       "relative_humidity_2m_mean": 83
     },
     {
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-24",
-      "temperature_2m_max": 22.5,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 16.6,
-      "relative_humidity_2m_mean": 62
+      "forecast_date": "2026-07-25",
+      "temperature_2m_max": 23.3,
+      "precipitation_sum": 0.5,
+      "wind_speed_10m_max": 22.0,
+      "relative_humidity_2m_mean": 66
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-24",
-      "temperature_2m_max": 20.0,
-      "precipitation_sum": 0.1,
-      "wind_speed_10m_max": 30.2,
-      "relative_humidity_2m_mean": 76
+      "forecast_date": "2026-07-25",
+      "temperature_2m_max": 20.2,
+      "precipitation_sum": 1.9,
+      "wind_speed_10m_max": 24.5,
+      "relative_humidity_2m_mean": 83
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat, a sweltering spell,\nCopenhagen's breeze, a gentle hush,\nAalborg's winds, a chilly rush.\nCopenhagen, Denmark, the nicest place to be,\nWith mild temperatures, a perfect spree.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকার গরম, একটি দমনমূলক মন্ত্র,\nকোপেনহেগেনের বাতাস, একটি নরম শান্ত,\nঅলবোর্গের বাতাস, একটি শীতল ধাক্কা।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা থাকার জন্য,\nমৃদু তাপমাত্রা, একটি নিখুঁত অনুষ্ঠান।"
+  "poem": "As tomorrow dawns, three cities await,\nDhaka's heat, Copenhagen's gentle state,\nAalborg's chill, with winds that do blow,\nCopenhagen, Denmark, the best place to go.\n\nCopenhagen-e Denmark, shreshtho sthan,\nDhaka-r garmi, Aalborg-er thanda, \nCopenhagen-er modhura brishti, shanti,\nSei shahar, shreshtho, anander sthan."
 }
