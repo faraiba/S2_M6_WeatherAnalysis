@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-26",
-      "temperature_2m_max": 31.7,
-      "precipitation_sum": 5.6,
-      "wind_speed_10m_max": 16.3,
-      "relative_humidity_2m_mean": 83
+      "forecast_date": "2026-07-27",
+      "temperature_2m_max": 31.5,
+      "precipitation_sum": 5.1,
+      "wind_speed_10m_max": 19.3,
+      "relative_humidity_2m_mean": 84
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-25",
-      "temperature_2m_max": 23.3,
-      "precipitation_sum": 0.5,
-      "wind_speed_10m_max": 22.0,
-      "relative_humidity_2m_mean": 66
+      "forecast_date": "2026-07-26",
+      "temperature_2m_max": 19.0,
+      "precipitation_sum": 1.5,
+      "wind_speed_10m_max": 16.9,
+      "relative_humidity_2m_mean": 75
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-25",
-      "temperature_2m_max": 20.2,
-      "precipitation_sum": 1.9,
-      "wind_speed_10m_max": 24.5,
-      "relative_humidity_2m_mean": 83
+      "forecast_date": "2026-07-26",
+      "temperature_2m_max": 19.1,
+      "precipitation_sum": 0.6,
+      "wind_speed_10m_max": 21.2,
+      "relative_humidity_2m_mean": 76
     }
   ],
-  "poem": "As tomorrow dawns, three cities await,\nDhaka's heat, Copenhagen's gentle state,\nAalborg's chill, with winds that do blow,\nCopenhagen, Denmark, the best place to go.\n\nCopenhagen-e Denmark, shreshtho sthan,\nDhaka-r garmi, Aalborg-er thanda, \nCopenhagen-er modhura brishti, shanti,\nSei shahar, shreshtho, anander sthan."
+  "poem": "Tomorrow's skies, a tale of three places told,\nDhaka's heat waves rise, with temperatures to mold,\nCopenhagen's gentle breeze, a respite from the sun,\nAalborg's calm and clear, the day has just begun.\nWith lesser rain and wind, Aalborg's the place to be,\nA soothing atmosphere, for you and me.\n\nআগামীদিনের আকাশ, তিন স্থানের কথা,\nঢাকার তাপ বৃদ্ধি, তাপমাত্রা নিয়ন্ত্রণ,\nকোপেনহেগেনের মনোরম বাতাস, সূর্য থেকে বিরতি,\nআলবর্গের শান্ত ও পরিষ্কার, দিন শুরু হয়েছে।\nকম বর্ষা ও বাতাস, আলবর্গ হল থাকার জায়গা,\nএকটি শান্ত বাতাস, আপনার ও আমার জন্য।"
 }
