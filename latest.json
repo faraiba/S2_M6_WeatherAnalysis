@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-27",
+      "forecast_date": "2026-07-28",
       "temperature_2m_max": 31.5,
-      "precipitation_sum": 5.1,
-      "wind_speed_10m_max": 19.3,
-      "relative_humidity_2m_mean": 84
+      "precipitation_sum": 6.9,
+      "wind_speed_10m_max": 18.2,
+      "relative_humidity_2m_mean": 83
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,10 +20,10 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-26",
-      "temperature_2m_max": 19.0,
-      "precipitation_sum": 1.5,
-      "wind_speed_10m_max": 16.9,
+      "forecast_date": "2026-07-27",
+      "temperature_2m_max": 18.8,
+      "precipitation_sum": 25.0,
+      "wind_speed_10m_max": 29.5,
       "relative_humidity_2m_mean": 75
     },
     {
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-26",
-      "temperature_2m_max": 19.1,
-      "precipitation_sum": 0.6,
-      "wind_speed_10m_max": 21.2,
-      "relative_humidity_2m_mean": 76
+      "forecast_date": "2026-07-27",
+      "temperature_2m_max": 18.4,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 35.3,
+      "relative_humidity_2m_mean": 69
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three places told,\nDhaka's heat waves rise, with temperatures to mold,\nCopenhagen's gentle breeze, a respite from the sun,\nAalborg's calm and clear, the day has just begun.\nWith lesser rain and wind, Aalborg's the place to be,\nA soothing atmosphere, for you and me.\n\nআগামীদিনের আকাশ, তিন স্থানের কথা,\nঢাকার তাপ বৃদ্ধি, তাপমাত্রা নিয়ন্ত্রণ,\nকোপেনহেগেনের মনোরম বাতাস, সূর্য থেকে বিরতি,\nআলবর্গের শান্ত ও পরিষ্কার, দিন শুরু হয়েছে।\nকম বর্ষা ও বাতাস, আলবর্গ হল থাকার জায়গা,\nএকটি শান্ত বাতাস, আপনার ও আমার জন্য।"
+  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's rain, a gloomy grey,\nAalborg's calm, a sunny day.\nWith winds that blow and humidity low,\nAalborg, Denmark, the nicest place to go.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সাগর,\nকোপেনহেগেনের বৃষ্টি, একটি মেঘলা দিন,\nঅলবর্গের শান্ত, একটি সূর্যোজ্জ্বল দিন।\nবাতাস বয় আর আর্দ্রতা কম,\nঅলবর্গ, ডেনমার্ক, সবচেয়ে ভালো জায়গা থাকার জন্য।"
 }
