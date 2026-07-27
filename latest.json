@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-28",
-      "temperature_2m_max": 31.5,
-      "precipitation_sum": 6.9,
-      "wind_speed_10m_max": 18.2,
-      "relative_humidity_2m_mean": 83
+      "forecast_date": "2026-07-29",
+      "temperature_2m_max": 30.2,
+      "precipitation_sum": 8.0,
+      "wind_speed_10m_max": 18.8,
+      "relative_humidity_2m_mean": 85
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-27",
-      "temperature_2m_max": 18.8,
-      "precipitation_sum": 25.0,
-      "wind_speed_10m_max": 29.5,
-      "relative_humidity_2m_mean": 75
+      "forecast_date": "2026-07-28",
+      "temperature_2m_max": 23.8,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 25.2,
+      "relative_humidity_2m_mean": 57
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-27",
-      "temperature_2m_max": 18.4,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 35.3,
+      "forecast_date": "2026-07-28",
+      "temperature_2m_max": 21.6,
+      "precipitation_sum": 0.3,
+      "wind_speed_10m_max": 33.1,
       "relative_humidity_2m_mean": 69
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat, a sweltering sea,\nCopenhagen's rain, a gloomy grey,\nAalborg's calm, a sunny day.\nWith winds that blow and humidity low,\nAalborg, Denmark, the nicest place to go.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম, একটি উত্তপ্ত সাগর,\nকোপেনহেগেনের বৃষ্টি, একটি মেঘলা দিন,\nঅলবর্গের শান্ত, একটি সূর্যোজ্জ্বল দিন।\nবাতাস বয় আর আর্দ্রতা কম,\nঅলবর্গ, ডেনমার্ক, সবচেয়ে ভালো জায়গা থাকার জন্য।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nAalborg's winds will whisper low,\nBut Copenhagen, Denmark, the best to know.\nIts gentle breeze and cloudless day,\nMake it the perfect place to stay.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায় গরম ও বৃষ্টি থাকবে,\nআলবোর্গের বাতাস নিচু কথা বলবে,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা।\nএর নম্র বাতাস ও মেঘহীন দিন,\nএটিকে থাকার জন্য নিখুঁত জায়গা করে তোলে।"
 }
