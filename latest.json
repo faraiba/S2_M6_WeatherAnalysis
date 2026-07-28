@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-29",
-      "temperature_2m_max": 30.2,
-      "precipitation_sum": 8.0,
-      "wind_speed_10m_max": 18.8,
-      "relative_humidity_2m_mean": 85
+      "forecast_date": "2026-07-30",
+      "temperature_2m_max": 30.3,
+      "precipitation_sum": 10.6,
+      "wind_speed_10m_max": 17.8,
+      "relative_humidity_2m_mean": 88
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-28",
-      "temperature_2m_max": 23.8,
+      "forecast_date": "2026-07-29",
+      "temperature_2m_max": 26.5,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 25.2,
-      "relative_humidity_2m_mean": 57
+      "wind_speed_10m_max": 16.2,
+      "relative_humidity_2m_mean": 65
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-28",
-      "temperature_2m_max": 21.6,
-      "precipitation_sum": 0.3,
-      "wind_speed_10m_max": 33.1,
-      "relative_humidity_2m_mean": 69
+      "forecast_date": "2026-07-29",
+      "temperature_2m_max": 27.1,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 19.4,
+      "relative_humidity_2m_mean": 77
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nAalborg's winds will whisper low,\nBut Copenhagen, Denmark, the best to know.\nIts gentle breeze and cloudless day,\nMake it the perfect place to stay.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায় গরম ও বৃষ্টি থাকবে,\nআলবোর্গের বাতাস নিচু কথা বলবে,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা।\nএর নম্র বাতাস ও মেঘহীন দিন,\nএটিকে থাকার জন্য নিখুঁত জায়গা করে তোলে।"
+  "poem": "Tomorrow's skies, a varied stage,\nDhaka's heat and rain, a sweltering cage,\nAalborg's breeze, a gentle, cloudy sway,\nBut Copenhagen, Denmark, shines, come what may.\nIts mild warmth and clear skies, a haven to be,\nMake it the nicest place, for you and me.\n\nআগামী দিনের আকাশ, এক বৈচিত্র্যময় রঙিন পরদা,\nঢাকার গরম ও বৃষ্টি, এক প্রকর অস্বস্তিকর অবস্থা,\nআলবর্গের বাতাস, এক সুন্দর মেঘলা দিন,\nকিন্তু কোপেনহেগন, ডেনমার্ক, সবচেয়ে সুন্দর জায়গা, সেখানেই থাকা উচিত।"
 }
