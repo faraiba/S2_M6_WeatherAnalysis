@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-07-31",
-      "temperature_2m_max": 30.7,
-      "precipitation_sum": 2.3,
-      "wind_speed_10m_max": 12.3,
-      "relative_humidity_2m_mean": 85
+      "forecast_date": "2026-08-01",
+      "temperature_2m_max": 31.5,
+      "precipitation_sum": 3.1,
+      "wind_speed_10m_max": 13.1,
+      "relative_humidity_2m_mean": 86
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-30",
-      "temperature_2m_max": 30.5,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 16.9,
-      "relative_humidity_2m_mean": 57
+      "forecast_date": "2026-07-31",
+      "temperature_2m_max": 24.0,
+      "precipitation_sum": 1.5,
+      "wind_speed_10m_max": 21.6,
+      "relative_humidity_2m_mean": 55
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-30",
-      "temperature_2m_max": 32.5,
+      "forecast_date": "2026-07-31",
+      "temperature_2m_max": 19.8,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 29.2,
-      "relative_humidity_2m_mean": 58
+      "wind_speed_10m_max": 19.8,
+      "relative_humidity_2m_mean": 66
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three places told,\nDhaka's heat and humidity, a sweltering hold,\nAalborg's windy day, with temperatures high,\nBut Copenhagen, Denmark, a gentle summer sky.\nThe best place to be, with sunshine bright,\nIs Copenhagen, Denmark, a delightful sight.\n\nআগামীকালের আকাশ, তিনটি স্থানের কথা,\nঢাকার গরম ও আর্দ্রতা, একটি অসহ্য ধরন,\nঅলবোর্গের বাতাসের দিন, উচ্চ তাপমাত্রা,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, একটি সুন্দর গ্রীষ্মের আকাশ।\nসেরা জায়গা, যেখানে সূর্যের আলো উজ্জ্বল,\nসেটি হল কোপেনহেগেন, ডেনমার্ক, একটি চমৎকার দৃশ্য।"
+  "poem": "As tomorrow dawns, three cities await,\nDhaka's heat, Copenhagen's breeze to abate,\nAalborg's calm, with gentle wind and sky,\nThe nicest place to be, with weather dry.\nAalborg, Denmark, a haven from the heat,\nInvites you to bask in its gentle treat.\n\nআগামীকাল ভোরে, তিনটি শহর অপেক্ষা করছে,\nঢাকার গরম, কোপেনহেগেনের বাতাস থামতে,\nঅলবোর্গের শান্ত, নির্মল আকাশে,\nসবচেয়ে ভালো জায়গা, যেখানে শুষ্ক আবহাওয়া।\nঅলবোর্গ, ডেনমার্ক, একটি নিরাপদ আশ্রয়,\nআপনাকে আমন্ত্রণ জানাচ্ছে এর নির্মল আনন্দে।"
 }
