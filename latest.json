@@ -7,10 +7,10 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-08-01",
-      "temperature_2m_max": 31.5,
-      "precipitation_sum": 3.1,
-      "wind_speed_10m_max": 13.1,
+      "forecast_date": "2026-08-02",
+      "temperature_2m_max": 32.0,
+      "precipitation_sum": 4.1,
+      "wind_speed_10m_max": 14.1,
       "relative_humidity_2m_mean": 86
     },
     {
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-07-31",
-      "temperature_2m_max": 24.0,
-      "precipitation_sum": 1.5,
-      "wind_speed_10m_max": 21.6,
-      "relative_humidity_2m_mean": 55
+      "forecast_date": "2026-08-01",
+      "temperature_2m_max": 22.6,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 15.1,
+      "relative_humidity_2m_mean": 50
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-07-31",
-      "temperature_2m_max": 19.8,
+      "forecast_date": "2026-08-01",
+      "temperature_2m_max": 22.2,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.8,
-      "relative_humidity_2m_mean": 66
+      "wind_speed_10m_max": 20.2,
+      "relative_humidity_2m_mean": 68
     }
   ],
-  "poem": "As tomorrow dawns, three cities await,\nDhaka's heat, Copenhagen's breeze to abate,\nAalborg's calm, with gentle wind and sky,\nThe nicest place to be, with weather dry.\nAalborg, Denmark, a haven from the heat,\nInvites you to bask in its gentle treat.\n\nআগামীকাল ভোরে, তিনটি শহর অপেক্ষা করছে,\nঢাকার গরম, কোপেনহেগেনের বাতাস থামতে,\nঅলবোর্গের শান্ত, নির্মল আকাশে,\nসবচেয়ে ভালো জায়গা, যেখানে শুষ্ক আবহাওয়া।\nঅলবোর্গ, ডেনমার্ক, একটি নিরাপদ আশ্রয়,\nআপনাকে আমন্ত্রণ জানাচ্ছে এর নির্মল আনন্দে।"
+  "poem": "Tomorrow's skies, so different lie,\nIn Dhaka, heat will touch the sky,\n32 degrees, a sweltering high,\nWhile Copenhagen, gentle, with 22 degrees by.\nAalborg's winds will whisper low,\nBut Copenhagen's calm, is where to go.\n\nআগামী দিনের আকাশ, এত ভিন্ন হবে,\nঢাকায় গরম, আকাশ স্পর্শ করবে,\n৩২ ডিগ্রি, এক অসহ্য উচ্চতা,\nযখন কোপেনহেগেন, ধীর, ২২ ডিগ্রি নিয়ে।\nআলবোর্গের বাতাস নিচু স্বরে শুনাবে,\nকিন্তু কোপেনহেগেনের শান্তি, সেখানেই যেতে হবে।"
 }
