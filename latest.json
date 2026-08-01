@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-08-02",
-      "temperature_2m_max": 32.0,
-      "precipitation_sum": 4.1,
-      "wind_speed_10m_max": 14.1,
-      "relative_humidity_2m_mean": 86
+      "forecast_date": "2026-08-03",
+      "temperature_2m_max": 31.7,
+      "precipitation_sum": 7.2,
+      "wind_speed_10m_max": 13.8,
+      "relative_humidity_2m_mean": 85
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-08-01",
-      "temperature_2m_max": 22.6,
+      "forecast_date": "2026-08-02",
+      "temperature_2m_max": 22.3,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 15.1,
-      "relative_humidity_2m_mean": 50
+      "wind_speed_10m_max": 14.4,
+      "relative_humidity_2m_mean": 58
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-08-01",
-      "temperature_2m_max": 22.2,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 20.2,
-      "relative_humidity_2m_mean": 68
+      "forecast_date": "2026-08-02",
+      "temperature_2m_max": 20.7,
+      "precipitation_sum": 2.5,
+      "wind_speed_10m_max": 23.0,
+      "relative_humidity_2m_mean": 67
     }
   ],
-  "poem": "Tomorrow's skies, so different lie,\nIn Dhaka, heat will touch the sky,\n32 degrees, a sweltering high,\nWhile Copenhagen, gentle, with 22 degrees by.\nAalborg's winds will whisper low,\nBut Copenhagen's calm, is where to go.\n\nআগামী দিনের আকাশ, এত ভিন্ন হবে,\nঢাকায় গরম, আকাশ স্পর্শ করবে,\n৩২ ডিগ্রি, এক অসহ্য উচ্চতা,\nযখন কোপেনহেগেন, ধীর, ২২ ডিগ্রি নিয়ে।\nআলবোর্গের বাতাস নিচু স্বরে শুনাবে,\nকিন্তু কোপেনহেগেনের শান্তি, সেখানেই যেতে হবে।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen, calm and bright, a gentle breeze,\nAalborg, windy, with clouds that freeze.\nCopenhagen, Denmark, the nicest place to be,\nWith sunshine and calm, a perfect day to see.\n\nআগামী দিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকায়, গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেন, শান্ত এবং উজ্জ্বল, একটি সুন্দর বাতাস,\nঅলবোর্গ, বাতাসী, মেঘের সাথে হিম করা।\nকোপেনহেগেন, ডেনমার্ক, থাকার জন্য সবচেয়ে সুন্দর জায়গা,\nসূর্যালোক এবং শান্ত, একটি নিখুঁত দিন দেখার জন্য।"
 }
