@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-08-04",
-      "temperature_2m_max": 32.1,
-      "precipitation_sum": 5.8,
-      "wind_speed_10m_max": 14.6,
-      "relative_humidity_2m_mean": 87
+      "forecast_date": "2026-08-05",
+      "temperature_2m_max": 31.0,
+      "precipitation_sum": 9.9,
+      "wind_speed_10m_max": 13.7,
+      "relative_humidity_2m_mean": 89
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-08-03",
-      "temperature_2m_max": 25.6,
+      "forecast_date": "2026-08-04",
+      "temperature_2m_max": 23.8,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 13.3,
-      "relative_humidity_2m_mean": 52
+      "wind_speed_10m_max": 18.4,
+      "relative_humidity_2m_mean": 66
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-08-03",
-      "temperature_2m_max": 22.1,
+      "forecast_date": "2026-08-04",
+      "temperature_2m_max": 24.2,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 13.0,
-      "relative_humidity_2m_mean": 70
+      "wind_speed_10m_max": 24.5,
+      "relative_humidity_2m_mean": 72
     }
   ],
-  "poem": "As tomorrow dawns, three cities come to mind,\nDhaka's heat and rain, a sweltering find.\nCopenhagen's gentle, with a breeze so light,\nBut Aalborg's charm, is where I'd take flight.\nWith temperatures mild, and skies so bright,\nAalborg, Denmark, is where it's nicest to be in sight.\n\nআগামীকাল ভোরে, তিনটি শহর মনে আসে,\nঢাকার গরম ও বৃষ্টি, একটি দাঁড়বাঁধা খোঁজ।\nকোপেনহেগেনের নম্র, একটি হালকা বাতাসে,\nকিন্তু অলবোর্গের মোহ, সেখানে উড়ে যাই।\nমৃদু তাপমাত্রা এবং আকাশ আলোকিত,\nঅলবোর্গ, ডেনমার্ক, সেখানে সবচেয়ে ভালো থাকা উচিত।"
+  "poem": "Tomorrow's skies, so different and wide,\nDhaka's heat will rise, with precipitation inside,\nCopenhagen's breeze, a gentle caress, \nAalborg's winds, a bit stronger, we must confess.\nCopenhagen, Denmark, the nicest place to be,\nWith mild temps and clear skies, a perfect symphony.\n\nআগামী দিনের আকাশ, এত ভিন্ন ও প্রশস্ত,\nঢাকার তাপ বাড়বে, বৃষ্টির সাথে মিশে,\nকোপেনহেগেনের বাতাস, একটি সুন্দর স্পর্শ,\nআলবোর্গের হাওয়া, একটু শক্ত, আমরা স্বীকার করি।\nকোপেনহেগেন, ডেনমার্ক, থাকার সেরা জায়গা,\nমৃদু তাপমাত্রা এবং পরিষ্কার আকাশ, একটি নিখুঁত সঙ্গীত।"
 }
