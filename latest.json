@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-08-06",
-      "temperature_2m_max": 28.0,
-      "precipitation_sum": 30.0,
-      "wind_speed_10m_max": 11.5,
-      "relative_humidity_2m_mean": 94
+      "forecast_date": "2026-08-07",
+      "temperature_2m_max": 28.7,
+      "precipitation_sum": 20.1,
+      "wind_speed_10m_max": 12.2,
+      "relative_humidity_2m_mean": 92
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-08-05",
-      "temperature_2m_max": 26.5,
-      "precipitation_sum": 1.2,
-      "wind_speed_10m_max": 20.5,
-      "relative_humidity_2m_mean": 72
+      "forecast_date": "2026-08-06",
+      "temperature_2m_max": 23.8,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 25.6,
+      "relative_humidity_2m_mean": 63
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-08-05",
-      "temperature_2m_max": 26.5,
-      "precipitation_sum": 24.5,
-      "wind_speed_10m_max": 24.5,
-      "relative_humidity_2m_mean": 81
+      "forecast_date": "2026-08-06",
+      "temperature_2m_max": 19.1,
+      "precipitation_sum": 0.0,
+      "wind_speed_10m_max": 34.2,
+      "relative_humidity_2m_mean": 80
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat and rain, a story to compel,\nCopenhagen's gentle breeze, a haven to dwell,\nAalborg's windy showers, a contrast to tell.\nCopenhagen, Denmark, the nicest place to be,\nWith mild temperatures and humidity, a perfect spree.\n\nআগামীদিনের আকাশ, একটি গল্প বল,\nঢাকার গরম ও বৃষ্টি, একটি গল্প যা আহ্বান করে,\nকোপেনহেগেনের নম্র বাতাস, একটি স্বর্গ যেখানে বাস করা যায়,\nঅলবোর্গের বাতাস ও বৃষ্টি, একটি তুলনা যা বলা যায়।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা যেখানে থাকা যায়,\nমৃদু তাপমাত্রা ও আর্দ্রতা, একটি নিখুঁত অনুভূতি।"
+  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat and rain will dwell,\nCopenhagen's gentle breeze will sway,\nAalborg's winds will blow, come what may.\nAmong these three, one stands apart,\nCopenhagen, Denmark, a gentle heart,\nWhere sunshine meets a gentle air,\nMaking it the nicest place to be, beyond compare.\n\nআগামীদিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকার গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেনের নরম বাতাস নাচবে,\nআলবোর্গের বাতাস বয়ে যাবে, যা আসে তা হবে।\nএই তিনটির মধ্যে, একটি আলাদা দাঁড়ায়,\nকোপেনহেগেন, ডেনমার্ক, একটি নরম হৃদয়,\nযেখানে সূর্যের আলো একটি নরম বাতাসের সাথে মিলিত হয়,\nএটিকে সবচেয়ে সুন্দর জায়গা করে তোলে, তুলনা ছাড়াই।"
 }
