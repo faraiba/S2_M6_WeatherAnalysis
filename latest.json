@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-08-07",
-      "temperature_2m_max": 28.7,
-      "precipitation_sum": 20.1,
-      "wind_speed_10m_max": 12.2,
-      "relative_humidity_2m_mean": 92
+      "forecast_date": "2026-08-08",
+      "temperature_2m_max": 30.5,
+      "precipitation_sum": 11.1,
+      "wind_speed_10m_max": 14.1,
+      "relative_humidity_2m_mean": 87
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-08-06",
-      "temperature_2m_max": 23.8,
+      "forecast_date": "2026-08-08",
+      "temperature_2m_max": 22.8,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 25.6,
-      "relative_humidity_2m_mean": 63
+      "wind_speed_10m_max": 14.8,
+      "relative_humidity_2m_mean": 57
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-08-06",
-      "temperature_2m_max": 19.1,
+      "forecast_date": "2026-08-08",
+      "temperature_2m_max": 22.3,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 34.2,
-      "relative_humidity_2m_mean": 80
+      "wind_speed_10m_max": 22.7,
+      "relative_humidity_2m_mean": 62
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nDhaka's heat and rain will dwell,\nCopenhagen's gentle breeze will sway,\nAalborg's winds will blow, come what may.\nAmong these three, one stands apart,\nCopenhagen, Denmark, a gentle heart,\nWhere sunshine meets a gentle air,\nMaking it the nicest place to be, beyond compare.\n\nআগামীদিনের আকাশ, একটি গল্প বলার জন্য,\nঢাকার গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেনের নরম বাতাস নাচবে,\nআলবোর্গের বাতাস বয়ে যাবে, যা আসে তা হবে।\nএই তিনটির মধ্যে, একটি আলাদা দাঁড়ায়,\nকোপেনহেগেন, ডেনমার্ক, একটি নরম হৃদয়,\nযেখানে সূর্যের আলো একটি নরম বাতাসের সাথে মিলিত হয়,\nএটিকে সবচেয়ে সুন্দর জায়গা করে তোলে, তুলনা ছাড়াই।"
+  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nAalborg's winds will whisper low,\nBut Copenhagen, Denmark, the nicest to know.\nIts gentle breeze and sunny face,\nMake it the perfect, peaceful place.\n\nআগামী দিনের আকাশ, একটি গল্প বলে,\nঢাকায় গরম এবং বর্ষার ছায়া থাকবে,\nআলবর্গের বাতাস নিচু স্বরে শোনা যাবে,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা।\nএর নম্র বাতাস এবং সূর্যমুখী মুখ,\nএটিকে একটি নিখুঁত, শান্ত স্থান করে তোলে।"
 }
