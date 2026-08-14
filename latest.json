@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-08-15",
-      "temperature_2m_max": 30.8,
-      "precipitation_sum": 10.2,
-      "wind_speed_10m_max": 17.7,
-      "relative_humidity_2m_mean": 84
+      "forecast_date": "2026-08-16",
+      "temperature_2m_max": 30.5,
+      "precipitation_sum": 8.0,
+      "wind_speed_10m_max": 15.4,
+      "relative_humidity_2m_mean": 86
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-08-14",
-      "temperature_2m_max": 27.6,
+      "forecast_date": "2026-08-15",
+      "temperature_2m_max": 26.7,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 16.2,
-      "relative_humidity_2m_mean": 59
+      "wind_speed_10m_max": 18.4,
+      "relative_humidity_2m_mean": 58
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-08-14",
-      "temperature_2m_max": 32.1,
+      "forecast_date": "2026-08-15",
+      "temperature_2m_max": 24.3,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.1,
-      "relative_humidity_2m_mean": 52
+      "wind_speed_10m_max": 33.5,
+      "relative_humidity_2m_mean": 67
     }
   ],
-  "poem": "Tomorrow's skies, a tale of three,\nDhaka's heat and storms will be,\nAalborg's warmth with windy sway,\nBut Copenhagen, Denmark, is where to stay.\nIts gentle breeze and sunny face,\nMake it the nicest, a perfect place.\n\nআগামী দিনের আকাশ, তিনটি জায়গার গল্প,\nঢাকার গরম এবং ঝড় থাকবে,\nঅলবোর্গের গরম এবং বাতাসের ঢেউ,\nকিন্তু কোপেনহেগেন, ডেনমার্ক, সেখানে থাকা উচিত।\nএর নম্র বাতাস এবং সূর্যের মুখ,\nএটিকে সবচেয়ে সুন্দর, একটি নিখুঁত জায়গা করে তোলে।"
+  "poem": "Tomorrow's skies, a varied stage,\nDhaka's heat and rain, a sweltering age,\nCopenhagen's gentle breeze, a soothing sight,\nAalborg's windy chill, a contrasting night.\nCopenhagen, Denmark, the nicest place to be,\nWith warm sunshine and calm air, a haven for you and me.\n\nআগামীকালের আকাশ, এক বৈচিত্র্যময় রঙিন পর্দা,\nঢাকার গরম ও বৃষ্টি, এক গরম যুগ,\nকোপেনহেগেনের নিষ্পত্তিমূলক বাতাস, এক শান্ত দৃশ্য,\nআলবর্গের বাতাসী শীত, এক বিরোধী রাত।\nকোপেনহেগেন, ডেনমার্ক, সবচেয়ে ভালো জায়গা,\nউষ্ণ সূর্যের আলো এবং শান্ত বাতাস, আপনার জন্য এক স্বর্গ।"
 }
