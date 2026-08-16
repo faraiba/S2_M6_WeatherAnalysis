@@ -7,11 +7,11 @@
       "country": "Bangladesh",
       "latitude": 23.7104,
       "longitude": 90.40744,
-      "forecast_date": "2026-08-17",
-      "temperature_2m_max": 31.0,
-      "precipitation_sum": 12.1,
-      "wind_speed_10m_max": 18.0,
-      "relative_humidity_2m_mean": 89
+      "forecast_date": "2026-08-18",
+      "temperature_2m_max": 30.6,
+      "precipitation_sum": 11.5,
+      "wind_speed_10m_max": 17.3,
+      "relative_humidity_2m_mean": 88
     },
     {
       "label": "Last residence before Aalborg",
@@ -20,11 +20,11 @@
       "country": "Denmark",
       "latitude": 55.67594,
       "longitude": 12.56553,
-      "forecast_date": "2026-08-16",
-      "temperature_2m_max": 21.1,
-      "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 19.4,
-      "relative_humidity_2m_mean": 59
+      "forecast_date": "2026-08-17",
+      "temperature_2m_max": 20.9,
+      "precipitation_sum": 2.7,
+      "wind_speed_10m_max": 19.1,
+      "relative_humidity_2m_mean": 68
     },
     {
       "label": "Current city",
@@ -33,12 +33,12 @@
       "country": "Denmark",
       "latitude": 57.048,
       "longitude": 9.9187,
-      "forecast_date": "2026-08-16",
-      "temperature_2m_max": 19.6,
+      "forecast_date": "2026-08-17",
+      "temperature_2m_max": 20.7,
       "precipitation_sum": 0.0,
-      "wind_speed_10m_max": 32.0,
+      "wind_speed_10m_max": 24.5,
       "relative_humidity_2m_mean": 69
     }
   ],
-  "poem": "Tomorrow's skies, a tale to tell,\nIn Dhaka, heat and rain will dwell,\nCopenhagen, calm and bright, a gentle breeze,\nAalborg, windy, yet serene, with cloudy seas.\nCopenhagen, Denmark, is where I'd reside,\nWith mild temps and clear skies, it's the place to abide.\n\nআগামীদিনের আকাশ, একটি গল্প বলে,\nঢাকায়, গরম এবং বৃষ্টি থাকবে,\nকোপেনহেগেন, শান্ত এবং উজ্জ্বল, একটি সুখদ বাতাস,\nঅলবোর্গ, বাতাসী, তবে শান্ত, মেঘলা সমুদ্রসহ।\nকোপেনহেগেন, ডেনমার্ক, এখানেই থাকতে চাই,\nমৃদু তাপমাত্রা এবং পরিষ্কার আকাশ, এটি থাকার জন্য সেরা জায়গা।"
+  "poem": "Tomorrow's skies, a tale of three towns,\nDhaka's heat waves rise, with raindrops all around,\nCopenhagen's gentle breeze, with clouds that softly play,\nBut Aalborg's clear blue sky, is where I'd love to stay.\n\nআগামী দিনের আকাশ, তিন শহরের গাথা,\nঢাকার গরম তাপ, বৃষ্টির ফোঁটা সবার চারদিকে,\nকোপেনহেগেনের নম্র বাতাস, মেঘের নরম খেলা,\nকিন্তু অলবোর্গের পরিষ্কার নীল আকাশ, সেখানেই থাকতে পছন্দ করব।"
 }
